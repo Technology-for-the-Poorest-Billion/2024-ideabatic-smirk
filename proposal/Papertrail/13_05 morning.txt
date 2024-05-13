@@ -9,3 +9,5 @@ Strengths:
 Livvy - materials, heat transfer, SolidWorks (mid)
 Caio - materials, mechanisms, SolidWorks (mid)
 Dan - structures, mechanisms, SolidWorks (mid)
+
+Try to use OpenSCAD instead of SolidWorks as it's open source
