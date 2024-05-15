@@ -25,7 +25,9 @@ Daniel's weaknesses: GitHub, CAD, materials
 ## Training needed
 
 Daniel, Caio and Olivia need to learn how to use GitHub
+
 Daniel and Olivia need CAD training from Caio
+
 Daniel and Olivia need 3D printing training from Caio
 
 
