@@ -40,7 +40,11 @@ Costing, parts required
 
 ## The timeline
 
-Need to present a development timeline!!!
+A more detailed timeline is available, however the broad strokes are:
+Have a product definition and order of importance by the first few days
+Have rapid brainstorming and sketching/prototyping sessions just before the halfway point of the second week.
+Spend a week working on physical prototypes for the solutions, and coming up with well documented design decisions leading to a final product
+Have the last few days reserved for presenting the deliverables and making the report
 
 
 
