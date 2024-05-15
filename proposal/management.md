@@ -50,7 +50,7 @@ Using 3D printer, laser cutters and prototyping can be dangerous.
 
 
 
-3D printer:
+# 3D printer:
 
 We will not stand around the 3D printer when it is running to minimise the inhalation of particulates being created and exposure to chemical vapors.
 
@@ -61,11 +61,11 @@ We will wash our hands thoroughly after working with the 3D printer.
 For more information refer to the following departmental guidance document: https://whittle-intranet.eng.cam.ac.uk/3Dprinterriskassessment20151027.pdf
 
 
-Laser cutter:
+# Laser cutter:
 
 Refer to the following departmental guidance document: https://www.dysoncentre.eng.cam.ac.uk/laser-cutting/Risk_assessment_laser_cutters.pdf
 
-Prototyping:
+# Prototyping:
 
 We will be careful when using sharp cutting implements and make sure that there are at least two more people in the Dyson Centre when completing work - one person to help us and another person to call an ambulance if something goes wrong.
 
