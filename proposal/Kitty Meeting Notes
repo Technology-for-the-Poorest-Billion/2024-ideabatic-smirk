@@ -6,3 +6,28 @@ Then can stick a thermal blanket inside our 3D printed shell to do a thermal tes
 
 Probably have more of a focus on mechanisms (eg. door, carousel mechanism etc)
 3 weeks is not a lot of time
+Try to find a way to suspend 1L bottle in the middle of the device without bearings (as on the larger model)
+  - if at end think that bearing is still the best method then just use bearing
+
+
+Squidgy ice pack door was particular challenge for Kitty when designing full size smile
+  - inital hard first design did not alklow for expansion when freezing
+Initial door angle was too small so it was too small and difficult to get vaccines out
+  - Made angle of vacicne door longer
+Try and find a way to put vaccine record paper thing on device
+Don't try and make it too sophisticated at this stage - just get soemthing modelled out and start printing out
+
+
+Things to consider:
+  IP55 waterproofing - much less important in the developed world
+  Dustproof - much less important in the developed world
+  Spring lifetime
+  Opening angle
+  Stay closed during transport
+  Ergonomic - what happens if someone's fingers get trapped in the door?
+
+
+Use google drive instead of github - probably keep github on private as Kitty thinks it's just for code and there's no code involved involved with this project
+Kitty much prefers Google Drive as she doesn't have github brain
+
+Send Alexandre an email about using google drive instead of github
