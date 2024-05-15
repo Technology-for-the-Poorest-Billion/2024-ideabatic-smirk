@@ -1,11 +1,16 @@
 # Project management plan
 
+## Skills required for project
+
+CAD, prototyping, GitHub, 3D printing, mechanism design
+
 
 ## The people
 
+
 Olivia's strengths: materials, heat transfer, prototyping
 
-Caio's strengths: materials, mechanisms, CAD
+Caio's strengths: materials, mechanisms, CAD, 3D printing
 
 Daniel's strengths: structures, mechanisms, prototyping
 
