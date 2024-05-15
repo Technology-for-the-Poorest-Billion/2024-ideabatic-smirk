@@ -34,8 +34,9 @@ Daniel and Caio need laser cutting training from Olivia/Dyson Centre staff
 
 ## The resources needed
 
-
-Costing, parts required
+£5 for the 1L ice pack
+£15 for wood and plastic for lasercutting
+£20 for material cost of 3D printes
 
 
 ## The timeline
