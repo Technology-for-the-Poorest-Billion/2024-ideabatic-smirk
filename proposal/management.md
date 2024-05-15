@@ -75,8 +75,5 @@ We will wear safety glasses so that we don't get foreign objects in our eyes.
 
 
 ## Contengency plans
+Days have been allocated so as to allow for falling somewhat behind schedule, while still allowing time for a final presentation and creation of the report. This would let us keep the scope in check, and getting to at least one concrete finished product, as opposed to some half finished segments of the same product. If this allotted extra time is still not enough, we will try to limit the final 3D printing phase, and focus more on the ideas and reasoning behind them, as well as their CAD models. This staged approach to a few key aspects allows us to scale back if need be, but also allows us to have a deliverable. It also does not rely soley on a single person, so as to remove potential risks of delay.
 
-What could possibly go wrong?
-
-
-• What would you do when it happens?
