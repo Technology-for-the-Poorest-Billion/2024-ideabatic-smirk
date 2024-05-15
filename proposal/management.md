@@ -67,6 +67,11 @@ Refer to the following departmental guidance document: https://www.dysoncentre.e
 
 Prototyping:
 
+We will be careful when using sharp cutting implements and make sure that there are at least two more people in the Dyson Centre when completing work - one person to help us and another person to call an ambulance if something goes wrong.
+
+We will always place hot glue guns back on their stands when not in use, and won't ever place our hands below them to avoid burns if hot glue gun glue drips.
+
+We will wear safety glasses so that we don't get foreign objects in our eyes.
 
 
 ## Contengency plans
