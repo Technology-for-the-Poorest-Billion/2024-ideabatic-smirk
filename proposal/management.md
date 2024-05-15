@@ -8,11 +8,11 @@ CAD, prototyping, GitHub, 3D printing, mechanism design
 ## The people
 
 
-Olivia's strengths: materials, heat transfer, prototyping
+Olivia's strengths: materials, heat transfer, prototyping, teamwork
 
-Caio's strengths: materials, mechanisms, CAD, 3D printing
+Caio's strengths: materials, mechanisms, CAD, 3D printing, teamwork
 
-Daniel's strengths: structures, mechanisms, prototyping
+Daniel's strengths: structures, mechanisms, prototyping, teamwork
 
 
 Olivia's weaknesses: GitHub, CAD, structures
