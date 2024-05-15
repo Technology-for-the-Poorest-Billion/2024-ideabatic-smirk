@@ -46,6 +46,27 @@ Need to present a development timeline!!!
 
 ## The assessment of the risks and safety
 
+Using 3D printer, laser cutters and prototyping can be dangerous.
+
+
+
+3D printer:
+
+We will not stand around the 3D printer when it is running to minimise the inhalation of particulates being created and exposure to chemical vapors.
+
+We will not eat or drink in the room that contains the 3D printer.
+
+We will wash our hands thoroughly after working with the 3D printer.
+
+For more information refer to the following departmental guidance document: https://whittle-intranet.eng.cam.ac.uk/3Dprinterriskassessment20151027.pdf
+
+
+Laser cutter:
+
+Refer to the following departmental guidance document: https://www.dysoncentre.eng.cam.ac.uk/laser-cutting/Risk_assessment_laser_cutters.pdf
+
+Prototyping:
+
 
 
 ## Contengency plans
