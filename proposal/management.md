@@ -35,8 +35,12 @@ Daniel and Caio need laser cutting training from Olivia/Dyson Centre staff
 ## The resources needed
 
 
+Costing, parts required
+
 
 ## The timeline
+
+Need to present a development timeline!!!
 
 
 
@@ -45,3 +49,8 @@ Daniel and Caio need laser cutting training from Olivia/Dyson Centre staff
 
 
 ## Contengency plans
+
+What could possibly go wrong?
+
+
+• What would you do when it happens?
