@@ -59,6 +59,8 @@ https://docs.google.com/spreadsheets/d/1lHf84FvHK3wo1C1o2ZXZnzH8WmTzwfFZQhv2QLgO
 | ------------- | --------------  |------------|
 | Inhalation of particulates created and exposure to chemical vapors | Do not stand around 3D printer whilst in operation <br>Do not eat or drink in the room containing 3D printer<br>Wash hands thoroughly after working with 3D printer| Medium |
 | Risk of burns | Avoid touching printing nozzle head and molten plastic <br>Let part cool before handling  | Medium |
+|Entrapment of hand or arm by moving cutting head causing crush injury|Alwyas operate mahine with lid shut <br>Don’t place hands or arms in the potential path of the cutting head unnecessarily|Low|
+
 
 #### 3D printer:
 
