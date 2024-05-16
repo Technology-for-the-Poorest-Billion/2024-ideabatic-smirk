@@ -9,6 +9,7 @@ After coming up with and iterating on the designs on paper, we will begin rudime
 
 # Assessment of the quality of the proposal
 **Responsible**
+
 The proposal should cause no harm as the technology developed cannot easily be used in a harmful way. The ice pack bottle used if made form HDPE so could be recycled at end of life. Sustainably sourced or recycled materials should be considered for use in the shell and insulation, but compatibility with manufaturing methods must also be considered to reduce the cost of the end product. As a part of reducing the size of the cooler we will try to simplify the design and make it more modular, which will increase ease of dissassembly and recycling at end-of-life.
 
 **Responds to a genuine need**
