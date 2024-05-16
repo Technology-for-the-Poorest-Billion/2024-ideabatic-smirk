@@ -78,12 +78,8 @@ For more information refer to the following departmental guidance document: http
 | Hazard        | Control measure | Risk level |
 | ------------- | --------------  |------------|
 | Injury from sharp cutting implements| Be careful when using sharp cutting tools <br>Make sure that there are at least two more people in the Dyson Centre when completing work - one person to help us and another person to call an ambulance if something goes wrong|Medium|
-
-We will be careful when using sharp cutting implements and make sure that there are at least two more people in the Dyson Centre when completing work - one person to help us and another person to call an ambulance if something goes wrong.
-
-We will always place hot glue guns back on their stands when not in use, and won't ever place our hands below them to avoid burns if hot glue gun glue drips.
-
-We will wear safety glasses so that we don't get foreign objects in our eyes.
+|Burns from hot glue gun| Always place hot glue guns back on stand when not in use <br>Don't place hands below them incase glue gun drips| Low|
+|Foreign objects danger to eyes |Wear safety glasses| Low|
 
 
 ## Contengency plans
