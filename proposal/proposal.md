@@ -12,11 +12,13 @@ The lid has already gone through a lot of iterations on simplifying the design, 
 **The Carousel:**
 Currently the carousel is incredibly complex with a lot of moving parts, and modular vaccine holders. While this is good for versatility in areas where the vaccine bottles could be many sizes, the extra moulds required makes this a challenge to scale. We will look at ways to secutely hold the vaccine in such a way that they will not break during transit, while making them easy to take out from the inside.
 
-Another consideration is how the ice pack will fit into the central section of the carousel
+Another route we can look into is how the ice pack will fit into the central section of the carousel. This is currently done through a squishy section attached onto the locknig part of the ice pack holder, but there are multiple other ways we can improve this design to be scaled down in such a way that a 1L ice bottle can fit.
 
 **The Box:**
+The box is a design that can be played with, however we do not want to change the design language of the product, nor do we want to risk changing the already agreed upon design too much, and so we will look into what scale the whole box will be, and try to fit the other components onto this hypothetical scale
 
-After coming up with and iterating on the designs on paper, we will begin rudimentary 3d modelling of the final sketches, and start 3d printing said models to analyse what works and what doesn't. After the rapid prototyping and testing against the provided box, we will begin to refine our best ideas and attempt to create a more finalised 3d model which will be be ready to be delivered and in a finished state for the route we go down. Due to the time constraints, a full model with testing of the completed scaled down version may not be feasible, however rough calculations will be made so as to ensure the ice box will work for prolonged periods of time at a reasonable scale.
+
+After coming up with and iterating on these considerations on paper, we will begin rudimentary 3d modelling of the final sketches, and start 3d printing said models to analyse what works and what doesn't. After the rapid prototyping and testing against the provided box, we will begin to refine our best ideas and attempt to create a more finalised 3d model which will be be ready to be delivered and in a finished state for the route we go down. Due to the time constraints, a full model with testing of the completed scaled down version may not be feasible, however rough calculations will be made so as to ensure the ice box will work for prolonged periods of time at a reasonable scale.
 
 # Assessment of the quality of the proposal
 **Responsible**
