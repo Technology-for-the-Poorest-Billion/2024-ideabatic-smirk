@@ -46,7 +46,7 @@ Because this product will be an improvement on what is currently used and widely
 
 **Context appropriate**
 
-The current SMILE design for use in low income countries had to be designed to be robust in dusty and humid environments, and be able to keep the vacciens secure even during journeys over very rough terrain. For the coolbox for use in high income countries such as the UK, the effects of the climate will be much less severe, so dust proofing will be less of an issue and less insulation will be required. Waterproofing should be conisidered. 
+The current SMILE design for use in low income countries had to be designed to be robust in dusty and humid environments, and be able to keep the vaccines secure even during journeys over very rough terrain. For the coolbox for use in high income countries such as the UK, the effects of the climate will be much less severe, so dust proofing will be less of an issue and less insulation will be required. Waterproofing should be conisidered. 
 
 The product could be made to allow a temperature sensor and display (such as the one being developed by the other team working with IDEABATIC) to be added if desired by the user, by replacing the door module with one including this.
 
