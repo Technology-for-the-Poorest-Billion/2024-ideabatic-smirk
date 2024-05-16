@@ -57,7 +57,7 @@ Have the last few days reserved for presenting the deliverables and making the r
 
 | Hazard        | Control measure | Risk level |
 | ------------- | --------------  |------------|
-| Inhalation of particulates created <br>and exposure to chemical vapors | Do not stand around 3D printer whilst in operation <br>Do not eat or drink in the room containing 3D printer<br>Wash hands thoroughly after working with 3D printer| Medium |
+| Inhalation of particulates created and exposure to chemical vapors | Do not stand around 3D printer whilst in operation <br>Do not eat or drink in the room containing 3D printer<br>Wash hands thoroughly after working with 3D printer| Medium |
 | Risk of burns | Avoid touching printing nozzle head and molten plastic <br>Let part cool before handling  | Medium |
 
 #### 3D printer:
