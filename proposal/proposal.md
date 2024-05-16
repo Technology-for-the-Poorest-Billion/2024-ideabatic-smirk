@@ -4,6 +4,17 @@ The problem we are tackling is that of last mile vaccine transportation to rural
 
 # Presentation of the proposal
 We will begin with defining the problem, isolating the key components and determining their importance in the final design. This will help us get a feel for the current design and design considerations that must be taken when determining what to shrink, and how that would best be done. We will begin by looking at the threee major parts of the project: The lid, the carousel, and the box itself, and we will try and make it smaller so as to fit the 1L ice pack proposed by Kitty. 
+The initial end goals are:
+
+**The Lid:**
+The lid has already gone through a lot of iterations on simplifying the design, but more work could be done for a more scalable design. Right now the lid assembly consists of ~5 components. these may not scale perfectly to the smaller sizes while still being robust, and so we will be looking into how to shrink the lid opening, while still making the vaccines easily reachable and without significantly weakening the hinge
+
+**The Carousel:**
+Currently the carousel is incredibly complex with a lot of moving parts, and modular vaccine holders. While this is good for versatility in areas where the vaccine bottles could be many sizes, the extra moulds required makes this a challenge to scale. We will look at ways to secutely hold the vaccine in such a way that they will not break during transit, while making them easy to take out from the inside.
+
+Another consideration is how the ice pack will fit into the central section of the carousel
+
+**The Box:**
 
 After coming up with and iterating on the designs on paper, we will begin rudimentary 3d modelling of the final sketches, and start 3d printing said models to analyse what works and what doesn't. After the rapid prototyping and testing against the provided box, we will begin to refine our best ideas and attempt to create a more finalised 3d model which will be be ready to be delivered and in a finished state for the route we go down. Due to the time constraints, a full model with testing of the completed scaled down version may not be feasible, however rough calculations will be made so as to ensure the ice box will work for prolonged periods of time at a reasonable scale.
 
