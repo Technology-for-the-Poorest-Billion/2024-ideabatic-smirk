@@ -34,6 +34,8 @@ Daniel and Caio need laser cutting training from Olivia/Dyson Centre staff
 
 ## The resources needed
 
+As this project involves rapid prototyping of multiple design iterations it is hard to predict how much of each resource we will require, so an estimation is below: 
+
 | Resources     | Cost          |
 | ------------- | ------------- |
 | 1L ice pack   | £5            |
