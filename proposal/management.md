@@ -75,8 +75,8 @@ For more information refer to the following departmental guidance document: http
 
 | Hazard        | Control measure | Risk level |
 | ------------- | --------------  |------------|
-| Poisoning/gassing by fumes from material being cut | | Medium |
-| Risk of burns |  | Medium |
+| Poisoning/gassing by fumes from material being cut | Be aware of hazards from materials being cut <br>Ensure fume filter is running at sufficient speed| Medium |
+| Risk of burns | Don't leave machine unattended, and watch for flames <br>Don't cut highly flammable materials | Medium |
 
 
 Refer to the following departmental guidance document: https://www.dysoncentre.eng.cam.ac.uk/laser-cutting/Risk_assessment_laser_cutters.pdf
