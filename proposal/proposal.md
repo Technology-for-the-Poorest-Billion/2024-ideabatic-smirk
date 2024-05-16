@@ -8,6 +8,15 @@ We will begin with defining the problem, isolating the key components and determ
 After coming up with and iterating on the designs on paper, we will begin rudimentary 3d modelling of the final sketches, and start 3d printing said models to analyse what works and what doesn't. After the rapid prototyping and testing against the provided box, we will begin to refine our best ideas and attempt to create a more finalised 3d model which will be be ready to be delivered and in a finished state for the route we go down. Due to the time constraints, a full model with testing of the completed scaled down version may not be feasible, however rough calculations will be made so as to ensure the ice box will work for prolonged periods of time at a reasonable scale.
 
 # Assessment of the quality of the proposal
+**Responsible**
+
+**Responds to a genuine need**
+
+**Adds significant value**
+
+**Accessible to end-user**
+
+**Context appropriate**
 
 Evaluate its value in the context of the project. What will it solve, is it safe, etc. Check Lara’s slides for what to cover.
 
