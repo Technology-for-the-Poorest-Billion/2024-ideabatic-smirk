@@ -10,16 +10,26 @@ After coming up with and iterating on the designs on paper, we will begin rudime
 # Assessment of the quality of the proposal
 **Responsible**
 
-The proposal should cause no harm as the technology developed cannot easily be used in a harmful way. The ice pack bottle used if made form HDPE so could be recycled at end of life. Sustainably sourced or recycled materials should be considered for use in the shell and insulation, but compatibility with manufaturing methods must also be considered to reduce the cost of the end product. As a part of reducing the size of the cooler we will try to simplify the design and make it more modular, which will increase ease of dissassembly and recycling at end-of-life.
+The proposal should cause no harm as the technology developed cannot easily be used in a harmful way. The safety of the product will be considered during the design of any rotating mechanims and the self-closing door, to reduce the risk to the health worker when using it. We must also consider the quality and safety of the materials and insulation used as they will be used in a medical environment, although not in direct contact with sterile equipment or the vaccines.
 
-**Responds to a genuine need**
+The ice pack bottle used if made form HDPE so could be recycled at end of life. Sustainably sourced or recycled materials should be considered for use in the shell and insulation, but compatibility with manufaturing methods must also be considered to reduce the cost of the end product. As a part of reducing the size of the cooler we will try to simplify the design and make it more modular, which will increase ease of dissassembly and recycling at end-of-life.
 
-**Adds significant value**
+**Responds to a genuine need and adds significant value**
+
+This product will not be responding to a need that doesnt already have a solution as there are many different brands of cooler currently used in the UK for transporting vaccines and other medications. It should however provide an improvement compared to these products as it will have a longer cool-life, improved organisation of vaccines around the icepack and an improved door with self closing mechanism to reduce heat gained when it is used, as seen in the origional SMILE coolbox. This should make it easier to use than similar products already on the market, and maintain temperature range the vaccines are kept at to increase their lifetime. Built-in backpack-type straps would increase the easy of transporting the cooler and an integrated way to record the types of medication being carried in each compartment would also improve the efficiency of the delivery and vaccination process.
+
+Kitty has mentioned she is in contact with an NHS health worker that uses these coolboxes, so hopefully we can get feedback on the most imporant deliverables for this product.
 
 **Accessible to end-user**
 
+Because this product will be an improvement on what is currently used and widely available in high income countries, and not a product that is key to solving a new problem, we must ensure that the useability is significantly better and keep the cost low to make it desirable and competitive. 
+
 **Context appropriate**
 
-Evaluate its value in the context of the project. What will it solve, is it safe, etc. Check Lara’s slides for what to cover.
+The current SMILE design for use in low income countries had to be designed to be robust in dusty and humid environments, and be able to keep the vacciens secure even during journeys over very rough terrain. For the coolbox for use in high income countries such as the UK, the effects of the climate will be much less severe, so dust proofing will be less of an issue and less insulation will be required. Waterproofing should be conisidered. 
+
+The product could be made to allow a temperature sensor and display (such as the one being developed by the other team working with IDEABATIC) to be added if desired by the user, by replacing the door module with one including this.
+
+Use in a high income country will allow easily sourcing of parts for repair and maintenance. Our aim is to simplify the number of parts and make the design modular to it will be easy to repair and maintain, with minimal parts that could potentially fail.
 
 
