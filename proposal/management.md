@@ -39,9 +39,6 @@ Daniel and Caio need laser cutting training from Olivia/Dyson Centre staff
 | 1L ice pack   | £5            |
 | wood and plastic for laser cutting  | £15 |
 |material for 3D printer |£20|
-£5 for the 1L ice pack
-£15 for wood and plastic for lasercutting
-£20 for material cost of 3D printes
 
 
 ## The timeline
@@ -58,7 +55,12 @@ Have the last few days reserved for presenting the deliverables and making the r
 
 Using 3D printer, laser cutters and prototyping can be dangerous.
 
-
+| Hazard        | Control measure | Risk level |
+| ------------- | --------------  |------------|
+| Inhalation of particulates created and exposure to chemical vapors  | Do not stand around 3D printer whilst in operation
+Do not eat or drink in the room containing 3D printer
+Wash hands thoroughly after working with 3D printer| Medium |
+| Risk of burn  | Content Cell  |
 
 #### 3D printer:
 
