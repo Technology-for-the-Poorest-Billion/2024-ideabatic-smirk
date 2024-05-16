@@ -57,9 +57,8 @@ Using 3D printer, laser cutters and prototyping can be dangerous.
 
 | Hazard        | Control measure | Risk level |
 | ------------- | --------------  |------------|
-| Inhalation of particulates created <br>and exposure to chemical vapors  | Do not stand around 3D printer whilst in operation
-Do not eat or drink in the room containing 3D printer
-Wash hands thoroughly after working with 3D printer| Medium |
+| Inhalation of particulates created <br>and exposure to chemical vapors  | Do not stand around 3D printer whilst in operation <br>Do not eat or drink in the room containing 3D printer
+<br>Wash hands thoroughly after working with 3D printer| Medium |
 | Risk of burn  | Content Cell  |
 
 #### 3D printer:
