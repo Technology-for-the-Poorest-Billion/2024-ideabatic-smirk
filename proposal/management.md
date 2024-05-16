@@ -59,16 +59,6 @@ https://docs.google.com/spreadsheets/d/1lHf84FvHK3wo1C1o2ZXZnzH8WmTzwfFZQhv2QLgO
 | ------------- | --------------  |------------|
 | Inhalation of particulates created and exposure to chemical vapors | Do not stand around 3D printer whilst in operation <br>Do not eat or drink in the room containing 3D printer<br>Wash hands thoroughly after working with 3D printer| Medium |
 | Risk of burns | Avoid touching printing nozzle head and molten plastic <br>Let part cool before handling  | Medium |
-|Entrapment of hand or arm by moving cutting head causing crush injury|Alwyas operate mahine with lid shut <br>Don’t place hands or arms in the potential path of the cutting head unnecessarily|Low|
-
-
-#### 3D printer:
-
-We will not stand around the 3D printer when it is running to minimise the inhalation of particulates being created and exposure to chemical vapors.
-
-We will not eat or drink in the room that contains the 3D printer.
-
-We will wash our hands thoroughly after working with the 3D printer.
 
 For more information refer to the following departmental guidance document: https://whittle-intranet.eng.cam.ac.uk/3Dprinterriskassessment20151027.pdf
 
@@ -79,11 +69,15 @@ For more information refer to the following departmental guidance document: http
 | ------------- | --------------  |------------|
 | Poisoning/gassing by fumes from material being cut | Be aware of hazards from materials being cut <br>Ensure fume filter is running at sufficient speed| Medium |
 | Risk of burns | Don't leave machine unattended, and watch for flames <br>Don't cut highly flammable materials | Medium |
+|Entrapment of hand or arm by moving cutting head causing crush injury|Alwyas operate mahine with lid shut <br>Don’t place hands or arms in the potential path of the cutting head unnecessarily|Low|
 
-
-Refer to the following departmental guidance document: https://www.dysoncentre.eng.cam.ac.uk/laser-cutting/Risk_assessment_laser_cutters.pdf
+For more information refer to the following departmental guidance document: https://www.dysoncentre.eng.cam.ac.uk/laser-cutting/Risk_assessment_laser_cutters.pdf
 
 #### Prototyping:
+
+| Hazard        | Control measure | Risk level |
+| ------------- | --------------  |------------|
+| Injury from sharp cutting implements| Be careful when using sharp cutting tools <br>Make sure that there are at least two more people in the Dyson Centre when completing work - one person to help us and another person to call an ambulance if something goes wrong|Medium|
 
 We will be careful when using sharp cutting implements and make sure that there are at least two more people in the Dyson Centre when completing work - one person to help us and another person to call an ambulance if something goes wrong.
 
