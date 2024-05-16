@@ -3,7 +3,7 @@
 The problem we are tackling is that of last mile vaccine transportation to rural areas in high income countries. These areas include rural areas of Scotland and Wales, and will often be to people who are immobile and unable to travel to a vaccination centre, such as the elderly. Current vaccination transportation cool boxes are poorly designed, and as a result vaccination workers often don't use them properly with too few ice packs being used and the box lid being left off during vaccination. This results in a significant portion of cool boxes where the temperature exceeds the allowed 2 to 8 degree range and so the vaccines spoil. Our goal is to reduce the amount of vaccine spoilt by creating a well-designed cooler that mitigates the above problems. The engineering approach we will use is to model prototypes in CAD software before using novel manufacturing techniques such as 3D printing to create physical prototypes. Should we have time, we will then run tests on these prototypes.
 
 # Presentation of the proposal
-We will begin with defining the problem, isolating the key components and determining their importance in the final design. This will help us get a feel for the current design and design considerations that must be taken when determining what to shrink, and how that would best be done. We will begin by looking at the threee major parts of the project: The lid, the carousel, and the box itself, and we will try and make it smaller so as to fit the 1L ice pack proposed by Kitty. 
+We will begin with defining the problem, isolating the key components and determining their importance in the final design. This will help us get a feel for the current design and design considerations that must be taken when determining what to shrink, and how that would best be done. We will begin by looking at the threee major parts of the project: The lid, the carousel, The straps, and the box itself, and we will try and make it smaller so as to fit the 1L ice pack proposed by Kitty. 
 The initial end goals are:
 
 **The Lid:**
@@ -14,11 +14,18 @@ Currently the carousel is incredibly complex with a lot of moving parts, and mod
 
 Another route we can look into is how the ice pack will fit into the central section of the carousel. This is currently done through a squishy section attached onto the locknig part of the ice pack holder, but there are multiple other ways we can improve this design to be scaled down in such a way that a 1L ice bottle can fit.
 
+**The straps:**
+We will also think about how this would be carried around, through looking at different types of straps like a sling bag, a backpack, or a lunchbox style to name a few.
+
 **The Box:**
 The box is a design that can be played with, however we do not want to change the design language of the product, nor do we want to risk changing the already agreed upon design too much, and so we will look into what scale the whole box will be, and try to fit the other components onto this hypothetical scale
 
+After coming up with concrete ideas on paper, we will begin rudimentary 3d modelling of the final sketches, and start 3d printing said models to analyse what works and what doesn't. After the rapid prototyping and testing against the provided box, we will begin to refine our best ideas and attempt to create a more finalised 3d model which will be be ready to be delivered and in a finished state for the route we go down.
 
-After coming up with and iterating on these considerations on paper, we will begin rudimentary 3d modelling of the final sketches, and start 3d printing said models to analyse what works and what doesn't. After the rapid prototyping and testing against the provided box, we will begin to refine our best ideas and attempt to create a more finalised 3d model which will be be ready to be delivered and in a finished state for the route we go down. Due to the time constraints, a full model with testing of the completed scaled down version may not be feasible, however rough calculations will be made so as to ensure the ice box will work for prolonged periods of time at a reasonable scale.
+There will not be enough time for us to look through all of these, but as we consider and sketch up ideas for the existing problems, we will isolate a few that we thnk have the most potential for improvement, and further explore those till the end. This may not be evident until further into the development cycle, but will allow us to focus our time more effectively in the detailed prototype stage.
+A full model with testing of the completed scaled down version may not be feasible, however rough calculations will be made so as to ensure the ice box will work for prolonged periods of time at a reasonable scale.
+
+ 
 
 # Assessment of the quality of the proposal
 **Responsible**
