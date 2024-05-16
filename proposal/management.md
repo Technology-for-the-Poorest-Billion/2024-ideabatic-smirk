@@ -53,13 +53,12 @@ Have the last few days reserved for presenting the deliverables and making the r
 
 ## The assessment of the risks and safety
 
-Using 3D printer, laser cutters and prototyping can be dangerous.
+#### 3D printer:
 
 | Hazard        | Control measure | Risk level |
 | ------------- | --------------  |------------|
-| Inhalation of particulates created <br>and exposure to chemical vapors  | Do not stand around 3D printer whilst in operation <br>Do not eat or drink in the room containing 3D printer<br>Wash hands thoroughly after working with 3D printer| Medium |
-| Risk of burns  | Avoid touching printing nozzle head and molten plastic <br>Let part cool before handling  | Medium |
-|
+| Inhalation of particulates created <br>and exposure to chemical vapors | Do not stand around 3D printer whilst in operation <br>Do not eat or drink in the room containing 3D printer<br>Wash hands thoroughly after working with 3D printer| Medium |
+| Risk of burns | Avoid touching printing nozzle head and molten plastic <br>Let part cool before handling  | Medium |
 
 #### 3D printer:
 
@@ -73,6 +72,12 @@ For more information refer to the following departmental guidance document: http
 
 
 #### Laser cutter:
+
+| Hazard        | Control measure | Risk level |
+| ------------- | --------------  |------------|
+| Poisoning/gassing by fumes from material being cut | | Medium |
+| Risk of burns |  | Medium |
+
 
 Refer to the following departmental guidance document: https://www.dysoncentre.eng.cam.ac.uk/laser-cutting/Risk_assessment_laser_cutters.pdf
 
