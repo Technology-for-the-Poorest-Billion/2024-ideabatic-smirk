@@ -42,6 +42,7 @@ As this project involves rapid prototyping of multiple design iterations it is h
 | wood and plastic for laser cutting  | £15 |
 |material for 3D printer |£20|
 
+Water bottle for ice pack: https://www.ibottles.co.uk/wide-neck-natural-hdpe-jar.html?ps=MTY4PTU1NTgmMTQ0PTU0ODA=&gad_source=1&gclid=Cj0KCQjwxeyxBhC7ARIsAC7dS3_DMR1NO6qhA3KUUBKtic_-bQndmiaqroa40N3vZiwPRytcH7DlK_EaAildEALw_wcB#168=5558&144=5480
 
 ## The timeline
 
@@ -85,5 +86,10 @@ For more information refer to the following departmental guidance document: http
 
 
 ## Contengency plans
+
+#### Timeline
 Days have been allocated so as to allow for falling somewhat behind schedule, while still allowing time for a final presentation and creation of the report. This would let us keep the scope in check, and getting to at least one concrete finished product, as opposed to some half finished segments of the same product. If this allotted extra time is still not enough, we will try to limit the final 3D printing phase, and focus more on the ideas and reasoning behind them, as well as their CAD models. This staged approach to a few key aspects allows us to scale back if need be, but also allows us to have a deliverable. It also does not rely soley on a single person, so as to remove potential risks of delay.
+
+#### Failure to produce a working design
+If the outcome of the project is proving a certian design is not viable this would still be useful information to pass on to Kitty. By maintaining detailed documentation of our processes and reasoning we can prevent the same designs being re-explored, saving time in future prototyping.
 
