@@ -40,7 +40,7 @@ As this project involves rapid prototyping of multiple design iterations it is h
 | ------------- | ------------- |
 | 1L ice pack   | £5            |
 | wood and plastic for laser cutting  | £15 |
-|material for 3D printer |£20|
+|material for 3D printer |£25|
 
 Water bottle for ice pack: https://www.ibottles.co.uk/wide-neck-natural-hdpe-jar.html?ps=MTY4PTU1NTgmMTQ0PTU0ODA=&gad_source=1&gclid=Cj0KCQjwxeyxBhC7ARIsAC7dS3_DMR1NO6qhA3KUUBKtic_-bQndmiaqroa40N3vZiwPRytcH7DlK_EaAildEALw_wcB#168=5558&144=5480
 
