@@ -44,12 +44,13 @@ Kitty has mentioned she is in contact with an NHS health worker that uses these 
 
 Because this product will be an improvement on what is currently used and widely available in high income countries, and not a product that is key to solving a new problem, we must ensure that the useability is significantly better and keep the cost low to make it desirable and competitive. 
 
+Use in a high income country will allow easily sourcing of parts for repair and maintenance. Our aim is to simplify the number of parts and make the design modular to it will be easy to repair and maintain, with minimal parts that could potentially fail.
+
 **Context appropriate**
 
 The current SMILE design for use in low income countries had to be designed to be robust in dusty and humid environments, and be able to keep the vaccines secure even during journeys over very rough terrain. For the coolbox for use in high income countries such as the UK, the effects of the climate will be much less severe, so dust proofing will be less of an issue and less insulation will be required. Waterproofing should be conisidered. 
 
 The product could be made to allow a temperature sensor and display (such as the one being developed by the other team working with IDEABATIC) to be added if desired by the user, by replacing the door module with one including this.
 
-Use in a high income country will allow easily sourcing of parts for repair and maintenance. Our aim is to simplify the number of parts and make the design modular to it will be easy to repair and maintain, with minimal parts that could potentially fail.
 
 
