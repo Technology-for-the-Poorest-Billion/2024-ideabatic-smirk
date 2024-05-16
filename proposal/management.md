@@ -48,7 +48,7 @@ Have a product definition and order of importance by the first few days
 Have rapid brainstorming and sketching/prototyping sessions just before the halfway point of the second week.
 Spend a week working on physical prototypes for the solutions, and coming up with well documented design decisions leading to a final product
 Have the last few days reserved for presenting the deliverables and making the report
-
+https://docs.google.com/spreadsheets/d/1lHf84FvHK3wo1C1o2ZXZnzH8WmTzwfFZQhv2QLgOoGA/edit?usp=sharing
 
 
 ## The assessment of the risks and safety
