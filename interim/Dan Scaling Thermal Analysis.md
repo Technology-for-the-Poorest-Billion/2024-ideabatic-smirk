@@ -1,3 +1,3 @@
 # Scaling Thermal Analysis
 
-$ t_1/t_2 $
+$t_1/t_2$
