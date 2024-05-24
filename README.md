@@ -1,2 +1,1 @@
-# Project Template
-Fork this for a basic structure for each project
+# Project to miniaturise Smile by Ideabatic
