@@ -21,6 +21,67 @@
 | --- | --- | --- | --- | --- | --- |
 
 
+Market research:
+
+Current options… £500 gets you an electric vaccine cooler, so need to lower the price towards the £200 range. Looking at insulation is boring but useful to try and reduce cost. Can also just let kitty do this and look for alternatives now.
+
+Current market options:
+
+Ice packs 500ml-700ml per
+
+Surprisingly limited commercial options seemingly
+
+Versapak:
+Up to 30 hours (assuming unopened at room temperature, not 40 degrees outside)
+
+35L = 200 (bundle with 5x700 ice packs = 260)
+
+18L = 155
+
+6L = 136
+
+Quite expensive, need to look at how many vaccines can fit
+
+Small - 305 x 305 x 170mm
+
+Internal Capacity: 6 Litres
+
+Weight (Empty): 1.658kg
+
+Medium - 460 x 305 x 255mm
+
+Internal Capacity: 18 Litres
+
+Weight (Empty): 2.151kg
+
+Large - 650 x 380 x 255mm
+
+Internal Capacity: 35 Litres
+
+Weight (Empty): 3.657kg
+
+Too large to comfortably carry in any way other than handle, probably not great for long walks. Current smile improves on: weight, size, no.vaccines, cold time with only 1 ice pack.
+
+VaccinePorter:
+
+8 hour plus time
+
+2.2L capacity
+
+£160
+
+CorrMed:
+
+£261.75Sale Price (350 otherwise)
+
+20L capacity
+
+7 hour cold time
+
+Comes with 4 seemingly 1L ice packs
+
+All options seem to be just boxes with handles and seem to be very expensive. Col box can be easily cheaper if CNC is removed from process, so need to focus on it being better
+
 
 # Scaling Thermal Analysis
 
