@@ -9,4 +9,4 @@ $V_1 = 0.0025 m^3$, $V_2 = 0.001 m^3$, $\rho_w = 1000 kgm^{-3}$, $x_1 = 0.055 m$
 
 Hence:
 
-## $m_2 = INSERT EQUATION$
+## $m_2 = INSERT EQUATION = INSERT NUMBER$
