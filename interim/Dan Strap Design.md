@@ -1,11 +1,14 @@
-# Strap Design
-
 # Objectives to be completed before monday:
-Come up with strap design concepts and produce sketches bearing in mind ergonomics, mounting & modularity.
-Make prototype.
-Add content to Interim presentation markdown file.
+Work how to insert photographs into Markdown document directly instead of linking them
+Weigh the Smile and fill in values into mass scaling equations on both Mass Scaling document and Interim Presentation document.
 Prepare for interim presentation on Monday.
 
+Come up with strap design concepts and produce sketches bearing in mind ergonomics, mounting & modularity.
+Make prototype.
+
+
+
+# Strap Design
 
 I have started prototyping different modular strap designs to test for both the Smile and the Smirk. I started by creating a mock-up of the Smile out of cardboard, shown below:
 
