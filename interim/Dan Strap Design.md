@@ -5,3 +5,4 @@ Come up with strap design concepts and produce sketches bearing in mind ergonomi
 Make prototype.
 Add content to Interim presentation markdown file.
 Prepare for interim presentation on Monday.
+ 
