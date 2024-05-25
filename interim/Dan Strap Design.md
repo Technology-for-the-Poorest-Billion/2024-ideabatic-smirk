@@ -6,4 +6,6 @@ Make prototype.
 Add content to Interim presentation markdown file.
 Prepare for interim presentation on Monday.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[dbseaton34]/[Technology-For-The-Poorest-Billion]/blob/interim/photographs/IMG_20240525_155927525.jpg?raw=true)
+
+interim/photographs
