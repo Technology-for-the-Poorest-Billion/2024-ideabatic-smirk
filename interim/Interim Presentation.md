@@ -1,4 +1,4 @@
-# Placeholder for interim report
+# Interim Report
 
 
 | Part | Reason | Improvement | constraints | Adresses what need | Importance |
@@ -83,30 +83,31 @@ Comes with 4 seemingly 1L ice packs
 All options seem to be just boxes with handles and seem to be very expensive. Col box can be easily cheaper if CNC is removed from process, so need to focus on it being better
 
 
-# Scaling Thermal Analysis
+# Dan
+
+## Scaling Thermal Analysis
 
 Time that the Smirk can maintain vaccine between 2 and 8 degrees:
-## $\frac{t_1}{t_2} = \frac{x_1^2A_2V_1\lambda_2}{x_2^2A_1V_2\lambda_1}$
+### $\frac{t_1}{t_2} = \frac{x_1^2A_2V_1\lambda_2}{x_2^2A_1V_2\lambda_1}$
 where $A$ is the surface area of the bottle, $V$ is the volume of the bottle, $x$ is the wall thickness and $\lambda$ is the heat conductivity of the insulation material. We know that $t_1$ is approximately 120 hours, $x_1$ is approximately 5cm and $V_1$ is 2.5L for the original Smile.
 We want $t_2 > 24$ hours for Smirk, and we know that $V_2 = 1$L, $\frac{\lambda_2}{\lambda_1} = 1$ and $\frac{A_2}{A_1} = 0.54$, therefore we need:
-## $x_2 > 2.6$ cm
+### $x_2 > 2.6$ cm
 
 
-# Mass Scaling Analysis
+## Mass Scaling Analysis
 
 Mass of the Smirk:
-## $m = \rho_wV_1+\rho_mA_1x_1$, therefore:
-## $\frac{m_1}{m_2} = \frac{\rho_wV_1+\rho_mA_1x_1}{\rho_wV_2+\rho_mA_2x_2}$
+### $m = \rho_wV_1+\rho_mA_1x_1$, therefore:
+### $\frac{m_1}{m_2} = \frac{\rho_wV_1+\rho_mA_1x_1}{\rho_wV_2+\rho_mA_2x_2}$
 where $A$ is the surface area of the bottle, $V$ is the volume of the bottle, $x$ is the wall thickness, $\rho_w$ is the density of water and $\rho_m$ is the approximate calculated density of the insulaton and shell combined.
 $V_1 = 0.0025 m^3$, $V_2 = 0.001 m^3$, $\rho_w = 1000 kgm^{-3}$, $x_1 = 0.055 m$ and $m_1 = INSERT NUMBERkg$. Therefore,
-## $\rho_m = \frac{m_1 - \rho_wV_1}{A_1x_1} = INSERT NUMBER
+### $\rho_m = \frac{m_1 - \rho_wV_1}{A_1x_1} = INSERT NUMBER
 
 Hence:
 
-## $m_2 = INSERT EQUATION = INSERT NUMBER$
+### $m_2 = INSERT EQUATION = INSERT NUMBER$
 
-
-# Strap Design
+## Strap Design
 
 I have started prototyping different modular strap designs to test for both the Smile and the Smirk. I started by creating a mock-up of the Smile out of cardboard, shown below:
 
