@@ -18,3 +18,26 @@ The following figure shows the resistor network of thermal resistances in the ou
 <img width="784" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/2913d81a-d315-4e45-84b5-dbe128733211">
 
 As heat is gained through both the flat faces, the box was assumed symmetrical and two identical resistor networks were used in parralel to approximate the heat transferred through these faces.
+
+The chamber cntaining the vaccines was assumed to have the thermal properties of air (the vaccines were ignored). The thermal properties of the carosel were assumed to be the same as those of the ABS shell.
+
+### Analysis of large box
+
+#### Inputs
+T_atm = 20 degrees C
+Ice bottle radius = 7cm
+Ice bottle height = 16cm
+Vaccine chamber radial dimension = 4cm
+Insulation thickness in radial direction = 6cm
+Insulation thickness along flat faces = 5cm
+Air gap above and below ice pack = 1cm
+
+![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/65d47a94-4ca5-4fed-a1b2-4611a804b697)
+Q_tot_l: 0.9299829971593093 J/s
+
+![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/1aaf6683-04cd-4798-bac7-194b526001e2)
+Q_dot_r: 1.469363332523185 J/s
+
+Q_dot: 2.375716233285699 J/s
+
+**109.3 Hours**
