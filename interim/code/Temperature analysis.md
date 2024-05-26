@@ -13,6 +13,6 @@ The cooler was approximated as two simple 2D shapes for the heat transfer analys
 The hexagonal face of the cooler was analysed as a circle with a diameter equal to the shortest width of the hexagon. This ensures the analysis will produce an underestimate for the time taken to warm up, so the true model will only outperform the prediction. On the full sized smile, the isulation is 7cm thick in the side with the door and 4cm thick in the far side. An average thickness was taken, however this could be improvedd in further analysis.
 
 https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_20240525_181429904.jpg
-
+https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/code/Photos/Radial%20resistor%20network.jpg
 
 
