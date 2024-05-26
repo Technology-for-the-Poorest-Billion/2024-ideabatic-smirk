@@ -15,5 +15,6 @@ The figure shows the resistor network of thermal resistances in the radial direc
 <img width="652" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/3c45733d-fcb4-45de-909f-c04d2df5ec22">
 
 The following figure shows the resistor network of thermal resistances in the out of the flat face of the box, using a linear analysis.
-<img width="652" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/5d4fad09-89c7-4c84-99f5-0cd350fddf92">
+<img width="784" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/2913d81a-d315-4e45-84b5-dbe128733211">
+
 As heat is gained through both the flat faces, the box was assumed symmetrical and two identical resistor networks were used in parralel to approximate the heat transferred through these faces.
