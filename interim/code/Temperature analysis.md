@@ -34,10 +34,10 @@ Air gap above and below ice pack = 1cm <br>
 
 #### Results
 ![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/65d47a94-4ca5-4fed-a1b2-4611a804b697)
-The rate of heat transferred from the two flat faces is, Q_dot_l = 0.930 J/s.
+<br>The rate of heat transferred from the two flat faces is, Q_dot_l = 0.930 J/s.
 
 ![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/1aaf6683-04cd-4798-bac7-194b526001e2)
-The rate of heat transferred from the radial face is, Q_dot_r = 1.469 J/s.
+<br>The rate of heat transferred from the radial face is, Q_dot_r = 1.469 J/s.
 
 This shows the face limiting the cool life is the radial face.
 By approximating the box as the radial and linear resistor systems in parallel the total heat transferred out of the cooler is,
@@ -57,4 +57,12 @@ Insulation thickness in radial direction = 4cm <br>
 Insulation thickness along flat faces = 3cm <br>
 Air gap above and below ice pack = 1cm <br>
 
+![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/569b1ef1-ce7e-4865-b09f-4b56d15ed520)
+Q_tot_l: 0.712877294969478 J/s
 
+![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/7f307e86-c14b-4363-9d65-4676029b83eb)
+Q_dot_r: 1.1285677410290333 J/s
+
+Q_dot: 1.8414450359985115 J/s
+
+58.46221879265923
