@@ -24,7 +24,7 @@ The chamber cntaining the vaccines was assumed to have the thermal properties of
 ### Analysis of large box
 
 #### Inputs
-T_atm = 20 degrees C <br>
+T_atm = 27 degrees C <br>
 Ice bottle radius = 7cm <br>
 Ice bottle height = 16cm <br>
 Vaccine chamber radial dimension = 4cm <br>
@@ -32,12 +32,29 @@ Insulation thickness in radial direction = 6cm <br>
 Insulation thickness along flat faces = 5cm <br>
 Air gap above and below ice pack = 1cm <br>
 
+#### Results
 ![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/65d47a94-4ca5-4fed-a1b2-4611a804b697)
-Q_tot_l: 0.9299829971593093 J/s
+The rate of heat transferred from the two flat faces is, Q_dot_l = 0.930 J/s.
 
 ![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/1aaf6683-04cd-4798-bac7-194b526001e2)
-Q_dot_r: 1.469363332523185 J/s
+The rate of heat transferred from the radial face is, Q_dot_r = 1.469 J/s.
 
-Q_dot: 2.375716233285699 J/s
+This shows the face limiting the cool life is the radial face.
+By approximating the box as the radial and linear resistor systems in parallel the total heat transferred out of the cooler is,
+Q_dot = 2.376 J/s.
 
-**109.3 Hours**
+This gives a cool life, with the vaccines below 8 degrees C, of **109.3 Hours**.
+The large smile should last approx. 120 hours, so this shows that the software does give an underestimate as expected, but also a relatively close estimate of the cool life, suggesting it could be a useful tool for analysis of a smaller box design.
+
+### Analysis of small box
+
+#### Inputs
+T_atm = 27 degrees C <br>
+Ice bottle radius = 5cm <br>
+Ice bottle height = 13cm <br>
+Vaccine chamber radial dimension = 3cm <br>
+Insulation thickness in radial direction = 4cm <br>
+Insulation thickness along flat faces = 3cm <br>
+Air gap above and below ice pack = 1cm <br>
+
+
