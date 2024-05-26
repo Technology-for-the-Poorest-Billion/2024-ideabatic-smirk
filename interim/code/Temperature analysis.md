@@ -24,13 +24,13 @@ The chamber cntaining the vaccines was assumed to have the thermal properties of
 ### Analysis of large box
 
 #### Inputs
-T_atm = 20 degrees C
-Ice bottle radius = 7cm
-Ice bottle height = 16cm
-Vaccine chamber radial dimension = 4cm
-Insulation thickness in radial direction = 6cm
-Insulation thickness along flat faces = 5cm
-Air gap above and below ice pack = 1cm
+T_atm = 20 degrees C <br>
+Ice bottle radius = 7cm <br>
+Ice bottle height = 16cm <br>
+Vaccine chamber radial dimension = 4cm <br>
+Insulation thickness in radial direction = 6cm <br>
+Insulation thickness along flat faces = 5cm <br>
+Air gap above and below ice pack = 1cm <br>
 
 ![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/65d47a94-4ca5-4fed-a1b2-4611a804b697)
 Q_tot_l: 0.9299829971593093 J/s
