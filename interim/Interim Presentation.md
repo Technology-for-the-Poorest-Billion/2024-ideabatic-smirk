@@ -313,6 +313,6 @@ I have completed some preliminary field tests with the straps, and these are pho
 
 I have also explored the possibility of front-mounting the Smirk. Advantages of this include enhanced protection for the vaccines (unlikely to bump the Smirk into things), and possible on-the-fly acces to the Smirk's contents.
 
-![](interim/photographs/IMG_20240525_155927525.jpg)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_20240525_155927525.jpg)
 
 At the moment the straps have to be held to keep the Smirk in place, but I am exploring options for lengthening the straps and attaching both ends to the Smirk so that it can be carried hands-free.
