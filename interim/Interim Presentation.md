@@ -263,10 +263,10 @@ heat whilst searching manually</th>
 
 Following the market research we have settled on the following objectives for completion within the project timeframe:
 
-### Carrying mechanism design
+### Carrying mechanism (straps) design
 - Design carrying mechamism to replace the backpack of the large smile as it is unnecessary for shorter journeys
 - Work on making this modular and with potential to fit large smile with standardised fastenings
-- Integrate vaccine recording method into straps design?
+- Integrate vaccine recording method into straps design
 
 ### Design for modular carousel
 - Look at ways to make parts modular for use in both big and mini smile
