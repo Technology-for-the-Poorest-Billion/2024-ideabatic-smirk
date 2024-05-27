@@ -1,4 +1,4 @@
-# Mass Scaling Analysis
+# Mass Analysis
 
 Mass of the Smirk:
 ## $m = \rho_wV+\rho_mAx$
