@@ -68,13 +68,49 @@ Air gap above and below ice pack = 1cm <br>
 ![](Photos/Small_4cm_radial.png)
 <br>The rate of heat transferred from the radial face is, Q_dot_r = 1.129 J/s
 
-Q_dot: 1.8414450359985115 J/s
+This shows the face limiting the cool life is the radial face as before.
+By approximating the box as the radial and linear resistor systems in parallel the total heat transferred out of the cooler is,
+Q_dot: 1.841 J/s
 
-58.46221879265923
+This gives a cool life, with the vaccines below 8 degrees C, of **58.5 hours**.
+
+## Effect of spacing between bottle and carousel - significant due to shrinkage when it melts
+<img width="168" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/020f3c96-e6fc-4635-a14c-e23bae6c5747">
+
+Considering worst case scenario for the heating of the vaccines: we assume full contraction in a radial direction and no contraction in the londitudinal direction.
+On freezing the bottle with expand from 1 litre to 1.087 litres which results in a 4% radius increase. This space has been accounted for by a 1cm gap around the unexpanded bottle as it is likely the expansion will not be the same across the height of the bottle, so allows for more expansion at midsection.
+
+The thermal properties of the materials in this gap are found to have a large impact on the temperature of the vaccine chamber.
+
+When the gap is filled with air:
+<br>![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/d6818680-24f0-4a64-86c2-97563e2b60c3)
+<br>Q_dot_r: 1.041805845369173 J/s
+
+This gives a cool life, with the vaccines below 8 degrees C, of **61.3 hours**.
+
+## Using predictions from Dan's scaling analysis
+
+When the insulation of the small smile is set as 2.6cm the results are as follows:
+<br>![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/ac4d3e3c-c135-4d36-8572-ac31770020b1)
+<br>Q_tot_l: 0.7890635803234574 J/s
+
+![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/99f6eea9-1bdb-4b2f-a4cb-68d000a168ae)
+<br>Q_dot_r: 1.2706851966492552 J/s
+
+This gives a cool life, with the vaccines below 8 degrees C, of **52.3 hours**.
+MAin issuee with this design is keeping the vaccines within the safe operating range - could be affected by running analysis assuming convection in chamber however.
+
+
 
 # Next steps
 
 Produce analysis with convective heat transfer in vaccine chamber to produce an upper bound for heat transfer.
+
+Investigate materials to support bottle in cavity - high thermal conductivity but also compressibility
+
+Prototype bottle support mechanism with this in mind
+
+Perform experiments to measure expansion of bottle when frozen, once the ordered bottle arrives.
 
 
 
