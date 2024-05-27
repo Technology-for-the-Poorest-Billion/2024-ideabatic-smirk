@@ -77,7 +77,7 @@ All options seem to be just boxes with handles and seem to be very expensive. Co
 
 # Dan
 
-## Scaling Thermal Analysis
+## Thermal Analysis
 
 Time that the Smirk can maintain vaccine between 2 and 8 degrees:
 ### $\frac{t_1}{t_2} = \frac{x_1^2A_2V_1\lambda_2}{x_2^2A_1V_2\lambda_1}$
@@ -86,7 +86,7 @@ We want $t_2 > 24$ hours for Smirk, and we know that $V_2 = 1$L, $\frac{\lambda_
 ### $x_2 > 2.6$ cm
 
 
-## Mass Scaling Analysis
+## Mass Analysis
 
 Mass of the Smirk:
 ### $m = \rho_wV_1+\rho_mA_1x_1$, therefore:
