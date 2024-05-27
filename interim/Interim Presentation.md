@@ -344,17 +344,17 @@ At the moment the straps have to be held to keep the Mini Smile in place, but I 
 Since last presentation I have developed my rapid protoyping skills, using cardboard to speed up the process, and my high-level analysis by performing back-of-the-envelope calculations for the Mini Smile's mass and insulation thickness. In terms of personal development I have furthered my teamworking and communication skills by working closely with Livvy and Caio throughout the project.
 # Caio
 This is linked to the pdf attached which prototypes the different possible ideas
-##1. 
+### 1. 
 Simply making the carousel smaller. It works well as the design is already there, and would be easy to assemble and repair, but  form experience it is very easy to pull off by accident, and takes a few minutes to get right
-##2.
+### 2.
 Idea to make it one long slab, which can be modular for any size of smile. Puzzle attachment is probably nto the most secure, but allows complete modularity without much change in the design. Need to run heat analysis on it
-##3.
+### 3.
 Having a capsule for needles etc is something to be explored. Can fit in the same gap as the current butterfly attachment. Big issue since currently the bag is used to carry the extra bits, but is just too big.
-##4.
+### 4.
 Using foam inserts. Is a lot simpler, acts as insulation, and is incredibly easily repaired. Will break a lot quicker, which may be ok if the hospital is well off.
-##5.
+### 5.
 Same benefits and issues as before, but is more versatile so can stuff anything within the small crevices. 
-##6/7.
+### 6/7.
 Straps sewn onto foam (have seen before) Can work quite well. If careful with it will last a long time, and can be easily taped up without losing protection. would be very cheap to produce, incredibly modular, much more versatile, and a much flatter profile. Startup cost much lower but might end up being more expensive per part
-##8.
+### 8.
 Looking at how it will be fitted, and how it can be replaced
