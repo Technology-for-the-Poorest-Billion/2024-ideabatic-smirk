@@ -21,6 +21,8 @@ As heat is gained through both the flat faces, the box was assumed symmetrical a
 
 The chamber cntaining the vaccines was assumed to have the thermal properties of air (the vaccines were ignored). The thermal properties of the carosel were assumed to be the same as those of the ABS shell.
 
+https://colab.research.google.com/gist/oca21/c965887e9c410e554f906086208de843/mini_smile.ipynb
+
 ### Analysis of large box
 
 #### Inputs
