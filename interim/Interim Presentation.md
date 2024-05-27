@@ -380,3 +380,7 @@ Straps sewn onto foam (have seen before) Can work quite well. If careful with it
 ![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/98715298/b3b046a9-d132-48a2-a2c2-baf0e0851d8c)
 
 Looking at how it will be fitted, and how it can be replaced
+
+## Olivia
+I have developed my skills in python modelling and visualisation, and understanding of heat transfer. 
+
