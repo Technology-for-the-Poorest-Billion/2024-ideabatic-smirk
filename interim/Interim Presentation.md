@@ -340,3 +340,5 @@ I have also explored the possibility of front-mounting the Mini Smile. Advantage
 ![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_20240525_155927525.jpg)
 
 At the moment the straps have to be held to keep the Mini Smile in place, but I am exploring options for lengthening the straps and attaching both ends to the Mini Smile so that it can be carried hands-free.
+
+Since last presentation I have developed my rapid protoyping skills, using cardboard to speed up the process, and my high-level analysis by performing back-of-the-envelope calculations for the Mini Smile's mass and insulation thickness. In terms of personal development I have furthered my teamworking and communication skills by working closely with Livvy and Caio throughout the project.
