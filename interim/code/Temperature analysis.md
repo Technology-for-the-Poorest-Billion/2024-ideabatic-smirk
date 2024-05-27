@@ -23,7 +23,7 @@ As heat is gained through both the flat faces, the box was assumed symmetrical a
 The chamber cntaining the vaccines was assumed to have the thermal properties of air (the vaccines were ignored). The thermal properties of the carosel were assumed to be the same as those of the ABS shell.
 
 
-### Analysis of large box
+# Analysis of large box
 
 #### Inputs
 T_atm = 27 degrees C <br>
@@ -51,7 +51,7 @@ Q_dot = 2.376 J/s.
 This gives a cool life, with the vaccines below 8 degrees C, of **109.3 Hours**.
 The large smile should last approx. 120 hours, so this shows that the software does give an underestimate as expected, but also a relatively close estimate of the cool life, suggesting it could be a useful tool for analysis of a smaller box design.
 
-### Analysis of small box
+# Analysis of small box
 
 #### Inputs
 T_atm = 27 degrees C <br>
@@ -62,12 +62,19 @@ Insulation thickness in radial direction = 4cm <br>
 Insulation thickness along flat faces = 3cm <br>
 Air gap above and below ice pack = 1cm <br>
 
-![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/569b1ef1-ce7e-4865-b09f-4b56d15ed520)
-Q_tot_l: 0.712877294969478 J/s
+![](Photos/Small_3cm_linear.png)
+<br>The rate of heat transferred from the two flat faces is, Q_tot_l = 0.713 J/s
 
-![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/7f307e86-c14b-4363-9d65-4676029b83eb)
-Q_dot_r: 1.1285677410290333 J/s
+![](Photos/Small_4cm_radial.png)
+<br>The rate of heat transferred from the radial face is, Q_dot_r = 1.129 J/s
 
 Q_dot: 1.8414450359985115 J/s
 
 58.46221879265923
+
+# Next steps
+
+Produce analysis with convective heat transfer in vaccine chamber to produce an upper bound for heat transfer.
+
+
+
