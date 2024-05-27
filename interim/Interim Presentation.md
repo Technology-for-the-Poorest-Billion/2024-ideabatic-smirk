@@ -259,6 +259,30 @@ heat whilst searching manually</th>
 
 
 
+# Objectives 
+
+Following the market research we have settled on the following objectives for completion within the project timeframe:
+
+### Carrying mechanism design
+- Design carrying mechamism to replace the backpack of the large smile as it is unnecessary for shorter journeys
+- Work on making this modular and with potential to fit large smile with standardised fastenings
+- Integrate vaccine recording method into straps design?
+
+### Design for modular carousel
+- Look at ways to make parts modular for use in both big and mini smile
+- Develop simlicity of carosel for maintenace, cleaning and replacement
+- Design for maximum number of vaccines in smaller smile
+- Prototype and test
+
+### Design new method to keep bottle central in chamber 
+- Replace the bearing that was used in large smile, as the off the shelf bottle does not have the required recess
+
+### Perform thermal analysis to aid rescaling of smile
+- Use high level analysis and heat transfer software to develop understanding of the effects of rescaling
+
+
+
+
 # Dan
 
 ## Thermal Analysis
