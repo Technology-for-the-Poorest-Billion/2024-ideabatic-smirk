@@ -2,14 +2,12 @@
 
 
 ## Objectives to be completed before monday:
-Read Through strap part of interim presentation and update wording and presentation (to both files)
-Check that meets all requirements set out in document with interim instructions and edit as neccessary
+Present a summary of team members' personal and technical development (what
+have you learnt and how have you learned it?);
+
+
+
 Practice 5 minute presentation a couple of times
-Bring prototype to presentation
-
-
-Update Gant chart with progress we have made
-
 
 
 Come up with strap design concepts and produce sketches bearing in mind ergonomics, mounting & modularity.
