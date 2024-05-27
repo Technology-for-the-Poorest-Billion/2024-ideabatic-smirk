@@ -384,3 +384,8 @@ Looking at how it will be fitted, and how it can be replaced
 ## Olivia
 I have developed my skills in python modelling and visualisation, and understanding of heat transfer. 
 
+## Caio
+I have develiped my rapid prototyping skills, as well as how to communicate the design reasonings effectvely
+I have also developed my cad skills specifically when working with existing models.
+
+
