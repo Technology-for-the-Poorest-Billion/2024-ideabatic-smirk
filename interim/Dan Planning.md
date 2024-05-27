@@ -2,9 +2,14 @@
 
 
 ## Objectives to be completed before monday:
-Work how to insert photographs into Markdown document directly instead of linking them
-Weigh the Smile and fill in values into mass scaling equations on both Mass Scaling document and Interim Presentation document.
-Prepare for interim presentation on Monday.
+Read Through strap part of interim presentation and update wording and presentation (to both files)
+Check that meets all requirements set out in document with interim instructions and edit as neccessary
+Practice 5 minute presentation a couple of times
+
+
+Update Gant chart with progress we have made
+
+
 
 Come up with strap design concepts and produce sketches bearing in mind ergonomics, mounting & modularity.
 Make prototype.
