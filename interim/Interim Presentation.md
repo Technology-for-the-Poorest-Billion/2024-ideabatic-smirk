@@ -125,9 +125,9 @@ And how they attach to the box:
 
 I have completed some preliminary field tests with the straps, and these are photographed below:
 
-https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_3840.jpeg
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_3840.jpeg)
 
-https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_3839.jpeg
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_3839.jpeg)
 
 I have also explored the possibility of front-mounting the Smirk. Advantages of this include enhanced protection for the vaccines (unlikely to bump the Smirk into things), and possible on-the-fly acces to the Smirk's contents.
 
