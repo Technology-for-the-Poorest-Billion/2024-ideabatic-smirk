@@ -5,6 +5,7 @@
 Read Through strap part of interim presentation and update wording and presentation (to both files)
 Check that meets all requirements set out in document with interim instructions and edit as neccessary
 Practice 5 minute presentation a couple of times
+Bring prototype to presentation
 
 
 Update Gant chart with progress we have made
