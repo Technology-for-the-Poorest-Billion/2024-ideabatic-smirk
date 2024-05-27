@@ -270,7 +270,7 @@ Following the market research we have settled on the following objectives for co
 
 ### Design for modular carousel
 - Look at ways to make parts modular for use in both big and mini smile
-- Develop simlicity of carosel for maintenace, cleaning and replacement
+- Develop simplicity of carousel for maintenace, cleaning and replacement
 - Design for maximum number of vaccines in smaller smile
 - Prototype and test
 
