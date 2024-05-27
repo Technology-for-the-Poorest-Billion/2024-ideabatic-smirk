@@ -13,15 +13,16 @@ The cooler was approximated as two simple 2D shapes for the heat transfer analys
 The hexagonal face of the cooler was analysed as a circle with a diameter equal to the shortest width of the hexagon. This ensures the analysis will produce an underestimate for the time taken to warm up, so the true model will only outperform the prediction. On the full sized smile, the isulation is 7cm thick in the side with the door and 4cm thick in the far side. An average thickness was taken, however this could be improved in further analysis.
 The figure shows the resistor network of thermal resistances in the radial direction.
 <img width="652" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/3c45733d-fcb4-45de-909f-c04d2df5ec22">
+![](Photos/Linear_resistor_network.jpg)
 
 The following figure shows the resistor network of thermal resistances in the out of the flat face of the box, using a linear analysis.
 <img width="784" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/2913d81a-d315-4e45-84b5-dbe128733211">
+![](Radial_resistor_network.jpg)
 
 As heat is gained through both the flat faces, the box was assumed symmetrical and two identical resistor networks were used in parralel to approximate the heat transferred through these faces.
 
 The chamber cntaining the vaccines was assumed to have the thermal properties of air (the vaccines were ignored). The thermal properties of the carosel were assumed to be the same as those of the ABS shell.
 
-https://colab.research.google.com/gist/oca21/c965887e9c410e554f906086208de843/mini_smile.ipynb
 
 ### Analysis of large box
 
@@ -34,9 +35,13 @@ Insulation thickness in radial direction = 6cm <br>
 Insulation thickness along flat faces = 5cm <br>
 Air gap above and below ice pack = 1cm <br>
 
+![](Photos/Big_linear.png)
+
 #### Results
+
 ![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/65d47a94-4ca5-4fed-a1b2-4611a804b697)
 <br>The rate of heat transferred from the two flat faces is, Q_dot_l = 0.930 J/s.
+
 
 ![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/1aaf6683-04cd-4798-bac7-194b526001e2)
 <br>The rate of heat transferred from the radial face is, Q_dot_r = 1.469 J/s.
