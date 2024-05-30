@@ -16,3 +16,6 @@ Find things already out there for straps. Camelbaks for 2L water for example (al
 Things to attach suitcase to back pack - also a thick shell.
 
 Maybe make a market-research-type table to decide what needs to be bought/modified/strap attachment etc.
+
+
+Use what Livvy has compiled in Livvy Strap Design.
