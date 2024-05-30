@@ -5,4 +5,4 @@ Make prototype.
 
 Consider over the shoulder strap instead of backpack
 
-Take a look at last year's work for strap stuff - don't repeat.
+Take a look at last year's work for strap stuff - don't repeat - Kitty's Drive: https://drive.google.com/drive/folders/12QNKav0X3rGFk-dYRm6YgCxjDsl4oQKn?usp=sharing
