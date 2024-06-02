@@ -13,26 +13,35 @@ The cooler was approximated as two simple 2D shapes for the heat transfer analys
 The hexagonal face of the cooler was analysed as a circle with a diameter equal to the shortest width of the hexagon. This ensures the analysis will produce an underestimate for the time taken to warm up, so the true model will only outperform the prediction provided by this analysis. On the full sized smile, the isulation is 7cm thick in the side with the door and 4cm thick in the far side. An average thickness was taken for the analysis, however this could be improved in further analysis.
 
 The figure shows the network of thermal resistances used around the hexagonal face, to calculate the heat transfer out of the 6 rectangular faces of the smile cooler. 
-![Annotated hexagonal](Photos/Annotated_hexagonal.png)
-![Radial resistor network](Photos/Radial_resistor_network.jpg)
-
-The following figure shows the resistor network of thermal resistances in the out of the flat face of the box, using a linear analysis.
-![](Photos/Linear_resistor_network.jpg)
+<br><img src="Photos/Annotated_hexagonal.png" alt="Annotated hexagonal face of cooler" width="400"/>
+<img src="Photos/Radial_resistor_network.jpg" alt="2D approximate model" width="500"/>
 
 
-As heat is gained through both the flat faces, the box was assumed symmetrical and two identical resistor networks were used in parralel to approximate the heat transferred through these faces.
+The following figure shows the resistor network of thermal resistances out of the flat hexagonal faces of the box, using a linear analysis.
+<br><img src="Photos/Rectangular_face_annotated.png" alt="Annotated rectangular face of cooler" width="400"/>
+<img src="Photos/Linear_resistor_network.jpg" alt="2D approximate model" width="500"/>
 
-The chamber cntaining the vaccines was assumed to have the thermal properties of air (the vaccines were ignored). The thermal properties of the carosel were assumed to be the same as those of the ABS shell.
+As heat is gained through both the flat hexagonal faces, the box was assumed symmetrical and two identical resistor networks were used in parralel to approximate the heat transferred through these faces.
+
+To calculate the total heat transferred from all faces of the box the radial and two linear resistance networks were all used as resistances in parallel, with the total temperatre difference across the box(from T_atm to T_ice). The total heat ransfer required to melt and warm the ice to a temperature causing the vaccine chamber to exceed the limiting temperature of 8 degrees C for storage. This quantifies the amount of heat tranfer required to reach the end of life of one use of the cool box (i.e. use of 1 ice block before requiring refreezing). Dividing this value by the total rate of heat transfer from all faces gives an esimate for the cool-time of the cool box. 
+
+Further assumptions made include:
+* The chamber cntaining the vaccines was assumed to have the thermal properties of air (the prescence of any vaccines was ignored).
+  * Convective and conductive heat transfer were ananlyssed in paralell for the heat transfer in the still air of the vaccine chamber.
+  * Assuming just conductive heat transfer gives a lower bound for the amout of heat transferred and an upper bound for the temperature in the vaccine chamber, whilst assuming convective heat transfer also, gives an upper bound for the annount of heat trabsferred from the cool box, and a lower bound for the temeprature in the vaccine chamber.
+* The thermal properties of the carosel were assumed to be the same as those of the ABS shell.
+* The heat lost out of the hexagonal faces was assumed to happen over the area of the end of the iceblock and vaccine chamber
 
 
 # Analysis of large box
 
 #### Inputs
 T_atm = 27 degrees C <br>
+T_ice_avg = -10 degrees C <br>
 Ice bottle radius = 7cm <br>
 Ice bottle height = 16cm <br>
-Vaccine chamber radial dimension = 4cm <br>
-Insulation thickness in radial direction = 6cm <br>
+Vaccine chamber radial dimension = 3.5cm <br>
+Insulation thickness in radial direction = 4cm <br>
 Insulation thickness along flat faces = 5cm <br>
 Air gap above and below ice pack = 1cm <br>
 
