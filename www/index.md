@@ -1,11 +1,43 @@
 ---
-title: Landing page of the website
+title: SMIRK - Miniaturising A Vaccine Cool Box
 ---
 
-## Introduction
+# Project to miniaturise Smile by Ideabatic
+
+## Introduction to project
+Put project headlines, Showcase final outcomes.
+## Final project deliverables
+
+## Aims of the project
+Talk about the issies the project addresses and talk about how we accheived it.
+### Market research
+###Technical aspoects eg how it will be used
+
+## Features Section
+
+### Ice pack chamber design 
+#### and prototyping
+
+### Carousel design
+####  and prototyping
+
+### Strap design 
+#### and prototyping
 
 
-Bla bla bla.
+
+## Road to miniaturising
+Put links and documentation to initial ideas, and how the market research was further refined
+### Redefined aims of project
+#### Low fidelity thermal analysis
+#### Detailed thermal analysis
+
+
+
+
+
+
+
 
 
 ### To configure your website:
