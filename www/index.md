@@ -5,22 +5,16 @@ title: SMIRK - Miniaturising A Vaccine Cool Box
 # Project to miniaturise Smile by Ideabatic
 
 ## Introduction to project
-The SMile project is a project created by the startup Ideabatic. Their aim was to make a smaller and simplified version of their current well recieved SMILE, which we were tasked to design and prototype. We placed an emphasis on the modularity and repairability of it, focusing on ensuring the pack could be used for a day keeping the vaccines at 2-8 degrees for over [24 hours](ice_chamber_code_slash_maths.md)
+The SMile project is a project created by the startup Ideabatic. Their aim was to make a smaller and simplified version of their current well recieved SMILE, which we were tasked to design and prototype. We placed an emphasis on the modularity and repairability of it, focusing on ensuring the pack could be used for a day keeping the vaccines at teh critical temperatures for over 24 hours
 
 
 Put project core ideas, and show out final outcomes (no reasons jsut the concepts)
 Put the core  SDGs it solves (in the ideabatic website)
 Image showcase
-The inner carousel was designed to be both modular and easily repairable. The foam allows for the expansion of the bottle once the water has frozen, and continues to hold it securely once the bottle begins to melt. The foam can be easily replaced, and is physically separated from the vaccines, so can be replaces with any scrap foam. (???) unsure about that last sentence.
-[IMAGES]
-
-The vaccine carrier was designed to be modular while still securely holding the vaccines. The butterfly wing shapes allows different types of vaccines to be fit securely regardless of the dimensions of the bottle, and is made of a durable rubber which can be easily swapped out. The proposed idea is to repurpose the same design, but combine them to make one section which can be attached together to form the carousel in both sections, while keeping the parts the same regardless of the size of the smile. This also allows for a storage compartment to be clipped on, gicing a small box where the clean needles and sanitary wipes can be carried without the original backpack
-(withholding review/deail until prints finish)
-
-The backpack added some comfort while carying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we came up with the solution to
 
 ## Aims of the project
-Talk more about the issies the project addresses and talk about how we accheived it.
+Every day, thousands of vaccines are destroyed and rendered useless due to heat. The SMILE Vaccine carrier aims to solve this by emphasising the ease of use, limited scope for faliure, and comfort in carrying.The smile is used in long journeys which require hours of walking to get to small villages without the easy access to modern medicine. While the current box is fantastic for this use case, having such a large box that can last 5 days is not always suitable, especially not for shorter last mile journeys, where the majority of it will be done in a car. This is why we are aiming to bring all these features to a smaller, cheaper, and simpler version. The current [market options](market_research.md) do not have a big place in markets like this, and so the smaller Smile will help with transporting vaccines at a similar price point to the market iptions, while being specifically designed for this use case, and not a short trek down the road from a GP office.
+Talk more about the issues the project addresses and talk about how we accheived it.
 Modular straps, easily repairable, useful etc.
 etc]
 ### Market research
@@ -31,7 +25,18 @@ Show the features in detail and explain how they help
 Each image has link to its lil prototyping section for each of us
 
 ### Ice pack chamber design and prototyping (linked in subpage) with all teh maths and code showcase
-How many hours it can stay cold in theory, and the size reduction.
+The inner carousel was designed to be both modular and easily repairable. The foam allows for the expansion of the bottle once the water has frozen, and continues to hold it securely once the bottle begins to melt. The foam can be easily replaced, and is physically separated from the vaccines, so can be replaces with any scrap foam. (???) unsure about that last sentence. 
+[IMAGES]
+
+### Size Reduciton
+With this new inner carousel design, we managed to ensure the vaccines be kept at 2-8 degrees throughout the cross section for up to [24 hours](ice_chamber_code_slash_maths.md). The size savings were up to XXX%, reducing the overall weight drastically, making it incredibly portable for the smaller journeys.
+(gonna ask for weight stuff once bottle arrives)
+### Carousel
+The vaccine carrier was designed to be modular while still securely holding the vaccines. The butterfly wing shapes allows different types of vaccines to be fit securely regardless of the dimensions of the bottle, and is made of a durable rubber which can be easily swapped out. The proposed idea is to repurpose the same design, but combine them to make one section which can be attached together to form the carousel in both sections, while keeping the parts the same regardless of the size of the smile. This also allows for a storage compartment to be clipped on, gicing a small box where the clean needles and sanitary wipes can be carried without the original backpack
+(withholding review/deail until prints finish)
+### Carrying
+The backpack added some comfort while carying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we came up with the solution to...
+(waitning for wednesday to finish)
 
 ### Backback design with how it will strap on and comfort etc.
 Talk about how it'll be attached, and how it will remain vaguely comfortable. [Links to prototyping and more detail about attachment mechanisms]
@@ -39,7 +44,7 @@ Talk about how it'll be attached, and how it will remain vaguely comfortable. [L
 ### Vaccine Carousel design 
 [Link to how it will hold, different iterations, what worked, what didn't]
 
-Also for all of these talk about specifically how it could be implemented (Like kitty would have to find another insulation material, or she would have to injection mould the vaccine rubbber already bent / something similar
+Also in each of the sub pagestalk about specifically how it could be implemented (Like kitty would have to find another insulation material, or she would have to injection mould the vaccine rubbber already bent / something similar
 
 
 ## Road to miniaturising
@@ -64,18 +69,7 @@ words, attached to the web page.
 
 • Statement about project management, explain the team work strategy. Reflect on
 what worked and what didn’t work, drawing constructive recommendations where
-possible. ~500 words, included in the webapge, git repo or github wiki. BELOW:
-
-
-
-We begun the project by identifying the strengths and weaknesses of the members of our group. We found that we all had similar interests in mechanical engineering and design, as well as similar skillsets, having mainly taken overlapping modules. This led us to work collaboratively at the start of the project, working as a group to identify a project proposal and work that needed to be done to reach that endpoint. On reflection, this style of working was good to have at the beginning of the project as it ensured that we were on the same page with regards to the direction we wanted the project to go in. In future, perhaps working as closely as we did was not necessary and maybe we would have been more productive if we had allocated some of this work to complete individually. Overall, however, I think that the strategy we employed worked well.
-
-As we became more deeply involved with the project the amount of work that was allocated to be completed individually increased. This was because we thought that by focussing our concentration on specific aspects of the project we would increase our productivity and make more progress on the project. At this stage the scope of the project was very well defined, having worked collaboratively for the first part of the project, and as such we were able to complete this individual work without any misunderstandings in what we were each expected to do. At this stage of the project Daniel was tasked with performing a high-level thermal analysis, a high-level mass analysis, and creating a prototype of the Miniature Smile along with a pair of prototype straps so that the Miniature Smile could be mounted on the user's back for transportation. Olivia was tasked with completing an in-depth thermal analysis of both the original Smile and the Miniature Smile using the design parameters extracted from Daniel's high-level thermal analysis. Caio completed some more market research to further pinpoint the market we were targeting, and also started worked on making a modular carousel which could be used in both the original and Miniature Smile. What went well was that we were each able to make good progress in the areas we had been assigned, however the individual nature of the work we had performed at this stage became clear at the Interim Presentation when we struggled to tie together the work we had done. Perhaps it would have been better if we'd scheduled more frequent catch-up meetings to discuss how all of our work tied together so that we had a more coherent project for the Interim Presentation.
-
-For the final part of the project we tried to find a happy medium between the two styles of working we had previously tried. We each completed our own individual pieces of work, however we communicated with each other much more as we went about this, so that the problems with coherency in the Interim Presentation were avoided. For this part of the project Daniel was tasked with performing research on pre-existing straps which could be modified to mount the Miniature Smile as suggested by Lara, Olivia was tasked with redesigning the bottle chamber to make it more modular to aid cleaning and maintenance, and Caio was tasked with prototyping modular carousel designs. Overall we believe that we worked effectively and harmoniously as a team, and we all developed our collaboration and communication skills throughout this project.
-
-
-
+possible. ~500 words, included in the webapge, git repo or github wiki.
 
 ## Individual report – Wiki format. You may use markdown files on the git repository, and the
 GitHub wiki feature on your repository.
