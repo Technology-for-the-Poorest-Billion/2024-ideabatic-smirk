@@ -384,6 +384,15 @@ Looking at how it will be fitted, and how it can be replaced
 ## Olivia
 I have developed my skills in python modelling and visualisation, and understanding of heat transfer. 
 
+# Next steps
+all work up to and onwards from this point can be seen in Interim/code/thermal analysis.md
+
+* Produce analysis with convective heat transfer in vaccine chamber to produce an upper bound for heat transfer.
+* Investigate materials to support bottle in cavity - high thermal conductivity but also compressibility
+* Prototype bottle support mechanism with this in mind
+* Perform experiments to measure expansion of bottle when frozen, once the ordered bottle arrives.
+
+
 ## Caio
 I have develiped my rapid prototyping skills, as well as how to communicate the design reasonings effectvely
 I have also developed my cad skills specifically when working with existing models.
