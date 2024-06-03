@@ -2,26 +2,6 @@
 title: Market Research
 ---
 
-We began by talking to Kitty with what she would like us to do. She got
-us started on looking into the UK market, and what applications the box
-would work on. We looked into the currently available options, but none
-of them seemed appropriate. We asked for kittys market research, and
-found that typically vaccination travel rounds last for upwards of 5
-hours, which is already enough that a medic may not wish to extend this
-time further.
-
-We talked to personal connections we know to see if there would be a
-smaller personal ice box market, however this also backfired, as most
-people in that market would not need their medication cold dor much
-longer than a few hours, and can do so with a small box when on holiday
-etc.
-
-The conclusion we came to was that the NHS market was no good. We
-proposed a second market to Kitty of a third world country where the
-journeys are less dangerous than those currently taken, but still
-require a lot of vaccinations in one go. We then looked at current large
-capacity cold boxes, and how the existing smile addresses those issues.
-
 Market research:
 
 <table style="width:100%;">
@@ -49,45 +29,47 @@ degrees outside)</th>
 <th><p>35L = 200 (bundle with 5x700 ice packs = 260)</p>
 <p>18L = 155</p>
 <p>6L = 136</p></th>
-<th><p>Internal Capacity: 6 Litres</p>
-<p>Weight (Empty): 1.658kg</p>
-<p>Medium - 460 x 305 x 255mm</p>
-<p>Internal Capacity: 18 Litres</p>
-<p>Weight (Empty): 2.151kg</p>
-<p>Large - 650 x 380 x 255mm</p>
+<th><p>Large - 650 x 380 x 255mm</p>
 <p>Internal Capacity: 35 Litres</p>
 <p>Weight (Empty): 3.657kg</p></th>
-<th>Ice packs 500ml-700ml per, about 5 ice packs</th>
-<th><p>Quite expensive, need to look at how many vaccines can fit.</p>
-<p>Too large to comfortably carry in any way other than handle, probably
+<th>Ice packs 500ml-700ml per, about 5 ice packs to be fit, reduces capacit</th>
+<th><p>Quite expensive, inefficient vaccine storage as they must be held otherwise they will be loose.</p>
+<p>Too large to comfortably carry in any way other than handle,
 not great for long walks. Current smile improves on: weight, size,
-no.vaccines, cold time with only 1 ice pack.</p></th>
+no.vaccines, cold time with only 1 ice pack. Advantages are that it is ~40% the cost of a smile. </p></th>
 </tr>
 <tr class="header">
 <th>VaccinePorter:</th>
-<th>8 hour plus time</th>
+<th>8 hours plus</th>
 <th>£160</th>
 <th>2.2L capacity</th>
-<th></th>
-<th></th>
+<th>N/A</th>
+<th>Quite expensive and small especially when compared to the Versapak</th>
 </tr>
 <tr class="odd">
 <th><a
 href="https://www.corrmed.com/product-page/porta-thermal-20-litre-vaccine-bag-bundle"><u>CorrMed</u></a>:
-CorrMed:</th>
+</th>
 <th>7 hour cold time</th>
-<th>£261.75Sale Price (350 otherwise)</th>
+<th>£261.75 Sale Price (350 otherwise)</th>
 <th>20L capacity</th>
-<th>Comes with 4 seemingly 1L ice packs</th>
-<th></th>
+<th>Comes with 4 seemingly 1L ice packs, which adds 4KG and reduces internal capacity to 16L</th>
+<th>Good alternative to Versapak, and is also reasonably priced with extras. Rated cold time not fantastic, and size is also a large concern</th>
 </tr>
 <tr class="header">
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th>SMILE Vaccine Carrier</th>
+<th>5 Day Cold Time</th>
+<th><p>$66.18 - Plastic</p>
+<p>$60 - Backpack</p>
+<p>$19.7688 - Screws, Ball bearing, Spring</p>
+<p>$48 - Icepack (replaced with one that costs $5</p>
+<p>267.5502 - CNC PIR (could potenrially be heavily reduced)</p>
+<p> 461.5 </p>
+<p>All prices for an order quantity of £3000 </p>
+</th>
+<th>36-54 vaccines depending on sizes</th>
+<th> NEED TO MEASURE TMRW</th>
+<th>Very expensive compared to otehr options, Unsure how many vaccines currently fit in others per L capacity, but the cold time is probably a much stronger limiting factor, as you wouldnt be able to use them all in one 24 hour period</th>
 </tr>
 </thead>
 <tbody>
