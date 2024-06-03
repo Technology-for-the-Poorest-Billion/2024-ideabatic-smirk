@@ -6,4 +6,6 @@ Fill in on group wiki page: Statement about project management, explain the team
 
 Record group presentation
 
-Use what Livvy has compiled in Livvy Strap Design.
+Polish up text on my part of the website and whole website
+
+Submit!!
