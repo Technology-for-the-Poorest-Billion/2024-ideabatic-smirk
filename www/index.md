@@ -5,9 +5,19 @@ title: SMIRK - Miniaturising A Vaccine Cool Box
 # Project to miniaturise Smile by Ideabatic
 
 ## Introduction to project
+The SMile project is a project created by the startup Ideabatic. Their aim was to make a smaller and simplified version of their current well recieved SMILE, which we were tasked to design and prototype. We placed an emphasis on the modularity and repairability of it, focusing on ensuring the pack could be used for a day keeping the vaccines at 2-8 degrees for over [24 hours](ice_chamber_code_slash_maths.md)
+
+
 Put project core ideas, and show out final outcomes (no reasons jsut the concepts)
 Put the core  SDGs it solves (in the ideabatic website)
 Image showcase
+The inner carousel was designed to be both modular and easily repairable. The foam allows for the expansion of the bottle once the water has frozen, and continues to hold it securely once the bottle begins to melt. The foam can be easily replaced, and is physically separated from the vaccines, so can be replaces with any scrap foam. (???) unsure about that last sentence.
+[IMAGES]
+
+The vaccine carrier was designed to be modular while still securely holding the vaccines. The butterfly wing shapes allows different types of vaccines to be fit securely regardless of the dimensions of the bottle, and is made of a durable rubber which can be easily swapped out. The proposed idea is to repurpose the same design, but combine them to make one section which can be attached together to form the carousel in both sections, while keeping the parts the same regardless of the size of the smile. This also allows for a storage compartment to be clipped on, gicing a small box where the clean needles and sanitary wipes can be carried without the original backpack
+(withholding review/deail until prints finish)
+
+The backpack added some comfort while carying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we came up with the solution to
 
 ## Aims of the project
 Talk more about the issies the project addresses and talk about how we accheived it.
@@ -56,7 +66,7 @@ words, attached to the web page.
 what worked and what didn’t work, drawing constructive recommendations where
 possible. ~500 words, included in the webapge, git repo or github wiki.
 
-##Individual report – Wiki format. You may use markdown files on the git repository, and the
+## Individual report – Wiki format. You may use markdown files on the git repository, and the
 GitHub wiki feature on your repository.
 Each student will take ownership of a part of the technical output, giving credits to others
 where appropriate. It would be helpful if the author of each each section is clearly indicated
