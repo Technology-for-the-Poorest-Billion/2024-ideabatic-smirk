@@ -1,1 +1,1 @@
-This project is about exploring the feasibility of producing 
+This project is about exploring the feasibility of producing a miniature version of the Ideabatic Smile which is both smaller and lighter than the original Smile for shorter last mile vaccination journeys.
