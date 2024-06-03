@@ -18,4 +18,10 @@ Things to attach suitcase to back pack - also a thick shell.
 Maybe make a market-research-type table to decide what needs to be bought/modified/strap attachment etc.
 
 
+
+Add section on strap research to individual section in www folder
+
+Fill in 
+
+
 Use what Livvy has compiled in Livvy Strap Design.
