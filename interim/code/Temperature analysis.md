@@ -28,39 +28,61 @@ To calculate the total heat transferred from all faces of the box the radial and
 Further assumptions made include:
 * The chamber cntaining the vaccines was assumed to have the thermal properties of air (the prescence of any vaccines was ignored).
   * Convective and conductive heat transfer were ananlyssed in paralell for the heat transfer in the still air of the vaccine chamber.
-  * Assuming just conductive heat transfer gives a lower bound for the amout of heat transferred and an upper bound for the temperature in the vaccine chamber, whilst assuming convective heat transfer also, gives an upper bound for the annount of heat trabsferred from the cool box, and a lower bound for the temeprature in the vaccine chamber.
+  * Assuming just conductive heat transfer gives a lower bound for the amout of heat transferred and an upper bound for the temperature in the vaccine chamber, whilst assuming convective heat transfer also, gives an upper bound for the annount of heat transferred from the cool box, and a lower bound for the temperature in the vaccine chamber and cool life.
 * The thermal properties of the carosel were assumed to be the same as those of the ABS shell.
 * The heat lost out of the hexagonal faces was assumed to happen over the area of the end of the iceblock and vaccine chamber
 
 
 # Analysis of large box
 
-#### Inputs
+### Inputs
 T_atm = 27 degrees C <br>
 T_ice_avg = -10 degrees C <br>
-Ice bottle radius = 7cm <br>
-Ice bottle height = 16cm <br>
+Ice bottle radius = 8cm <br>
+Ice bottle height = 14cm <br>
 Vaccine chamber radial dimension = 3.5cm <br>
 Insulation thickness in radial direction = 4cm <br>
-Insulation thickness along flat faces = 5cm <br>
+Insulation thickness along flat faces = 4.5cm <br>
 Air gap above and below ice pack = 1cm <br>
+Air gap around ice pack = 0.5cm
 
 
+### Results
+#### Upper bound for cool life - assuming just conduction in air gap
 
-#### Results
+The temperature profile from the top or bottom of the ice pack, out through one of the two hexagonal faces is shown below:
+<br><img src="Photos/Big_lin_LB.png" alt="Temperature profile through thickness of smile" width="600"/>
+<br>The rate of heat transferred from the two flat faces is, **Q_dot_l = 1.036 J/s**.
 
-![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/65d47a94-4ca5-4fed-a1b2-4611a804b697)
-<br>The rate of heat transferred from the two flat faces is, Q_dot_l = 0.930 J/s.
+The temperature profile from the ice block to the rectangular walls, in a radial direction is shown below. Two limits for the vaccine storage temperature have been shown in the figure as dashed red lines. This region is significant in the vaccine storage chamber as the average temperature of the chamber(taken as average, instead of linear temperature gradient as shown, because of mixing effects of air) must lie within these limits for the vaccines to be preserved.
+<br><img src="Photos/Big_rad_LB.png" alt="Temperature profile through radial walls" width="600"/>
+<br>The rate of heat transferred from the radial face is, **Q_dot_r = 1.542 J/s**.
 
-![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/1aaf6683-04cd-4798-bac7-194b526001e2)
-<br>The rate of heat transferred from the radial face is, Q_dot_r = 1.469 J/s.
-
-This shows the face limiting the cool life is the radial face.
+The greater rate of heat loss from the radial faces shows that the heat loss out of the radial faces is the limiting factor for the cool life. 
 By approximating the box as the radial and linear resistor systems in parallel the total heat transferred out of the cooler is,
-Q_dot = 2.376 J/s.
+**Q_dot = 2.579 J/s**.
 
-This gives a cool life, with the vaccines below 8 degrees C, of **109.3 Hours**.
+This gives a cool life, with the vaccines below 8 degrees C, of **115.1 Hours**.
 The large smile should last approx. 120 hours, so this shows that the software does give an underestimate as expected, but also a relatively close estimate of the cool life, suggesting it could be a useful tool for analysis of a smaller box design.
+
+#### Lower bound for cool life- assuming conduction and convection in air gap
+
+The temperature profile from the top or bottom of the ice pack, out through one of the two hexagonal faces is shown below:
+<br><img src="Photos/Big_lin_LB.png" alt="Temperature profile through thickness of smile" width="600"/>
+<br>The rate of heat transferred from the two flat faces is, **Q_dot_l = 1.036 J/s**. This is unchanged by the inclusion if convective effects in the air gap.
+
+The temperature profile from the ice block to the rectangular walls, in a radial direction is shown below, with convection effects now considered in the air gap as well as conduction. Two limits for the vaccine storage temperature have been shown in the figure as dashed red lines. This region is significant in the vaccine storage chamber as the average temperature of the chamber(taken as average, instead of linear temperature gradient as shown, because of mixing effects of air) must lie within these limits for the vaccines to be preserved.
+<br><img src="Photos/Big_rad_UB.png" alt="Temperature profile through radial walls" width="600"/>
+<br>The rate of heat transferred from the radial face is, **Q_dot_r = 2.772 J/s**.
+
+The greater rate of heat loss from the radial faces shows that the heat loss out of the radial faces is still the limiting factor for the cool life. 
+By approximating the box as the radial and linear resistor systems in parallel the total heat transferred out of the cooler is,
+**Q_dot = 3.808 J/s**.
+
+This gives a cool life, with the vaccines below 8 degrees C, of **77.9 Hours**.
+This is a much lower estimate for the expected cool life of the smile coolbox, but gives a range in which the true value would be exxpected to lie.
+The large smile should last approx. 120 hours, so this shows that the software does give an underestimate as expected, but also a relatively close estimate of the cool life, suggesting it could be a useful tool for analysis of a smaller box design.
+
 
 # Analysis of small box
 
