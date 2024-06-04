@@ -48,7 +48,6 @@ Overall this mounting idea is simple to execute, however there would be a lot of
 
 If the Miniature Smile is to be front mounted, a strap similar to that used to carry snare drums on parades could be used. An example of this is shown below:
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted1.jpg)
 ![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted2.avif)
 
 A strap like this would fulfill the following requirements:
