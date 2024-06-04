@@ -50,7 +50,7 @@ If the Miniature Smile is to be front mounted, a strap similar to that used to c
 
 
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted1.avif)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted1.jpg)
 
 
 
