@@ -44,6 +44,17 @@ Would be challenging to fulfill:
 Overall this mounting idea is simple to execute, however there would be a lot of challenges with getting it to fulfill all of the criteria.
 
 
+#### Drum Strap
+
+If the Miniature Smile is to be front mounted, a strap similar to that used to carry snare drums on parades could be used. An example of this is shown below:
+
+
+
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted1.webp)
+
+
+
+
 
 
 Investigate 2L Water backpacks
