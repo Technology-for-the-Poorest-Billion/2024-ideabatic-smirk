@@ -1,5 +1,7 @@
 ## Strap Research
 
+#### Objectives
+
 Functions the straps **must** perform:
 * Carry the weight of the full smile >2kg
 * Adjust to fit body size
@@ -9,16 +11,39 @@ Functions the straps **must** perform:
 * Have strong attatchments to smile box
   
 Functions the straps **could** perform:
-* Provide option for shoulder carrying or backpack carrying
+* Provide option for shoulder carrying
+* Provide option for backpack carrying
 * Have ability to fit larger smile by same attatchments
 * could carry the weight of the large smile >3.5kg
 * Integrate vaccine recoding cards
 
 
+#### Guitar Strap
 
 Guitars typically weigh 2-3 kg and so the straps used to carry them are first investigated. Guitar straps are typically mounted over one shoulder only, as shown below:
 
 ![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted.webp)
+
+The Miniature Smile could be carried in a similar way. Below is a review of how well this type of strap fulfills the objectives:
+
+Would fulfill:
+* Carry the weight of the full smile >2kg
+* Not significantly increase weight of smile
+  * Should not weigth more than the current backpack design for the larger smile
+* Provide option for shoulder carrying
+* Have ability to fit larger smile by same attatchments
+
+Would be challenging to fulfill:
+* Adjust to fit body size
+* Be padded to provide comfortable fit for health worker
+* Have strong attatchments to smile box
+* Provide option for backpack carrying
+* could carry the weight of the large smile >3.5kg
+* Integrate vaccine recoding cards
+
+Overall this mounting idea is simple to execute, however there would be a lot of challenges with getting it to fulfill all of the criteria.
+
+
 
 
 Investigate 2L Water backpacks
