@@ -3,19 +3,19 @@
 #### Objectives
 
 Functions the straps **must** perform:
-* Carry the weight of the full smile >2kg
+* Carry the weight of the Miniature Smile >2kg
 * Adjust to fit body size
-* Not significantly increase weight of smile
-  * Should not weigth more than the current backpack design for the larger smile
+* Not significantly increase weight of Smile
+  * Should not weigth more than the current backpack design for the larger Smile
 * Be padded to provide comfortable fit for health worker
-* Have strong attatchments to smile box
+* Have strong attatchments to Smile box
   
 Functions the straps **could** perform:
 * Provide option for shoulder carrying
 * Provide option for backpack carrying
 * Have ability to fit larger smile by same attatchments
-* could carry the weight of the large smile >3.5kg
-* Integrate vaccine recoding cards
+* could carry the weight of the large Smile >3.5kg
+* Integrate vaccine recording cards
 
 
 #### Guitar Strap
@@ -27,19 +27,19 @@ Guitars typically weigh 2-3 kg and so the straps used to carry them are first in
 The Miniature Smile could be carried in a similar way. Below is a review of how well this type of strap fulfills the objectives:
 
 Would fulfill:
-* Carry the weight of the full smile >2kg
-* Not significantly increase weight of smile
-  * Should not weigth more than the current backpack design for the larger smile
+* Carry the weight of the Miniature Smile >2kg
+* Not significantly increase weight of Smile
+  * Should not weigth more than the current backpack design for the larger Smile
 * Provide option for shoulder carrying
-* Have ability to fit larger smile by same attatchments
+* Have ability to fit larger Smile by same attatchments
 
 Would be challenging to fulfill:
 * Adjust to fit body size
 * Be padded to provide comfortable fit for health worker
 * Have strong attatchments to smile box
 * Provide option for backpack carrying
-* could carry the weight of the large smile >3.5kg
-* Integrate vaccine recoding cards
+* could carry the weight of the large Smile >3.5kg
+* Integrate vaccine recording cards
 
 Overall this mounting idea is simple to execute, however there would be a lot of challenges with getting it to fulfill all of the criteria.
 
@@ -48,10 +48,28 @@ Overall this mounting idea is simple to execute, however there would be a lot of
 
 If the Miniature Smile is to be front mounted, a strap similar to that used to carry snare drums on parades could be used. An example of this is shown below:
 
-
-
 ![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted1.jpg)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted2.avif)
 
+A strap like this would fulfill the following requirements:
+
+Would fulfill:
+* Carry the weight of the Miniature Smile >2kg
+* Adjust to fit body size
+* Not significantly increase weight of Smile
+  * Should not weigth more than the current backpack design for the larger Smile
+
+
+Would be challenging to fulfill:
+* Be padded to provide comfortable fit for health worker
+* Have strong attatchments to Smile box
+* Provide option for shoulder carrying
+* Provide option for backpack carrying
+* Have ability to fit larger smile by same attatchments
+* Could carry the weight of the large Smile >3.5kg
+* Integrate vaccine recording cards
+
+Although this idea initially seemed promising due to the 
 
 
 
