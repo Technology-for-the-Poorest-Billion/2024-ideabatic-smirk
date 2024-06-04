@@ -17,6 +17,13 @@ Functions the straps **could** perform:
 * could carry the weight of the large Smile >3.5kg
 * Integrate vaccine recording cards
 
+#### Conventional Rucksack-style Straps
+
+This is the type of strap that was initially prototyped and featured in the interim presentation. A photo is included below:
+
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted.webp)
+
+
 
 #### Guitar Strap
 
@@ -58,7 +65,6 @@ Would fulfill:
 * Not significantly increase weight of Smile
   * Should not weigth more than the current backpack design for the larger Smile
 
-
 Would be challenging to fulfill:
 * Be padded to provide comfortable fit for health worker
 * Have strong attatchments to Smile box
@@ -68,7 +74,9 @@ Would be challenging to fulfill:
 * Could carry the weight of the large Smile >3.5kg
 * Integrate vaccine recording cards
 
-Although this idea initially seemed promising due to the 
+Although this idea initially seemed promising due to the similarities with a conventional rucksack with mounting straps over both shoulders, after evaluating against the requirements this idea performs poorly and should be discarded.
+
+
 
 
 
