@@ -1,6 +1,6 @@
 ## Strap Research
 
-#### Objectives
+#### Requirements
 
 Functions the straps **must** perform:
 * Carry the weight of the Miniature Smile >2kg
@@ -101,13 +101,11 @@ Although this idea initially seemed promising due to the similarities with a con
 
 
 
+
+
 Investigate 2L Water backpacks
 Flight suit record card pocket
 Straps for carrying musical instrument cases - could be off the shelf to reduce manufacturing costs
-
-
-Strap requirements:
-
 
 Come up with strap design concepts and produce sketches bearing in mind ergonomics, mounting & modularity.
 Make prototype.
