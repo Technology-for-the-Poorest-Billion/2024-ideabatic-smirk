@@ -22,7 +22,7 @@ Functions the straps **could** perform:
 
 Guitars typically weigh 2-3 kg and so the straps used to carry them are first investigated. Guitar straps are typically mounted over one shoulder only, as shown below:
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted.webp)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted)
 
 The Miniature Smile could be carried in a similar way. Below is a review of how well this type of strap fulfills the objectives:
 
