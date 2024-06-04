@@ -1,5 +1,32 @@
 ## Strap Research
 
+Functions the straps **must** perform:
+* Carry the weight of the full smile >2kg
+* Adjust to fit body size
+* Not significantly increase weight of smile
+  * Should not weigth more than the current backpack design for the larger smile
+* Be padded to provide comfortable fit for health worker
+* Have strong attatchments to smile box
+  
+Functions the straps **could** perform:
+* Provide option for shoulder carrying or backpack carrying
+* Have ability to fit larger smile by same attatchments
+* could carry the weight of the large smile >3.5kg
+* Integrate vaccine recoding cards
+
+
+
+Guitars typically weigh 2-3 kg and so the straps used to carry them are first investigated. Guitar straps are typically mounted over one shoulder only, as shown below:
+
+
+
+Investigate 2L Water backpacks
+Flight suit record card pocket
+Straps for carrying musical instrument cases - could be off the shelf to reduce manufacturing costs
+
+
+Strap requirements:
+
 
 Come up with strap design concepts and produce sketches bearing in mind ergonomics, mounting & modularity.
 Make prototype.
@@ -17,23 +44,3 @@ Find things already out there for straps. Camelbaks for 2L water for example (al
 Things to attach suitcase to back pack - also a thick shell.
 
 Maybe make a market-research-type table to decide what needs to be bought/modified/strap attachment etc.
-
-
-Functions the straps **must** perform:
-* Carry the weight of the full smile >2kg
-* Adjust to fit body size
-* Not significantly increase weight of smile
-  * Should not weigth more than the current backpack design for the larger smile
-* Be padded to provide comfortable fit for health worker
-* Have strong attatchments to smile box
-  
-Functions the straps **could** perform:
-* Provide option for shoulder carrying or backpack carrying
-* Have ability to fit larger smile by same attatchments
-* could carry the weight of the large smile >3.5kg
-* Integrate vaccine recoding cards
-
-Investigate 2L Water backpacks
-Flight suit record card pocket
-Straps for carrying musical instrument cases - could be off the shelf to reduce manufacturing costs
-
