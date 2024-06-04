@@ -18,6 +18,7 @@ Functions the straps **could** perform:
 
 Guitars typically weigh 2-3 kg and so the straps used to carry them are first investigated. Guitar straps are typically mounted over one shoulder only, as shown below:
 
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_20240525_181409278.jpg)
 
 
 Investigate 2L Water backpacks
