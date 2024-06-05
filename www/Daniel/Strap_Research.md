@@ -131,8 +131,15 @@ This design has been prototyped and is shown below for the prototype Miniature S
 
 
 
-
 EVERYTHING BELOW HERE ARE NOTES
+
+Move all photos into www photo so appear on webpage
+
+Edit index page so all my pages are linked and written about in website
+
+Use laser cutter to produce some mechanism prototype
+
+Make prototype for hegaxon aligned vertically as per the new proposed Smile idea
 
 
 Investigate 2L Water backpacks
