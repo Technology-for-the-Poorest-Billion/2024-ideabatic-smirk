@@ -190,7 +190,7 @@ This implies the true cool life of a small smile, with 2.6cm insulation in all d
 The issue with this insulation thickness however, is its effect on the temperature range within the vaccine chamber. In the LB analyis of this small smile design, the average temperature of the vaccine chamber 10 degrees C whilst in the UB analysis the average temperature in the vaccine chamber is 7.5 degrees C which is within the desired range, but only just. In order to reduce the average temperature of this vaccine chamber wither the insulation could be thicker, or the thermal resistance between the ice pack and vaccines reduced. This second option is explored further in the following section.
 
 
-## Effect of spacing between bottle and carousel - significant due to shrinkage when it melts
+# Effect of spacing between bottle and carousel 
 
 Due to the shrinkage of the bottle as it melts, there cannot always be a snug fit between the ice pack and the carousel inner chamber. This results in an air gap when the ice pack is melted, as is shown in the image below, taken of the large smile inner chamber:
 <br><img src="Photos/gap.png" alt="Gap between ice pack and carousel walls in large smile" width="300"/>
@@ -205,9 +205,23 @@ The thermal properties of the materials in this gap are found to have a large im
 
 The comparison for the temperature profile in a radial direction is shown for a gap filled with air (left) and a gap filled with a material with a higher thermal conductivity (i.e. silicon foam with a thermal conductivity of 0.3 W/mK):
 
+Lower bound (for 3.5cm insulation) air gap:
+<br><img src="Photos/air_gap_3.5_LB.png" alt="Effect of air gap on lower bound analysis" width="300"/>
 
-When the gap is filled with air:
-<br>![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/d6818680-24f0-4a64-86c2-97563e2b60c3)
+Upper bound (for 3.5cm insulation) air gap:
+<br><img src="Photos/air_gap_3.5_UB.png" alt="Effect of air gap on upper bound analysis" width="300"/>
+
+Lower bound (for 3.5cm insulation) foam gap:
+<br><img src="Photos/foam_gap_3.5_LB.png" alt="Effect of conductive foam gap on lower bound analysis" width="300"/>
+
+Upper bound (for 3.5cm insulation) foam gap:
+<br><img src="Photos/gap_gap_3.5_UB.png" alt="Effect of conductive foam gap on upper bound analysis" width="300"/>
+
+This investgation suggests the average chamber temperature for 3.5cm insulation, when the gap between ice pack and carousel is air filled, is **6.5 degrees C < T < 10 degrees C**. When the gap between ice pack and carousel is filled with conductive silicone foam, the average temperature of the vaccine chamber is **7.5 degrees C < T < 2 degrees C**. This shows that filling the gap with a conductive material is beneficial to making the temperature the vaccines will be stored at lie within the limits of 2 - 8 degrees C. Requirements for the material filling this gap are that it has a high thermal conductivity e.g. 0.3 W/mK, and a high compressibility to allow for bottle expansion and shrinkage. An investigation into potential materials is conducted below.
+
+## Ice pack chamber gap material reseach
+
+
 <br>Q_dot_r: 1.041805845369173 J/s
 
 This gives a cool life, with the vaccines below 8 degrees C, of **61.3 hours**.
