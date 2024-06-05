@@ -35,9 +35,9 @@ The proposed inner carousel was designed to be both modular and easily repairabl
 The inside of the carousel was also layered with some foam. This allows for the expansion of the bottle once the water has frozen, and continues to hold it securely once the bottle begins to melt and shrink. The foam can be easily replaced, and is physically separated from the vaccines, keeping them safe from contaminants. The foam also allows for protection of the bottle, and since the whole assembly no longer needs to rotate, the added friction won't affect the performance.
 
 
-
-### Transport
-The backpack produced for the original Smile added some comfort while carrying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we devised a different way to carry the Miniature Smile. [initial strap design](Strap_Design.md) [further research and prototyping of carrying-method](Strap_Research.md)
+### Transportion
+<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+The backpack produced for the original Smile added some comfort while carrying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we devised a different way to carry the Miniature Smile. This idea was based on [initial strap design](Strap_Design.md) [further research and prototyping of carrying-method](Strap_Research.md)
 (waitning for wednesday to finish)
 
 ### Backback design with how it will strap on and comfort etc.
