@@ -24,7 +24,7 @@ The new and improved [ice pack](temperature-analysis.md) now costs 1/10th of the
 
 ### Size Reduciton
 <br><img align="left" src="landing-page/small_dimensions.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
-With the new standard 1L ice pack, we managed to ensure the vaccines be kept at 2-8 degrees throughout the cross section for up to [24 hours](ice_chamber_code_slash_maths.md). The volume savings were up to 52%, reducing the overall weight drastically, making it incredibly portable for the smaller journeys, while still having enough space for up to 36 vaccines in one trip
+With the new standard 1L ice pack, we managed to ensure the vaccines be kept at 2-8 degrees throughout the cross section for up to [24 hours](ice_chamber_code_slash_maths.md). The volume savings were up to 52%, reducing the overall weight drastically, making it incredibly portable for the smaller journeys, while still having enough space for up to 36 vaccines in one trip.
 
 <p style="clear: both;">
 
