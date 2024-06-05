@@ -23,7 +23,9 @@ The following figure shows the resistor network of thermal resistances out of th
 
 As heat is gained through both the flat hexagonal faces, the box was assumed symmetrical and two identical resistor networks were used in parralel to approximate the heat transferred through these faces.
 
-To calculate the total heat transferred from all faces of the box the radial and two linear resistance networks were all used as resistances in parallel, with the total temperatre difference across the box(from T_atm to T_ice). The total heat ransfer required to melt and warm the ice to a temperature causing the vaccine chamber to exceed the limiting temperature of 8 degrees C for storage. This quantifies the amount of heat tranfer required to reach the end of life of one use of the cool box (i.e. use of 1 ice block before requiring refreezing). Dividing this value by the total rate of heat transfer from all faces gives an esimate for the cool-time of the cool box. 
+To calculate the total heat transferred through all faces of the box the radial and two linear resistance networks were all used as resistances in parallel, with the total temperatre difference across the box(from T_atm to T_ice). The total heat ransfer required to melt and warm the ice to a temperature causing the vaccine chamber to exceed the limiting temperature of 8 degrees C for storage. This quantifies the amount of heat tranfer required to reach the end of life of one use of the cool box (i.e. use of 1 ice block before requiring refreezing). Dividing this value by the total rate of heat transfer from all faces gives an esimate for the cool-time of the cool box. 
+
+The heat transfer rates were used with the individual section thermal resistances to find the temperature difference across each section which was used to determine the temperature at each interface between layers. These points were plottes with linear temperature gradients joining them to represent the gradient through each different material. These gradients in reality are unlikely to be linear, especially in the vaccine chamber gap, where mixing is expected and a more constant temperature somehweere between the two teperatures at the interfaces with shell material would be expected.
 
 Further assumptions made include:
 * The chamber cntaining the vaccines was assumed to have the thermal properties of air (the prescence of any vaccines was ignored).
@@ -185,37 +187,29 @@ The total heat transferred out of the cooler is, **Q_dot: 3.132 J/s** giving a c
 
 This implies the true cool life of a small smile, with 2.6cm insulation in all directions, will lie between 39.7 hours < t < 60.1 hours. This suggests that the 2.6cm insulation would provide a sufficient cool life for the shorter and up to 24 hour last mile journeys.
 
-The issue with this insulation thickness however, is the temperature range within the vaccine chamber. 
-
-
+The issue with this insulation thickness however, is its effect on the temperature range within the vaccine chamber. In the LB analyis of this small smile design, the average temperature of the vaccine chamber 10 degrees C whilst in the UB analysis the average temperature in the vaccine chamber is 7.5 degrees C which is within the desired range, but only just. In order to reduce the average temperature of this vaccine chamber wither the insulation could be thicker, or the thermal resistance between the ice pack and vaccines reduced. This second option is explored further in the following section.
 
 
 ## Effect of spacing between bottle and carousel - significant due to shrinkage when it melts
-<img width="168" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/020f3c96-e6fc-4635-a14c-e23bae6c5747">
 
-Considering worst case scenario for the heating of the vaccines: we assume full contraction in a radial direction and no contraction in the londitudinal direction.
-On freezing the bottle with expand from 1 litre to 1.087 litres which results in a 4% radius increase. This space has been accounted for by a 1cm gap around the unexpanded bottle as it is likely the expansion will not be the same across the height of the bottle, so allows for more expansion at midsection.
+Due to the shrinkage of the bottle as it melts, there cannot always be a snug fit between the ice pack and the carousel inner chamber. This results in an air gap when the ice pack is melted, as is shown in the image below, taken of the large smile inner chamber:
+<br><img src="Photos/gap.png" alt="Gap between ice pack and carousel walls in large smile" width="300"/>
+The gap surrounding a fully melted ice pack in the large smile is 5mm surrounding the bottle. A similar gap both for expansion and manufacturing tolerance will be included in the design for the minaturised smile.
+
+Considering worst case scenario for the heating of the vaccines: we assume full contraction in a radial direction and no contraction in the londitudinal direction:
+- On freezing the bottle will expand from 1 litre to 1.087 litres (approx 9% by vol) which results in a 4% radius increase. This space has been accounted for by a 5mm gap around the unexpanded bottle as it is likely the expansion will not be the same across the height of the bottle, so allows for more expansion at midsection.
+- The new 1l ice pack was frozen to investigate the change in circumference which was found to only increase by 4mm. Most significant expansion was in centre of lid of the bottle, which bowed out by 3mm. A gao will therefore be left to allow longitudinal expansion.
+- Other bottles may perform differently and expand more in a radial direction (also would be more significaant if the bottle was completely filled to the top of the neck) so a gap of 5mm will be left around the circumference to allow for this radial expansion.
 
 The thermal properties of the materials in this gap are found to have a large impact on the temperature of the vaccine chamber.
+
+The comparison for the temperature profile in a radial direction is shown for a gap filled with air (left) and a gap filled with a material with a higher thermal conductivity (i.e. silicon foam with a thermal conductivity of 0.3
 
 When the gap is filled with air:
 <br>![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/d6818680-24f0-4a64-86c2-97563e2b60c3)
 <br>Q_dot_r: 1.041805845369173 J/s
 
 This gives a cool life, with the vaccines below 8 degrees C, of **61.3 hours**.
-
-## Using predictions from Dan's scaling analysis
-
-When the insulation of the small smile is set as 2.6cm the results are as follows:
-<br>![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/ac4d3e3c-c135-4d36-8572-ac31770020b1)
-<br>Q_tot_l: 0.7890635803234574 J/s
-
-![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/99f6eea9-1bdb-4b2f-a4cb-68d000a168ae)
-<br>Q_dot_r: 1.2706851966492552 J/s
-
-This gives a cool life, with the vaccines below 8 degrees C, of **52.3 hours**.
-Main issuee with this design is keeping the vaccines within the safe operating range - could be affected by running analysis assuming convection in chamber however.
-
 
 
 # Next steps
