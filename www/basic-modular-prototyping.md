@@ -2,7 +2,7 @@
 <sup>Article by Caio</sup>
 
 The prototyping began by creating a table which listed the necessary functions and features of the carousel. This let us get down to the basics, and gave us a lot of areas to work from. These jumping off points let us quicklly change and iterate upon our ideas, while having a well defined baslien to fall back to to ensure the changes were so drastic they no longer served theor original purpose.
-
+lolol
 ## Importance table
 
 <table>
@@ -26,6 +26,14 @@ The prototyping began by creating a table which listed the necessary functions a
 <td>High</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>No. Vaccines</td>
 <td>Needs to be maximised since the other constraints are already being met for cold time. Can always underfill, so need to think of a cheap and versatile way to store more. At least a certain number must be met, or too many will need to be brought and the pack will be at capacity</td>
 <td>Could be as simple as making the carousel smaller to fit the 1L box.  <br>Could look at improving attachment mechanisms to add more vaccines? Or make it more versatile.  <br>Maybe a sock/strap type thing like in a toolbox to make it really thin and versatile</td>
@@ -33,7 +41,14 @@ The prototyping began by creating a table which listed the necessary functions a
 <td>Probably fewer vaccines than SMILE, but will make it more portable and easier to transport while still having the maximum utility<br><br>Current SMILE has a very large ice pack, and not all slots are always filled (currently 3 vaccines per section with 18 sections).  <br>Smaller journeys will need less vaccines as they would probably be limited by the number of patients in one day</td>
 <td>High</td>
 </tr>
-
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr>
 <td>Simplicity</td>
 <td>Easily repairable means if something goes wrong, it can be fixed quickly and wont waste the entire pack. increases teh usable life and effectiveness of the smile</td>
@@ -42,7 +57,14 @@ The prototyping began by creating a table which listed the necessary functions a
 <td>Human error can cause vaccines to be rendered completely ineffective a lot quicker, and so need to try best to prevent this from happening. Not the end of the world as a chcecklist can serve a lot of the same functions</td>
 <td>medium-low</td>
 </tr>
-
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr>
 <td>Modularity</td>
 <td>Able to be used on the big box</td>
@@ -51,7 +73,14 @@ The prototyping began by creating a table which listed the necessary functions a
 <td>Compatible with the original design of the holders, would neeed a whole new injection mould but could potentially be repurposed for both if a large redesign is to be had.</td>
 <td>Medium</td>
 </tr>
-
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr>
 <td>Weight</td>
 <td>Needs to be transportable so cool box can reach difficult-to-reach locations, though less rough terrain so can give up SOME rigidity</td>
