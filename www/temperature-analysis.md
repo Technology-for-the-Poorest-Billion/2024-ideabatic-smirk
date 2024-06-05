@@ -217,7 +217,16 @@ Lower bound (for 3.5cm insulation) foam gap:
 Upper bound (for 3.5cm insulation) foam gap:
 <br><img src="Photos/gap_gap_3.5_UB.png" alt="Effect of conductive foam gap on upper bound analysis" width="500"/>
 
-This investgation suggests the average chamber temperature for 3.5cm insulation, when the gap between ice pack and carousel is air filled, is **6.5 degrees C < T < 10 degrees C**. When the gap between ice pack and carousel is filled with conductive silicone foam, the average temperature of the vaccine chamber is **2 degrees C < T < 7.5 degrees C**. This shows that filling the gap with a conductive material is beneficial to making the temperature the vaccines will be stored at lie within the limits of 2 - 8 degrees C. Requirements for the material filling this gap are that it has a high thermal conductivity e.g. 0.3 W/mK, and a high compressibility to allow for bottle expansion and shrinkage. An investigation into potential materials is conducted below.
+|Gap material|Thermal conductivity (W/mK)|Analysis type|Total heat transfer rate (J/s)|Cool time (hours)|avg chamber temperature (degrees C)|
+|---|---|---|---|---|---|
+|Air|0.2474|LB|1.850|67.1|10|
+|||UB|2.730|45.5|6.5|
+|Silicone foam|0.3|LB|1.973|62.9|7.5|
+|||UB|3.154|39.4|2|
+
+This investigation suggests the average chamber temperature for 3.5cm insulation, when the gap between ice pack and carousel is air filled, is **6.5 degrees C < T < 10 degrees C**. When the gap between ice pack and carousel is filled with conductive silicone foam, the average temperature of the vaccine chamber is **2 degrees C < T < 7.5 degrees C**. This shows that filling the gap with a conductive material is beneficial to making the temperature the vaccines will be stored at lie within the limits of 2 - 8 degrees C. The disadvantage of replacing the air gap with a thermaally conductive material is the increase in heat transfer rate to the smile box, resulting in a decrease in cool life. The upper bound analysis for the silicon foam filled gap gives a minimum cool time of 39.4 hours which is still sufficient for completing 24 hour last mile journeys. This suggests the benefits to the reduction in vaccine chamber temperature outweigh the loss of cool life for the specific project brief. 
+
+Requirements for the material filling this gap are that it has a high thermal conductivity e.g. 0.3 W/mK, and a high compressibility to allow for bottle expansion and shrinkage. An investigation into potential materials is conducted below.
 
 ## Ice pack chamber gap material reseach
 
@@ -263,6 +272,6 @@ The closed call nature of this foam will help ptovide durability against the con
 
 The materials considered have been considered independent of price, so to assess viability, quote would need to be obtained for all options. As well as reducing the temperature of the vaccine chamber, using a foam or sponge to fill the gap between ice pack and carousel inner wall, the potential for the bottle to move around in the chaamber is reduced as the stiffness of the foam will help to centre the bottle within the chamber. 
 
-
+If the price of these materials or others with the compressibility and thermal conductivity requirements is too high to consider them for use in the small smile, the outer insulation can be made thicker as this also has the effect of reducing the temperature of the vaccine chamber as discussed eaarlier. 4cm thick radial insulation was found to maintain the vaccine chamber average temperature much closer to a value within the optimum range, so this could be used as an alternative at the loss of some overall size reduction.
 
 
