@@ -56,7 +56,7 @@ Would fulfill:
 * Carry the weight of the Miniature Smile >2kg
 * Not significantly increase weight of Smile
   * Should not weigth more than the current backpack design for the larger Smile
-* Provide option for shoulder carrying
+* Provide option for single-shoulder carrying
 * Have ability to fit larger Smile by same attatchments
 
 Would be challenging to fulfill:
@@ -87,7 +87,7 @@ Would fulfill:
 Would be challenging to fulfill:
 * Be padded to provide comfortable fit for health worker
 * Have strong attatchments to Smile box
-* Provide option for shoulder carrying
+* Provide option for single-shoulder carrying
 * Provide option for backpack carrying
 * Have ability to fit larger smile by same attatchments
 * Could carry the weight of the large Smile >3.5kg
@@ -117,9 +117,9 @@ Would fulfill:
 * Integrate vaccine recording cards
 
 Would be challenging to fulfill:
-* Provide option for shoulder carrying
+* Provide option for single-shoulder carrying
 
-This is the most promising idea by far and as such it is the one which we'll proceed with. Both the original and the Miniature Smile could be carried by the same set of straps, with the length of the straps going around the hexagon adjusted to accommodate this.
+This is the most promising idea by far and as such it is the one with which we'll proceed. Both the original and the Miniature Smile could be carried by these same set of straps, with adjustable fastening straps to fit hexagons of different sizes.
 
 This design has been prototyped and is shown below for the prototype Miniature Smile:
 
