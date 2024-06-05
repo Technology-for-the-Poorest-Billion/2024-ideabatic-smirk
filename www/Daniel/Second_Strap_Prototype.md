@@ -1,4 +1,4 @@
-## Second Strap Prototype
+## Final Strap Prototype
 
 This design has been prototyped and is shown below for the prototype Miniature Smile:
 
