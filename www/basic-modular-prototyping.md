@@ -1,4 +1,6 @@
-# Rapid prototyping of the carousel
+# Rapid prototyping of the carousel 
+<sup>Article by Caio</sup>
+
 The prototyping began by creating a table which listed the necessary functions and features of the carousel. This let us get down to the basics, and gave us a lot of areas to work from. These jumping off points let us quicklly change and iterate upon our ideas, while having a well defined baslien to fall back to to ensure t eh changes were so drastic they no longer served theor original purpose.
 
 ## Importance table
@@ -19,12 +21,15 @@ The prototyping began by creating a table which listed the necessary functions a
  
 
 <br><img align="right" src="Photos/proto-1.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
+
 ### 1. 
 
 
 Simply making the carousel smaller. It works well as the design is already there, and would be easy to assemble and repair, but  form experience it is very easy to pull off by accident, and takes a few minutes to get right
+
 <p style="clear: both;">
 <br><img align="left" src="Photos/proto-2.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
 
 ### 2.
 
@@ -32,6 +37,7 @@ Simply making the carousel smaller. It works well as the design is already there
 Idea to make it one long slab, which can be modular for any size of smile. Puzzle attachment is probably nto the most secure, but allows complete modularity without much change in the design. Need to run heat analysis on it
 <p style="clear: both;">
 <br><img align="right" src="Photos/proto-3.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
 
 ### 3.
 
@@ -40,6 +46,8 @@ Having a capsule for needles etc is something to be explored. Can fit in the sam
 <p style="clear: both;">
 
 <br><img align="left" src="Photos/proto-4.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
+</p>
 
 ### 4.
 
@@ -47,6 +55,7 @@ Using foam inserts. Is a lot simpler, acts as insulation, and is incredibly easi
 <p style="clear: both;">
 
 <br><img align="right" src="Photos/proto-5.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
 
 ### 5.
 
@@ -55,10 +64,9 @@ Same benefits and issues as before, but is more versatile so can stuff anything 
 <p style="clear: both;">
 
 <br><img align="left" src="Photos/proto-6.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
 
 ### 6.
 
 
 Straps sewn onto foam (have seen before) Can work quite well. If careful with it will last a long time, and can be easily taped up without losing protection. would be very cheap to produce, incredibly modular, much more versatile, and a much flatter profile. Startup cost much lower but might end up being more expensive per part
-
-lol
