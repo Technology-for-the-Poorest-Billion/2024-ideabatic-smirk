@@ -35,17 +35,7 @@ The inside of the carousel was also layered with some foam. This allows for the 
 
 ### Transportion
 <br><img align="left" src="Photos/IMG-20240605-WA0004.jpg" alt="" width="300"/>
-The backpack produced for the original Smile added some comfort while carrying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we devised a different way to carry the Miniature Smile. An [initial strap-system](Daniel/Initial_Strap_Prototype.md) was devised and prototyped for the Miniature Smile whereby straps which were modular, removable and interchangeable were attached to the casing of the Miniature Smile using hook-like attachment points which could be glued on. These hook-like attachment points could be glued onto both the original and the Miniature Smile and straps could be interchanged between the two, making the design modular. These modular attachment points allowed the user to pick whichever strap was most comfortable and attach this to the box. After testing of this prototype, however, it was noticed that there was insufficient support around the user's lower back, causing pain during usage. To combat this problem [alternative methods of carrying the Miniature Smile](Daniel/Further_Strap_Research.md) were explored. The final design, shown to the left, was based on suitcase-to-backpack conversion systems whereby the Miniature Smile is mounted on a backpack unit using 3 straps which wrap around each of the box's 6 side faces.
-
-
-removable straps were attached to This idea was based on suitcase-to-backpack conversion systems whereby the Miniature Smile [initial strap design](Strap_Design.md) [further research and prototyping of carrying-method](Strap_Research.md)
-(waitning for wednesday to finish)
-
-
-
-### Backback design with how it will strap on and comfort etc.
-Talk about how it'll be attached, and how it will remain vaguely comfortable. [Links to prototyping and more detail about attachment mechanisms]
-
+The backpack produced for the original Smile added some comfort while carrying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we devised a different way to carry the Miniature Smile. An [initial strap-system](Daniel/Initial_Strap_Prototype.md) was devised and prototyped for the Miniature Smile whereby straps which were modular, removable and interchangeable were attached to the casing of the Miniature Smile using hook-like attachment points which could be glued on. These hook-like attachment points could be glued onto both the original and the Miniature Smile and straps could be interchanged between the two, making the design modular. These modular attachment points allowed the user to pick whichever strap was most comfortable and attach this to the box. After testing of this prototype, however, it was noticed that there was insufficient support around the user's lower back, causing pain during usage. To combat this problem [alternative methods of carrying the Miniature Smile](Daniel/Further_Strap_Research.md) were explored. The [final design](Daniel/Second_Strap_Prototype.md), shown to the left, was based on suitcase-to-backpack conversion systems whereby the Miniature Smile is mounted on a backpack unit using 3 straps which wrap around each of the box's 6 side faces. This proved to be more comfortable than the inital design, and is similar to the design that last year's group settled on.
 
 
 ## Road to miniaturising
