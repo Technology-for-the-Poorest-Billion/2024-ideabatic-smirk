@@ -35,8 +35,8 @@ The inside of the carousel was also layered with some foam. This allows for the 
 
 
 
-### Carrying
-The backpack added some comfort while carying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we came up with the solution to...
+### Transport
+The backpack produced for the original Smile added some comfort while carying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we devised a different way to carry the Miniature Smile. [Initial Strap Design](Strap_Design.md)
 (waitning for wednesday to finish)
 
 ### Backback design with how it will strap on and comfort etc.
