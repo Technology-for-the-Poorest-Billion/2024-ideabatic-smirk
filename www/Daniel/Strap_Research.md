@@ -21,7 +21,7 @@ Functions the straps **could** perform:
 
 This is similar to the type of strap that was initially prototyped and featured in the interim presentation. A photo is included below:
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG_3840.jpeg)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/IMG_3840.jpeg)
 
 The major difference between this strap and the one prototyped is that this strap would wrap around so that both sides would be attached to the Smile's body. This would mean that it could be carried hands-free as the wearer's hands aren't required to keep the box and straps in place. This strap is evaluated below:
 
@@ -48,7 +48,7 @@ This idea is of the more conventional type, which means that there should be lot
 
 Guitars typically weigh 2-3 kg and so the straps used to carry them are first investigated. Guitar straps are typically mounted over one shoulder only, as shown below:
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted.webp)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/ToBeDeleted.webp)
 
 The Miniature Smile could be carried in a similar way. Below is a review of how well this type of strap fulfills the objectives:
 
@@ -74,7 +74,7 @@ Overall this mounting idea is simple to execute, however there would be a lot of
 
 If the Miniature Smile is to be front mounted, a strap similar to that used to carry snare drums on parades could be used. An example of this is shown below:
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted2.avif)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/ToBeDeleted2.avif)
 
 A strap like this would fulfill the following requirements:
 
@@ -100,7 +100,7 @@ Although this idea initially seemed promising due to the similarities with a con
 
 A shoulder strap system is available for suitcases whereby the suitcase is strapped to backpack-style straps and mounted on the user's back like a normal backpack. An image of such a system is included below:
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted3.jpg)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/ToBeDeleted3.jpg)
 
 This is evaluated below:
 
@@ -123,9 +123,9 @@ This is the most promising idea by far and as such it is the one with which we'l
 
 This design has been prototyped and is shown below for the prototype Miniature Smile:
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG-20240605-WA0004.jpg)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/IMG-20240605-WA0004.jpg)
 
-![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG-20240605-WA0005.jpg)
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/IMG-20240605-WA0005.jpg)
 
 
 
