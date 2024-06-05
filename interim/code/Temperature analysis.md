@@ -194,16 +194,17 @@ The issue with this insulation thickness however, is its effect on the temperatu
 
 Due to the shrinkage of the bottle as it melts, there cannot always be a snug fit between the ice pack and the carousel inner chamber. This results in an air gap when the ice pack is melted, as is shown in the image below, taken of the large smile inner chamber:
 <br><img src="Photos/gap.png" alt="Gap between ice pack and carousel walls in large smile" width="300"/>
-The gap surrounding a fully melted ice pack in the large smile is 5mm surrounding the bottle. A similar gap both for expansion and manufacturing tolerance will be included in the design for the minaturised smile.
+<br>The gap surrounding a fully melted ice pack in the large smile is 5mm surrounding the bottle. A similar gap both for expansion and manufacturing tolerance will be included in the design for the minaturised smile.
 
 Considering worst case scenario for the heating of the vaccines: we assume full contraction in a radial direction and no contraction in the londitudinal direction:
 - On freezing the bottle will expand from 1 litre to 1.087 litres (approx 9% by vol) which results in a 4% radius increase. This space has been accounted for by a 5mm gap around the unexpanded bottle as it is likely the expansion will not be the same across the height of the bottle, so allows for more expansion at midsection.
-- The new 1l ice pack was frozen to investigate the change in circumference which was found to only increase by 4mm. Most significant expansion was in centre of lid of the bottle, which bowed out by 3mm. A gao will therefore be left to allow longitudinal expansion.
+- The new 1l ice pack was frozen to investigate the change in circumference which was found to only increase by 4mm. Most significant expansion was in centre of lid of the bottle, which bowed out by 3mm. A gap will therefore be left to allow longitudinal expansion.
 - Other bottles may perform differently and expand more in a radial direction (also would be more significaant if the bottle was completely filled to the top of the neck) so a gap of 5mm will be left around the circumference to allow for this radial expansion.
 
 The thermal properties of the materials in this gap are found to have a large impact on the temperature of the vaccine chamber.
 
-The comparison for the temperature profile in a radial direction is shown for a gap filled with air (left) and a gap filled with a material with a higher thermal conductivity (i.e. silicon foam with a thermal conductivity of 0.3
+The comparison for the temperature profile in a radial direction is shown for a gap filled with air (left) and a gap filled with a material with a higher thermal conductivity (i.e. silicon foam with a thermal conductivity of 0.3 W/mK):
+
 
 When the gap is filled with air:
 <br>![image](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/assets/99027288/d6818680-24f0-4a64-86c2-97563e2b60c3)
