@@ -6,8 +6,8 @@ title: SMIRK - Miniaturising A Vaccine Cool Box
 # Project to miniaturise Smile by Ideabatic
 
 ## Introduction to project
-The SMile project is a project created by the start-up company Ideabatic. Their aim was to make a smaller and simplified version of their current well received SMILE, which we were tasked to design and prototype to come up with a solid idea for the smaller version. We placed an emphasis on the modularity and repairability of it, focusing on ensuring the pack could be used for up to a day. The current Smile is large and bulky, and has a 5 day cold time, which is far more than what is required for shorter one day journeys to places closer to hospitals. The original Smile also has a non-standard ice pack which is expensive to manufacture, and so the smaller Smile was built around an off-the-shelf 1 L water bottle used as an ice pack.
-...
+The SMile project is a project created by the start-up company Ideabatic. Their aim was to make a smaller and simplified version of their current well received SMILE, which we were tasked to design and prototype to come up with a solid idea for the smaller version. We placed an emphasis on the modularity and repairability of it, focusing on ensuring the pack could be used for up to a day. The current Smile is large and bulky, and has a 5 day cold time, which is far more than what is required for shorter one day journeys to places closer to hospitals. The original Smile also has a non-standard ice pack which is expensive to manufacture, and so the smaller Smile was built around an off-the-shelf 1 L water bottle. Different ways of transporting the Miniature Smile were also explored, as the current Smile Backpack is bulky and expensive to manufacture.
+
 ## Aims of the project
 
 
