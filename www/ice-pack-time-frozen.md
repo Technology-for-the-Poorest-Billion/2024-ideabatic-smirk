@@ -13,7 +13,7 @@ The cooler was approximated as two simple 2D shapes for the heat transfer analys
 The hexagonal face of the cooler was analysed as a circle with a diameter equal to the shortest width of the hexagon. This ensures the analysis will produce an underestimate for the time taken to warm up, so the true model will only outperform the prediction provided by this analysis. On the full sized smile, the isulation is 7cm thick in the side with the door and 4cm thick in the far side. An average thickness was taken for the analysis, however this could be improved in further analysis.
 
 The figure shows the network of thermal resistances used around the hexagonal face, to calculate the heat transfer out of the 6 rectangular faces of the smile cooler. 
-<br><img src="Main/interim/code/Photos/Annotated_hexagonal.png" alt="Annotated hexagonal face of cooler" width="400"/>
+<br><img src="main/interim/code/Photos/Annotated_hexagonal.png" alt="Annotated hexagonal face of cooler" width="400"/>
 <img src="Photos/Radial_resistor_network.jpg" alt="2D approximate model" width="500"/>
 
 
