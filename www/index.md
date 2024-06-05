@@ -34,7 +34,7 @@ The inside of the carousel was also layered with some foam. This allows for the 
 
 
 ### Transportion
-<br><img align="left" src="Photos/IMG-20240605-WA0004.jpg" alt="" width="400"/>
+<br><img align="left" src="Photos/IMG-20240605-WA0004.jpg" alt="" width="300"/>
 The backpack produced for the original Smile added some comfort while carrying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we devised a different way to carry the Miniature Smile. This idea was based on [initial strap design](Strap_Design.md) [further research and prototyping of carrying-method](Strap_Research.md)
 (waitning for wednesday to finish)
 
