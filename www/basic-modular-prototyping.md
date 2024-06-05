@@ -24,7 +24,7 @@ The prototyping began by creating a table which listed the necessary functions a
 <td>Needs to have enough friction to hold in place without falling, does not need to be as soft as before, since journey is less rough.</td>
 <td>Adresses the form factor, as more efficient use of the space would allow for a smaller pack. Also can address teh modularity and compatibility with the original smile</td>
 <td>High</td>
-
+</tr>
 <tr>
 <td>No. Vaccines</td>
 <td>Needs to be maximised since the other constraints are already being met for cold time. Can always underfill, so need to think of a cheap and versatile way to store more. At least a certain number must be met, or too many will need to be brought and the pack will be at capacity</td>
