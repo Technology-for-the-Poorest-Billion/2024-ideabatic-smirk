@@ -1,3 +1,4 @@
+
 ---
 title: SMIRK - Miniaturising A Vaccine Cool Box
 ---
@@ -5,35 +6,24 @@ title: SMIRK - Miniaturising A Vaccine Cool Box
 # Project to miniaturise Smile by Ideabatic
 
 ## Introduction to project
-The SMile project is a project created by the startup Ideabatic. Their aim was to make a smaller and simplified version of their current well recieved SMILE, which we were tasked to design and prototype. We placed an emphasis on the modularity and repairability of it, focusing on ensuring the pack could be used for a day keeping the vaccines at teh critical temperatures for over 24 hours
-
-
-Put project core ideas, and show out final outcomes (no reasons jsut the concepts)
-Put the core  SDGs it solves (in the ideabatic website)
-Image showcase
+The SMile project is a project created by the start-up company Ideabatic. Their aim was to make a smaller and simplified version of their current well received SMILE, which we were tasked to design and prototype to come up with a solid idea for the smaller version. We placed an emphasis on the modularity and repairability of it, focusing on ensuring the pack could be used for up to a day. The current Smile is large and bulky, and has a 5 day cold time, which is far more than what is required for shorter one day journeys to places closer to hospitals. 
 
 ## Aims of the project
-Every day, thousands of vaccines are destroyed and rendered useless due to heat. The SMILE Vaccine carrier aims to solve this by emphasising the ease of use, limited scope for faliure, and comfort in carrying.The smile is used in long journeys which require hours of walking to get to small villages without the easy access to modern medicine. While the current box is fantastic for this use case, having such a large box that can last 5 days is not always suitable, especially not for shorter last mile journeys, where the majority of it will be done in a car. This is why we are aiming to bring all these features to a smaller, cheaper, and simpler version. The current [market options](market_research.md) do not have a big place in markets like this, and so the smaller Smile will help with transporting vaccines at a similar price point to the market iptions, while being specifically designed for this use case, and not a short trek down the road from a GP office.
-Talk more about the issues the project addresses and talk about how we accheived it.
-Modular straps, easily repairable, useful etc.
-etc]
-### Market research
-Talk about how our solution is better than other options while still beinmg more portable than the original smile. [link to market research page]
-
+Every day, thousands of vaccines are destroyed and rendered useless due to heat. The SMILE Vaccine carrier aims to solve this by emphasising the ease of use, limited scope for human error, and comfort in carrying. The smile is used in long journeys which require many hours of walking to get to small villages without the easy access to modern medicine. While the current box is fantastic for this use case, having such a large box that can last 5 days is not always suitable, where the majority of a journey will be done in a car before the walk. This is why we are aiming to bring all these features to a smaller, cheaper, and simpler version. The current [cold boxes](market_research.md) do not have a big place in markets like this, and so the smaller Smile will help with transporting vaccines at a similar price point to the market options. The smile also has an advantage in being specifically designed for carrying over distances longer than a few hours, and not a short drive down the road from a GP office, since current carriers are, at best, inefficient cool boxes.
 ## Features Section
-Show the features in detail and explain how they help 
-Each image has link to its lil prototyping section for each of us
+Our final design blended the original design and parts, with innovative solution to issues which no longer existed with the new application. We aimed to keep large portions of the design similar, so as to keep the branding and thermal performance, while ensuring our solutions were feasible.
 
-### Ice pack chamber design and prototyping (linked in subpage) with all teh maths and code showcase
-The inner carousel was designed to be both modular and easily repairable. The foam allows for the expansion of the bottle once the water has frozen, and continues to hold it securely once the bottle begins to melt. The foam can be easily replaced, and is physically separated from the vaccines, so can be replaces with any scrap foam. (???) unsure about that last sentence. 
-[IMAGES]
-
+### Ice Pack
+The new and improved [ice pack](ice-pack-time-frozen.md) now costs 1/10th of the original, while still fitting in the same dimensions as before. The ice pack can last 8 hours without insulation, and much, much more once inside the SMIRK device. Given its reduction in size, it also only expands by 4mm each direction, letting us have much tighter tolerances, minimising the size of the carrier.
 ### Size Reduciton
-With this new inner carousel design, we managed to ensure the vaccines be kept at 2-8 degrees throughout the cross section for up to [24 hours](ice_chamber_code_slash_maths.md). The size savings were up to XXX%, reducing the overall weight drastically, making it incredibly portable for the smaller journeys.
-(gonna ask for weight stuff once bottle arrives)
+With the new standard 1L ice pack, we managed to ensure the vaccines be kept at 2-8 degrees throughout the cross section for up to [24 hours](ice_chamber_code_slash_maths.md). The volume savings were up to 52%, reducing the overall weight drastically, making it incredibly portable for the smaller journeys, while still having enough space for up to 36 vaccines in one trip
+
+
 ### Carousel
-The vaccine carrier was designed to be modular while still securely holding the vaccines. The butterfly wing shapes allows different types of vaccines to be fit securely regardless of the dimensions of the bottle, and is made of a durable rubber which can be easily swapped out. The proposed idea is to repurpose the same design, but combine them to make one section which can be attached together to form the carousel in both sections, while keeping the parts the same regardless of the size of the smile. This also allows for a storage compartment to be clipped on, gicing a small box where the clean needles and sanitary wipes can be carried without the original backpack
-(withholding review/deail until prints finish)
+
+The proposed inner carousel was designed to be both modular and easily repairable, while remaining easy to clean and versatile enough that it could carry a syringe and needles for each vaccine. The design has the entire carousel visible when the box is open, but allows only one set of vaccines to be exposed at any given time, keeping the cold air inside, extending the cold time. While the door no longer automatically closes, it lets us keep the same design for the large SMILE and the smaller SMIRK, allowing for modularity and ease of replacement for the components. This also allows for the extreme versatility in how the pack is used, as you are free to choose whether you want to maximise vaccines, or if it will be more convenient to also carry the syringes and needles in the same pack. This design was chosen through prototyping a [modular design](basic-modular-prototyping), then combining it with a [single section design](single-section-design) with the thermal code, before [3d printing](3d-final-prototype) the prototypes.
+The inside of the carousel was also layered with some foam. This allows for the expansion of the bottle once the water has frozen, and continues to hold it securely once the bottle begins to melt and shrink. The foam can be easily replaced, and is physically separated from the vaccines, keeping them safe from contaminants. The foam also allows for protection of the bottle, and since the whole assembly no longer needs to rotate, the added friction won't affect the performance.
+
 ### Carrying
 The backpack added some comfort while carying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we came up with the solution to...
 (waitning for wednesday to finish)
@@ -41,15 +31,12 @@ The backpack added some comfort while carying, and allowed for important informa
 ### Backback design with how it will strap on and comfort etc.
 Talk about how it'll be attached, and how it will remain vaguely comfortable. [Links to prototyping and more detail about attachment mechanisms]
 
-### Vaccine Carousel design 
-[Link to how it will hold, different iterations, what worked, what didn't]
-
-Also in each of the sub pagestalk about specifically how it could be implemented (Like kitty would have to find another insulation material, or she would have to injection mould the vaccine rubbber already bent / something similar
 
 
 ## Road to miniaturising
 Put links and documentation to initial ideas, and how the market research was further refined
 ### Redefined aims of project, and expand on what teh orignal breiif was, howe we looked into it, how it changes, and how we settled on a final project
+
 
 
 
