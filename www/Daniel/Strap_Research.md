@@ -102,6 +102,28 @@ A shoulder strap system is available for suitcases whereby the suitcase is strap
 
 ![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted3.jpg)
 
+This is evaluated below:
+
+Would fulfill:
+* Carry the weight of the Miniature Smile >2kg
+* Adjust to fit body size
+* Not significantly increase weight of Smile
+  * Should not weigth more than the current backpack design for the larger Smile
+* Be padded to provide comfortable fit for health worker
+* Have strong attatchments to Smile box
+* Provide option for backpack carrying
+* Have ability to fit larger smile by same attatchments
+* could carry the weight of the large Smile >3.5kg
+* Integrate vaccine recording cards
+
+Would be challenging to fulfill:
+* Provide option for shoulder carrying
+
+This is the most promising idea by far and as such it is the one which we'll proceed with. Both the original and the Miniature Smile could be carried by the same set of straps, with the length of the straps going around the hexagon adjusted to accommodate this.
+
+This design has been prototyped and is shown below:
+
+
 
 
 
@@ -125,3 +147,16 @@ Find things already out there for straps. Camelbaks for 2L water for example (al
 Things to attach suitcase to back pack - also a thick shell.
 
 Maybe make a market-research-type table to decide what needs to be bought/modified/strap attachment etc.
+
+
+* Carry the weight of the Miniature Smile >2kg
+* Adjust to fit body size
+* Not significantly increase weight of Smile
+  * Should not weigth more than the current backpack design for the larger Smile
+* Be padded to provide comfortable fit for health worker
+* Have strong attatchments to Smile box
+* Provide option for shoulder carrying
+* Provide option for backpack carrying
+* Have ability to fit larger smile by same attatchments
+* could carry the weight of the large Smile >3.5kg
+* Integrate vaccine recording cards
