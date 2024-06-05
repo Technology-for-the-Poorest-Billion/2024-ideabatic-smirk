@@ -10,13 +10,18 @@ The SMile project is a project created by the start-up company Ideabatic. Their 
 ...
 ## Aims of the project
 
+
 Every day, thousands of vaccines are destroyed and rendered useless due to heat. The SMILE Vaccine carrier aims to solve this by emphasising the ease of use, limited scope for human error, and comfort in carrying. The smile is used in long journeys which require many hours of walking to get to small villages without the easy access to modern medicine. While the current box is fantastic for this use case, having such a large box that can last 5 days is not always suitable, where the majority of a journey will be done in a car before the walk. This is why we are aiming to bring all these features to a smaller, cheaper, and simpler version. The current [cold boxes](market_research.md) do not have a big place in markets like this, and so the smaller Smile will help with transporting vaccines at a similar price point to the market options. The smile also has an advantage in being specifically designed for carrying over distances longer than a few hours, and not a short drive down the road from a GP office, since current carriers are, at best, inefficient cool boxes.
 ## Features Section
 Our final design blended the original design and parts, with innovative solution to issues which no longer existed with the new application. We aimed to keep large portions of the design similar, so as to keep the branding and thermal performance, while ensuring our solutions were feasible.
 
 ### Ice Pack
+<br><img align="right" src="landing-page\Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="500"/>
+
 The new and improved [ice pack](temperature-analysis.md) now costs 1/10th of the original, while still fitting in the same dimensions as before. The ice pack can last 8 hours without insulation, and much, much more once inside the SMIRK device. Given its reduction in size, it also only expands by 4mm each direction, letting us have much tighter tolerances, minimising the size of the carrier.
+
 ### Size Reduciton
+<br><img align="left" src="landing-page/small_dimensions.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
 With the new standard 1L ice pack, we managed to ensure the vaccines be kept at 2-8 degrees throughout the cross section for up to [24 hours](ice_chamber_code_slash_maths.md). The volume savings were up to 52%, reducing the overall weight drastically, making it incredibly portable for the smaller journeys, while still having enough space for up to 36 vaccines in one trip
 
 
