@@ -30,12 +30,12 @@ Would fulfill:
 * Adjust to fit body size
 * Have strong attatchments to Smile box
 * Provide option for backpack carrying
-* ould carry the weight of the large Smile >3.5kg
-
-
-Would be challenging to fulfill:
+* Should carry the weight of the large Smile >3.5kg
 * Not significantly increase weight of Smile
   * Should not weigth more than the current backpack design for the larger Smile
+
+Would be challenging to fulfill:
+
 * Be padded to provide comfortable fit for health worker
 * Provide option for shoulder carrying
 * Have ability to fit larger smile by same attatchments
@@ -129,6 +129,10 @@ This design has been prototyped and is shown below for the prototype Miniature S
 
 
 
+
+
+
+EVERYTHING BELOW HERE ARE NOTES
 
 
 Investigate 2L Water backpacks
