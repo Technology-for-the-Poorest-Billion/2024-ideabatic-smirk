@@ -96,9 +96,11 @@ Would be challenging to fulfill:
 Although this idea initially seemed promising due to the similarities with a conventional rucksack with mounting straps over both shoulders, after evaluating against the requirements this idea performs poorly and should be discarded.
 
 
+#### Suitcase Shoulder Straps
 
+A shoulder strap system is available for suitcases whereby the suitcase is strapped to backpack-style straps and mounted on the user's back like a normal backpack. An image of such a system is included below:
 
-
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/ToBeDeleted3.jpg)
 
 
 
