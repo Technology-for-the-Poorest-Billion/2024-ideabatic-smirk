@@ -169,30 +169,23 @@ The height of the mini smile with insulation thickness of 4cm is 22cm, so has a 
 The temperature profile from the ice block to the rectangular walls, in a radial direction is shown below, with only conduction effects considered in the air gap.
 <br><img src="Photos/small_2.6_rad_LB.png" alt="Temperature profile through radial walls" width="600"/>
 <br>The rate of heat transferred from the radial face is, **Q_dot_r = 1.156 J/s**.
-The diameter of the small smile with 4cm insulation is approx. 26cm which is a reduction of 7cm from the large smile.
+The diameter of the small smile with 4cm insulation is approx. 23cm which is a reduction of 10cm from the large smile.
 
 This shows the face limiting the cool life is the radial face as in the large model.
 By approximating the box as the radial and linear resistor systems in parallel the total heat transferred out of the cooler is,
-**Q_dot: 2.068 J/s**.
-
-This gives a cool life, with the vaccines below 8 degrees C, of **60.1 hours**.
+**Q_dot: 2.068 J/s** giving a cool life, with the vaccines below 8 degrees C, of **60.1 hours**.
 
 ### Upper bound for rate of heat transfer - assuming conduction and convection in air gap
-
-The temperature profile out of the two hexagonal faces is unchanged between the upper and lower bound analyses, so only the radial heat transfer analysis and resulting total heat transfer rate and cool time are included for upper bound from this point onwards.
 
 The temperature profile from the ice block to the rectangular walls, in a radial direction is shown below, with convection effects now considered in the air gap as well as conduction.
 <br><img src="Photos/small_2.6_rad_UB.png" alt="Temperature profile through radial walls" width="600"/>
 <br>The rate of heat transferred from the radial face is, **Q_dot_r = 2.220 J/s**.
 
-This shows the face limiting the cool life is the radial face as in the large model.
-By approximating the box as the radial and linear resistor systems in parallel the total heat transferred out of the cooler is,
-**Q_dot: 3.132 J/s**
+The total heat transferred out of the cooler is, **Q_dot: 3.132 J/s** giving a cool life, with the vaccines below 8 degrees C, of **39.7 hours**.
 
-This gives a cool life, with the vaccines below 8 degrees C, of **39.7 hours**.
-This implies the true cool life of a small smile will lie between 48.3 hours < t < 70.3 hours. The use case for the smaller smile requires it to last up to 24 hours for shorter last mile journeys. This criterion is met by the design with the off the shelf smaller ice pack and 4cm thick insulation above, below and radially surrounding the ice pack and vaccine chamber.
+This implies the true cool life of a small smile, with 2.6cm insulation in all directions, will lie between 39.7 hours < t < 60.1 hours. This suggests that the 2.6cm insulation would provide a sufficient cool life for the shorter and up to 24 hour last mile journeys.
 
-In all analyses so far, the radial heat transfer has been the limiting factor. This implies the insulation thickness above and below could be reduced relative to the thickness of the insulation around the vaccine chamber's circumference.
+The issue with this insulation thickness however, is the temperature range within the vaccine chamber. 
 
 
 
