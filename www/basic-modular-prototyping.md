@@ -60,3 +60,5 @@ Same benefits and issues as before, but is more versatile so can stuff anything 
 
 
 Straps sewn onto foam (have seen before) Can work quite well. If careful with it will last a long time, and can be easily taped up without losing protection. would be very cheap to produce, incredibly modular, much more versatile, and a much flatter profile. Startup cost much lower but might end up being more expensive per part
+
+lol
