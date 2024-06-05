@@ -121,7 +121,11 @@ Would be challenging to fulfill:
 
 This is the most promising idea by far and as such it is the one which we'll proceed with. Both the original and the Miniature Smile could be carried by the same set of straps, with the length of the straps going around the hexagon adjusted to accommodate this.
 
-This design has been prototyped and is shown below:
+This design has been prototyped and is shown below for the prototype Miniature Smile:
+
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG-20240605-WA0004.jpg)
+
+![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/interim/photographs/IMG-20240605-WA0005.jpg)
 
 
 
