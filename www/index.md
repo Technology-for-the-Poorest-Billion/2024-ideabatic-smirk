@@ -37,8 +37,10 @@ Reducing inequalities within and amoung countries is a goal that aligns with the
 
 The miniaturised smile has been designed for modularity, repair and resiliance, supporting circular economy sustainable design principles. By designing the product to be easily maintained, cleaned and repaired, modular and robust reduced waste produced and extends the product lifetime. The aim of the product is also to reduce the number of spoiled vaccines by storing them within an optimum temperature range, preserving valuable rescources.
 
+<p style="clear: both;">
 <br>
 <br>
+
 
 ## Features Section
 Our final design blended the original design and parts, with innovative solution to issues which no longer existed with the new application. We aimed to keep large portions of the design similar, so as to keep the branding and thermal performance, while ensuring our solutions were feasible.
