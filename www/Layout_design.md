@@ -46,3 +46,4 @@ In the current large smile design, the carousel is fixed and cannot be removed, 
 
 ## Centralising ice bottle in chamber
 
+## Final dimensions and analysis
