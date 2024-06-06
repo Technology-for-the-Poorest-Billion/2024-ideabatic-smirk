@@ -15,11 +15,11 @@ time further. There was also a lack of people in a position of buying power to a
 
 We then talked to personal connections we know to see if there would be a
 smaller personal ice box market, however this also backfired, as most
-people in that market would not need their medication cold dor much
+people in that market would not need their medication cold or much
 longer than a few hours, and can do so with a small box when on holiday
-etc.
+etc. We even looked at a potential vet market as they must travel large distances to rural farms with their vaccines.
 
-The conclusion we came to was that the NHS market was no good. We
+The conclusion we came to was that the NHS and personal markets were no good. We
 proposed a second market to Kitty of a third world country where the
 journeys are less dangerous than those currently taken, but still
 require a lot of vaccinations in one go. We then looked at current large
