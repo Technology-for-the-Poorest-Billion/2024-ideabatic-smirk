@@ -4,7 +4,7 @@ title: SMIRK - Miniaturising A Vaccine Cool Box
 ---
 
 # Project to miniaturise Smile by Ideabatic
-LOLOLOL
+
 ## Introduction to project
 The SMile project is a project created by the start-up company Ideabatic. Their aim was to make a smaller and more simplified version of their current well received SMILE, which we were tasked to design and prototype to develop a solution for the smaller version. An emphasis was put on the modularity and repairability of the design, with a focus on ensuring the pack could be used for up to 24 hours. The current Smile is large and bulky, and has a 5 day cold time, which is in excess of that required for shorter 'last mile' journeys to places closer to hospitals. The original Smile also has a non-standard, bespoke ice pack which is expensive to manufacture, whereas the smaller Smile has been designed around an alternative off-the-shelf 1L water bottle. Different ways of transporting the Miniature Smile were also explored, as the current Smile Backpack is bulky and expensive to manufacture.
 
@@ -58,18 +58,22 @@ We begun by performing a [thermal analysis](Daniel/Thermal_Analysis.md) and [mas
 The new and improved [ice pack](temperature-analysis.md) now costs 1/10th of the original, while still fitting in the same dimensions as before. The ice pack can last 8 hours without insulation, and much, much more once inside the SMIRK device. Given its reduction in size, it also only expands by 4mm each direction, letting us have much tighter tolerances, minimising the size of the carrier.
 
 <p style="clear: both;">
+</p>
 
 ### Size Reduction
 <br><img align="left" src="landing-page/small_dimensions.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
 With the new standard 1L ice pack, we managed to ensure the vaccines be kept at 2-8 degrees throughout the cross section for up to [24 hours](ice_chamber_code_slash_maths.md). The volume savings were up to 52%, reducing the overall weight drastically, making it incredibly portable for the smaller journeys, while still having enough space for up to 36 vaccines in one trip.
 
 <p style="clear: both;">
+</p>
 
 ### Carousel
 <br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
 The proposed inner carousel was designed to be both modular and easily repairable, while remaining easy to clean and versatile enough that it could carry a syringe and needles for each vaccine. The design has the entire carousel visible when the box is open, but allows only one set of vaccines to be exposed at any given time, keeping the cold air inside, extending the cold time. While the door no longer automatically closes, it lets us keep the same lid design for the large SMILE and the smaller SMIRK, allowing for modularity and ease of replacement for the components. This also allows for the extreme versatility in how the pack is used, as you are free to choose whether you want to maximise vaccines, or if it will be more convenient to also carry the syringes and needles in the same pack. This design was chosen through prototyping a [modular design](basic-modular-prototyping.md), then combining it with a [single section design](Layout_design.md) with the thermal code, before [3d printing](3d-final-prototype.md) the prototypes.
 The inside of the carousel was also layered with some foam. This allows for the expansion of the bottle once the water has frozen, and continues to hold it securely once the bottle begins to melt and shrink. The foam can be easily replaced, and is physically separated from the vaccines, keeping them safe from contaminants. The foam also allows for protection of the bottle, and since the whole assembly no longer needs to rotate, the added friction won't affect the performance.
 
+<p style="clear: both;">
+</p>
 
 ### Transportion
 <br><img align="left" src="Photos/IMG-20240605-WA0004.jpg" alt="" width="300"/>
