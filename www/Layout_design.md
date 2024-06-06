@@ -30,7 +30,19 @@ In the current large smile design, the carousel is fixed and cannot be removed, 
 <img src="Photos/Big_base.jpeg" alt="fixed lid of large smile" width="300"/>
 
 ## Potential configuration options for miniature SMILE
-<img src="Photos/screw.png" alt="Fixing carousel" width="300"/>
+<img src="Photos/screws.png" alt="Fixing carousel" width="600"/>
+
+<img src="Photos/lid_1.png" alt="Fixing carousel" width="600"/>
+<img src="Photos/lid_2.png" alt="Fixing carousel" width="600"/>
+
+<img src="Photos/spin_lock_1.png" alt="Fixing carousel" width="600"/>
+<img src="Photos/spin_lock_2.png" alt="Fixing carousel" width="600"/>
+<img src="Photos/doors.png" alt="Fixing carousel" width="500"/>
+
+<img src="Photos/draw_set_1.png" alt="Fixing carousel" width="600"/>
+<img src="Photos/draw_set_2.png" alt="Fixing carousel" width="600"/>
+<img src="Photos/draw_fill.png" alt="Fixing carousel" width="400"/>
+<img src="Photos/handles.png" alt="Fixing carousel" width="500"/>
 
 ## Centralising ice bottle in chamber
 
