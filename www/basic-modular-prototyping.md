@@ -125,9 +125,10 @@ After these sketches were done, some of the ideas were made into physical protot
 The first to be  made was the puzzle piece design. This was 3d printed out of a flexible filament which allowed us to simulate the felxible rubber that the attachment is already made of. We then placed these in the grooves to test how one flat piece would work with both designs curvatures
 <p style="clear: both;">
 <br><img align="left" src="Photos/puzzle-part-loaded.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+<img align="left" src="Photos/puzzle-side.jpeg" alt="Annotated hexagonal face of cooler" width="285"/>
 </p>
 <p style="clear: both;">
-<br><img align="left" src="Photos/puzzle-side.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+
 </p>
 Puzzle pieces were used at the edges to allow for flexibility and modulatiry with a potential future design. It also allowed the design to hypothetiocally be used for both the regular smile and the smaller smile if a redesign were to occur.
 
@@ -142,11 +143,9 @@ THis design had some major flaws. Since the dimensions were modeled against the 
 The next part to be tested was a compartment which would be able to slot into the existing design (but could be easily repurposed for the smaller one) which would be able to carry the syringes
 <p style="clear: both;">
 <br><img align="left" src="Photos/red-top-view.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+<img align="left" src="Photos/red-attachment-view.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
 </p>
-<p style="clear: both;">
-<br><img align="left" src="Photos/red-attachment-view.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
-</p>
-
+<br>
 This worked quite well, as the inside had a fair amount of room for this. As you can see in teh right image, the small gaps were designed to fit into the carousel, and potentially a lid would be placed to cap teh end, however it would be difficult to open with the current lid design on teh outer shell.
 <p style="clear: both;">
 <br><img align="left" src="Photos/foam-red-top.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
@@ -160,13 +159,22 @@ Pros of this design is that this smaller smiel can be more versatile in its use,
 ### cons
 The main issues with this was that it would be too difficult to load and unload these sections, and the things placed in them would be free to move around, however this was rectified in the later revisions
 
+<p style="clear: both;">
+</p>
+
 ## foam plate with elastic straps
 
 The final quick iteration was the idea of a foam plate with elastic straps. Due to material availability, it was instead made with scraps of a tshirt, and some spare foam. 
 To do this, Olivia cut up some fabric, and attempted two thin sections, and a thicker section, and sewed it directly onto the foam. The foam fared surprisingly well and did not rip, meaning this would be feasible to produce at a reliabe scale. 
 
+<br><img align="centre" src="Photos/straps-top-view.jpeg" width="350"/>
+<img align="centre" src="Photos/straps-flat.jpeg" width="420"/>
+<p style="clear: both;">
+</p>
+
 ### pros
-the pros are that it is cheap, modular, easy to undertand and usem, and repairable
+Some pros of this design is that it is not dependant on the curvature of the surface that it is on. Can be easily cut to different lengths for each size. It also holds the vaccines qure securely, and could be used for a much broader range of sizes
 ### cons
-cons are that the foam is porous, and it could end up beign expensive to make this at scale.
+Cons are that the foam is porous, and could get quite dirty, which is sub-optimal when it it making direct contact with the vaccines. It could also end up being expensive to make this at scale, where an injection moulded part only has the startup cost and the miniscule material cost in comparison.
+
 

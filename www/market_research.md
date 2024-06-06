@@ -1,7 +1,7 @@
 ---
 title: Market Research
 ---
-
+<sup>Article by Caio Bezerra</sup>
 
 
 
@@ -27,7 +27,7 @@ The conclusion we came to was that the NHS market was no good. We
 proposed a second market to Kitty of a third world country where the
 journeys are less dangerous than those currently taken, but still
 require a lot of vaccinations in one go. We then looked at current large
-capacity cold boxes, and how the existing smile addresses those issues.
+capacity cold boxes, and how the existing smile addresses those issues. This led us to conclude that shrinking the smile would be viable for such a market, but some key constraints applied that would be different to a box in the west.
 
 
 

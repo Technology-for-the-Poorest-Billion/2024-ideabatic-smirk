@@ -1,4 +1,5 @@
 # Heat transfer analysis
+<sup>Article by Olivia Ambler</sup>
 
 ## Objectives
 

@@ -1,4 +1,5 @@
 # Final proposed carousel design
+<sup>Article by Caio Bezerra</sup>
 
 ## Design finalisations
 After the technical sketches and prototyping done by Olivia, we worked together to create the cad model, and work out appropriate dimensions for each design, and chose which potential sketches were the best options. Looking through, we determined that having all the vaccines in one section which can be accessible would not affect the thermal design very much if we were able to only have the used vaccines directly exposed to the outside at any given time. This will present a challenge to kitty as to how to ensure the door can remain closed when not in use, however this was a user error issue which we decided would not affect the other benefits of the smile enough that it would change what makes the design so good.
