@@ -1,5 +1,5 @@
 # Miniature SMILE Configuration Design
-By Olivia Ambler
+<sup>Article by Olivia Ambler</sup>
 
 ## Objectives
 
@@ -23,11 +23,23 @@ The design **COULD** perform the following functions:
 
 ## Analysis of current design
 
-In the current large smile design, the carousel is fixed and cannot be removed, only rotated, when the box is fully assembled as it would be in use.
+In the current large smile design, the carousel is fixed and cannot be removed only rotated, when the box is fully assembled as it would be in use. The sketch below shows the key components involved in holding the carousel inside the smile and allowing it to rotate. 
 <br><img src="Photos/Internal_big.png" alt="Configuration of large smile" width="500"/>
+<br> The design consits of two identical outer ABS shell halves which could be sheet fomed using the same mould. The isulation is CNCd and fit inside each half, and an internal shell is fit inside the inslation. The two halves are screwed together once the carousel is in place. Because the insulation material is fragile and is directly exposed to the environment when the halves are separated, the carousel cannot easily be removed in service for cleaning.
+
+Images of the large smile carousel, base inside one of the shell halves (including insulation and inner shell, and with bottom lid fitted), and bottom lid that gets fixed to base of carousel are included below:
 <br><img src="Photos/Big_car.jpeg" alt="Carousel of large smile" width="300"/>
 <img src="Photos/Big_in.jpeg" alt="inner base of large smile" width="300"/>
 <img src="Photos/Big_base.jpeg" alt="fixed lid of large smile" width="300"/>
+As the two halves of the smile box are identical, both hexagonal faces have a hole for a 'plug' or circular door at the centre. One of these doors is shown in the images above, and is fitted to the carousel with 6 screws when the door is placed outside the box and the carousel inside, to hold it in place. This door can be rotated to directly rotate the whole carousel within the shell and change the vaccine chamber that is accessible through the side door. It is labelled with an inicator of which chamber is aligned with the door, and numbered for easy vaccine logging. A concentric recess is added in the inner shell with an equivalently placed lip on the bottom of the carousel to help centre it and locate the screws in the bottom lid. The lid on the other hexagonal face is removable with a simple locking mehcanism pictured below:
+<br><img src="Photos/big_lid_off.png" alt="Lid of large" width="600"/>
+
+This lid is removed to access and remove the ice pack bottle. Its diameter allows access to the inner carousel, keeping the outer carousel (vaccine carrying section) isolated from the environment.
+
+The vaccines are accessed through a sprung self-closing door on one of the rectangular faces of the box. this allows acess to a single column of vaccines at once, keeping the others isolated from the environment. This design reduces the risk of healther leaving the cool box door open and warming all the vaccines whilst administering medications. The dor is pictured below:
+
+Within the carousel inner chamber that holds the bottle ice pack, there is a small pin used to locate a bearing that fits a recess in the base of the bespoke ice pack bottle and helps to keep it central despite its expanding and shrinkage due to the state of melting. There is a similar recess in the removable lid to the chamber which helps to centralise the cap of the bottle. This lid is also made with a rubber, compressible contact to the bottle, to allow space for expansion and skrinkage.
+
 
 ## Potential configuration options for miniature SMILE
 <img src="Photos/screws.png" alt="Fixing carousel" width="600"/>
@@ -42,7 +54,7 @@ In the current large smile design, the carousel is fixed and cannot be removed, 
 <img src="Photos/draw_set_1.png" alt="Fixing carousel" width="600"/>
 <img src="Photos/draw_set_2.png" alt="Fixing carousel" width="600"/>
 <img src="Photos/draw_fill.png" alt="Fixing carousel" width="400"/>
-<img src="Photos/handles.png" alt="Fixing carousel" width="500"/>
+<img src="Photos/handles.png" alt="Fixing carousel" width="600"/>
 
 ## Centralising ice bottle in chamber
 
