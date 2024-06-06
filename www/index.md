@@ -4,7 +4,7 @@ title: SMIRK - Miniaturising A Vaccine Cool Box
 ---
 
 # Project to miniaturise Smile by Ideabatic
-
+LOLOLOL
 ## Introduction to project
 The SMile project is a project created by the start-up company Ideabatic. Their aim was to make a smaller and more simplified version of their current well received SMILE, which we were tasked to design and prototype to develop a solution for the smaller version. An emphasis was put on the modularity and repairability of the design, with a focus on ensuring the pack could be used for up to 24 hours. The current Smile is large and bulky, and has a 5 day cold time, which is in excess of that required for shorter 'last mile' journeys to places closer to hospitals. The original Smile also has a non-standard, bespoke ice pack which is expensive to manufacture, whereas the smaller Smile has been designed around an alternative off-the-shelf 1L water bottle. Different ways of transporting the Miniature Smile were also explored, as the current Smile Backpack is bulky and expensive to manufacture.
 
@@ -13,35 +13,29 @@ Every day, thousands of vaccines are destroyed and rendered useless due to heat.
 
 ## Sustainable development goals
 The project aim aligns with the following sustainable development goals: 
-<br>
+
 <br><img align="left" src="landing-page/Sustainable_Development_Goal_03GoodHealth.svg.png" alt="SDG 3" width="200"/>
-</br>
-</br>
+
 The mini smile provides most progress towards target 3.8: "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all". The development of this ergonomic and efficient vaccine carrying cool box for shorter 'last mile' journeys in low income countries such as Cameroon has close alignment to the 3rd sustainable development goal, as its overarching aim is to improve access to vaccines in places where this is currently difficult and vaccines often get spoilt on such journeys. 
 
 <p style="clear: both;">
 <br><img align="right" src="landing-page/Sustainable_Development_Goal_08DecentWork.svg.png" alt="SDG 8" width="200"/>
-</br>#
 </p>
 The development of a miniaturised SMILE is helping to "promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all" by enabling the equal access to vaccines, which will have a knock on effect on peoples ability to work, and therefore an increase in growth for low income countries. Access to healthcare is an advantage of living in a high income country that should be made a possibility in low income countries also, to enable equal working and growth opportunities.
 
 <p style="clear: both;">
 <br><img align="left" src="landing-page/Sustainable_Development_Goal_09Industry.svg.png" alt="SDG 9" width="200"/>
-</br>
 </p>
 The product is innovative as it fulfills a market need with an approach to the solution that is unlike other products in the same market. It demonstrates the use of innovation and technological development being used to help low income countries,reducing knowledge inequality by sharing solutions and technologies developed in a high income country. 
 
 <p style="clear: both;">
-<br>
 <br><img align="right" src="landing-page/Sustainable_Development_Goal_10ReducedInequalities.svg.png" alt="SDG 10" width="200"/>
 </p>
-</br></br>
 
 Reducing inequalities within and amoung countries is a goal that aligns with the aims of the miniaturised smile. By enabling more efficient provision of vaccines to rural villages and areas requiring health workers to hike with their equipment, the disparity between more populated areas with access to healthcare services and those with no or very limited access is reduced. By equalising availability of such services, the workforce is given equal opportunities to maintain their health and therefore also their jobs. Sharing knowledge and solutions from high income countries also decreases the knowledge gap between countries.
 
 <p style="clear: both;">
 <br><img align="left" src="landing-page/Sustainable_Development_Goal_12ResponsibleConsumption.svg.png" alt="SDG 12" width="200"/>
-</br>
 </p>
 The miniaturised smile has been designed for modularity, repair and resiliance, supporting circular economy sustainable design principles. By designing the product to be easily maintained, cleaned and repaired, modular and robust reduced waste produced and extends the product lifetime. The aim of the product is also to reduce the number of spoiled vaccines by storing them within an optimum temperature range, preserving valuable rescources.
 
@@ -49,8 +43,7 @@ The miniaturised smile has been designed for modularity, repair and resiliance, 
 </p>
 <br>
 <br>
-</br>
-</br>
+
 
 ## Features Section
 Our final design blended the original design and parts, with innovative solution to issues which no longer existed with the new application. We aimed to keep large portions of the design similar, so as to keep the branding and thermal performance, while ensuring our solutions were feasible.
