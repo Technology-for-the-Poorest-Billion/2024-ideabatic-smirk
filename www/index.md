@@ -40,7 +40,8 @@ The miniaturised smile has been designed for modularity, repair and resiliance, 
 <p style="clear: both;">
 <br>
 <br>
-
+</br>
+</br>
 
 ## Features Section
 Our final design blended the original design and parts, with innovative solution to issues which no longer existed with the new application. We aimed to keep large portions of the design similar, so as to keep the branding and thermal performance, while ensuring our solutions were feasible.
