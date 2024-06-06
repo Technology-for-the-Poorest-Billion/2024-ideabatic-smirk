@@ -2,6 +2,38 @@
 title: Market Research
 ---
 
+
+
+
+
+
+
+
+We began by talking to Kitty with what she would like us to do. She got
+us started on looking into the UK market, and what applications the box
+would work on. We looked into the currently available options, but none
+of them seemed appropriate. We asked for kittys market research, and
+found that typically vaccination travel rounds last for upwards of 5
+hours, which is already enough that a medic may not wish to extend this
+time further.
+
+We talked to personal connections we know to see if there would be a
+smaller personal ice box market, however this also backfired, as most
+people in that market would not need their medication cold dor much
+longer than a few hours, and can do so with a small box when on holiday
+etc.
+
+The conclusion we came to was that the NHS market was no good. We
+proposed a second market to Kitty of a third world country where the
+journeys are less dangerous than those currently taken, but still
+require a lot of vaccinations in one go. We then looked at current large
+capacity cold boxes, and how the existing smile addresses those issues.
+
+
+
+
+
+
 Market research:
 
 <table style="width:100%;">
