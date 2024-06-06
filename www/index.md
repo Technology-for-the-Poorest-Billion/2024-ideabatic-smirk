@@ -12,13 +12,38 @@ The SMile project is a project created by the start-up company Ideabatic. Their 
 Every day, thousands of vaccines are destroyed and rendered useless due to heat. The SMILE vaccine carrier aims to solve this by emphasising ease of use, limiting scope for human error, and improving comfort during carrying and transportation. The smile is used in long journeys which require many hours of walking to get to small villages without the easy access to modern medicine or vehicles. While the current box is fantastic for this use case, having such a large box that can last 5 days is not always suitable, where the majority of a journey will be done in a car before the walk. This is why we are aiming to bring all these features to a smaller, cheaper, and simpler version. The current [cold boxes](market_research.md) do not have significant presence ioptimised for markets like this, persenting an opportunity for the smaller Smile to help with transporting vaccines at a similar price point to the available market options, but with improved performance for the specific use case. The smile also has an advantage in being specifically designed for carrying over distances longer than a few hours, and not a short drive down the road from a GP office, since current carriers are, at best, inefficient cool boxes. 
 
 ## Sustainable development goals
-<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
-<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
-<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
-<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
-<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
+The project aim aligns with the following sustainable development goals: 
+<br>
+<br><img align="left" src="landing-page/Sustainable_Development_Goal_03GoodHealth.svg.png" alt="SDG 3" width="200"/>
+
+The mini smile provides most progress towards target 3.8: "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all". The development of this ergonomic and efficient vaccine carrying cool box for shorter 'last mile' journeys in low income countries such as Cameroon has close alignment to the 3rd sustainable development goal, as its overarching aim is to improve access to vaccines in places where this is currently difficult and vaccines often get spoilt on such journeys. 
+
+<p style="clear: both;">
+<br>  
+<br><img align="left" src="landing-page/Sustainable_Development_Goal_08DecentWork.svg.png" alt="SDG 8" width="200"/>
+
+The development of a miniaturised SMILE is helping to "promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all" by enabling the equal access to vaccines, which will have a knock on effect on peoples ability to work, and therefore an increase in growth for low income countries. Access to healthcare is an advantage of living in a high income country that should be made a possibility in low income countries also, to enable equal working and growth opportunities.
+
+<p style="clear: both;">
+<br>
+<br>
+<br><img align="left" src="landing-page/Sustainable_Development_Goal_09Industry.svg.png" alt="SDG 9" width="200"/>
+
+The product is innovative as it fulfills a market need with an approach to the solution that is unlike other products in the same market. It demonstrates the use of innovation and technological development being used to help low income countries,reducing knowledge inequality by sharing solutions and technologies developed in a high income country. 
+
+<p style="clear: both;">
+<br>
+<br>
+<br>
+<br><img align="left" src="landing-page/Sustainable_Development_Goal_10ReducedInequalities.svg.png" alt="SDG 10" width="200"/>
 
 
+
+<p style="clear: both;">
+
+<br><img align="left" src="landing-page/Sustainable_Development_Goal_12ResponsibleConsumption.svg.png" alt="SDG 12" width="200"/>
+
+<p style="clear: both;">
 
 ## Features Section
 Our final design blended the original design and parts, with innovative solution to issues which no longer existed with the new application. We aimed to keep large portions of the design similar, so as to keep the branding and thermal performance, while ensuring our solutions were feasible.
