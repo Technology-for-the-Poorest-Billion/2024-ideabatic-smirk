@@ -22,7 +22,7 @@ NEXT SLIDE
 
 I then performed further research on different mounting mechanisms as suggested at the interim presentation. It was decided that the requirements that the proposal *must* satisfy were:
 That it must carry the weight of the Miniature Smile.
-That it must be able to adjust to fit body size.​
+That it must be able to adjust to fit various body sizes.​
 That it must not significantly increase weight of Smile​.
 That it must not weigh more than the current backpack design for the larger Smile​.
 That it must be padded to provide comfortable fit for health worker​.
