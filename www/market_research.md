@@ -5,19 +5,15 @@ title: Market Research
 
 
 
-
-
-
-
 We began by talking to Kitty with what she would like us to do. She got
 us started on looking into the UK market, and what applications the box
-would work on. We looked into the currently available options, but none
+would work on. We looked into the potential options, but none
 of them seemed appropriate. We asked for kittys market research, and
 found that typically vaccination travel rounds last for upwards of 5
 hours, which is already enough that a medic may not wish to extend this
-time further.
+time further. There was also a lack of people in a position of buying power to ask futher questions with meaningful answers.
 
-We talked to personal connections we know to see if there would be a
+We then talked to personal connections we know to see if there would be a
 smaller personal ice box market, however this also backfired, as most
 people in that market would not need their medication cold dor much
 longer than a few hours, and can do so with a small box when on holiday

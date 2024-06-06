@@ -13,9 +13,9 @@ We began the cad modelling by creating a design for the carousel. the fins were 
 </p>
 <br><img align="left" src="Photos/cad-compartment.png" alt="Annotated hexagonal face of cooler" width="300"/>
 We then looked at making the compartments. Taking inspiration from the original design meant to slot in to the ribs, and adapting it to work with our shape. The inner and outer curvatures were 110 and 170mm, and instead of clips, we used small receses in the outer face of the carousel so that the compartme could be next to each other. 
-To ensure the compartments stay securely in the carousel, small divets for magnets would be put in the base of the compartment and the carousel so that they can snap back in place. Due to time constraints, we were not able to prototype this, but it would not be hard to make.
+To ensure the compartments stay securely in the carousel, small divets for magnets would be put in the base of the compartment and the carousel so that they can snap back in place. Due to time constraints, we were not able to prototype this, but it would not be hard to add.
 The compartment is designed to be very easy to manufacture, and very easy to produce. The entire shape is faceted, and the top handle is flat and so the entire piece could be made with a single 2-part injection mould.
-The handle has a number recessed into it for vaccine tracking, however thiw would nto be feasible in a real production run, so it could instead be printed on, or printed on the outer shell.
+The handle also has a number recessed into it for vaccine tracking, however this would not be feasible in a real production run, so it could instead be printed on the top, or printed on the outer shell. This would be somethine else that kitty would look at.
 
 
 
@@ -35,6 +35,6 @@ To counteract some of this weakness, we laser cut a circular base to glue onto t
 <br><img align="right" src="Photos/final-carousel-front.jpg" alt="Annotated hexagonal face of cooler" width="250"/>
 The inside of each carousel was then lined with foam. This let us test how the vaccine capsules fit, which turned out to be perfect. The thickness of the foam is variable, and so some options could mean that the vaccines were too loose, however for our layout we were able to fit bottles from 13mm-22mm in diameter with foam that was 9mm thick. 
 
-A massive upside of the design is that it also maintains the modularity of the original design, where if needed, syringes and needles can be carried in the same capsules, as they would also have a snug fit, and would be needed for a round trip.
+A key upside of the design is that it also maintains the modularity of the original design, where if needed, syringes and needles can be carried in the same capsules, as they would also have a snug fit, and would be needed for a round trip.
 
-The outer diameter of the carousel is the same as that of the lid, meaning that we can reuse the same design for them, simplyfying the production as these pieces would not need to be made. Since the carousel is now taller than the original smile, and we are keeping the lid, the whole box will be taller than it is wide, and so this would help emphasise the modulatiry of the straps, and would be something to be handed off to kitty, the project supervisor, to have a look at
+The outer diameter of the carousel is the same as that of the lid, meaning that we can reuse the same design for them, simplyfying the production as these pieces would not need to be made. Since the carousel is now taller than the original smile, and we are keeping the lid, the whole box will be taller than it is wide, and so this will need to be further explored, and will benefit from the modulatiry of the straps. This would be something to be handed off to kitty, the project supervisor, to have a look at when bringing some of these ideas to market.
