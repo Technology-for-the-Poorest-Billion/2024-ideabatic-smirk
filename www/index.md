@@ -11,10 +11,21 @@ The SMile project is a project created by the start-up company Ideabatic. Their 
 ## Aims of the project
 Every day, thousands of vaccines are destroyed and rendered useless due to heat. The SMILE vaccine carrier aims to solve this by emphasising ease of use, limiting scope for human error, and improving comfort during carrying and transportation. The smile is used in long journeys which require many hours of walking to get to small villages without the easy access to modern medicine or vehicles. While the current box is fantastic for this use case, having such a large box that can last 5 days is not always suitable, where the majority of a journey will be done in a car before the walk. This is why we are aiming to bring all these features to a smaller, cheaper, and simpler version. The current [cold boxes](market_research.md) do not have significant presence ioptimised for markets like this, persenting an opportunity for the smaller Smile to help with transporting vaccines at a similar price point to the available market options, but with improved performance for the specific use case. The smile also has an advantage in being specifically designed for carrying over distances longer than a few hours, and not a short drive down the road from a GP office, since current carriers are, at best, inefficient cool boxes. 
 
-We begun by performing a [thermal analysis](Daniel/Thermal_Analysis.md) and [mass analysis](Daniel/Mass_Analysis.md) to test the feasibility of such a Miniature Smile, and to get an initial estimate for its size and weight. From this analysis we concluded that the Miniature Smile would weigh about 2 kg and would need around 2.6 cm of insulation. When accounting for the reduced size of the ice pack used, this would bring the Miniature Smile's corner-to-corner diameter to around 30 cm. A [higher fidelity thermal analysis](temperature-analysis.md) was conducted using a [taylored heat transfer analysis software](mini_smile.ipynb) to test the proposed dimensions of the miniaturised smile.
+## Sustainable development goals
+<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
+<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
+<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
+<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
+<br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
+
+
 
 ## Features Section
 Our final design blended the original design and parts, with innovative solution to issues which no longer existed with the new application. We aimed to keep large portions of the design similar, so as to keep the branding and thermal performance, while ensuring our solutions were feasible.
+
+### Size reduction
+We begun by performing a [thermal analysis](Daniel/Thermal_Analysis.md) and [mass analysis](Daniel/Mass_Analysis.md) to test the feasibility of such a Miniature Smile, and to get an initial estimate for its size and weight. From this analysis we concluded that the Miniature Smile would weigh about 2 kg and would need around 2.6 cm of insulation. When accounting for the reduced size of the ice pack used, this would bring the Miniature Smile's corner-to-corner diameter to around 30 cm. A [higher fidelity thermal analysis](temperature-analysis.md) was conducted using a [taylored heat transfer analysis software](mini_smile.ipynb) to test the proposed dimensions of the miniaturised smile.
+
 
 ### Ice Pack
 <br><img align="right" src="landing-page/Ice-Pack.jpeg" alt="Annotated hexagonal face of cooler" width="300"/>
