@@ -108,8 +108,8 @@ Using foam inserts. this is a lot simpler, acts as insulation, and is incredibly
 
 
 Same benefits and issues as before, but is more versatile so can stuff anything within the small crevices of a thicker foam wrapped around. 
-<p style="clear: both;">
 
+<p style="clear: both;">
 <br><img align="left" src="Photos/proto-6.jpg" alt="Annotated hexagonal face of cooler" width="400"/>
 </p>
 
@@ -117,4 +117,56 @@ Same benefits and issues as before, but is more versatile so can stuff anything 
 
 Straps sewn onto foam could work quite well. If careful with it will last a long time, and can be easily fixed as the materials needed woul dbe very commonly found. Would be very cheap to produce, incredibly modular, much more versatile, with a much flatter profile. Startup cost much lower as nothing would be moulded brand new, but might end up being more expensive per part so would need to look at costing. The coam would have no gaps and so would act as a very good insulator, which if thin enough can keep the ice pack colder for longer without preventing cooling in the chamber.
 
+
+# Physical Prototyping
+After these sketches were done, some of the ideas were made into physical prototypes to test their effectiveness, and to outline any issues which may not have been apparent in the first run through
+
+## Puzzle Piece Design
+The first to be  made was the puzzle piece design. This was 3d printed out of a flexible filament which allowed us to simulate the felxible rubber that the attachment is already made of. We then placed these in the grooves to test how one flat piece would work with both designs curvatures
+<p style="clear: both;">
+<br><img align="left" src="Photos/puzzle-part-loaded.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
+<p style="clear: both;">
+<br><img align="left" src="Photos/puzzle-side.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
+Puzzle pieces were used at the edges to allow for flexibility and modulatiry with a potential future design. It also allowed the design to hypothetiocally be used for both the regular smile and the smaller smile if a redesign were to occur.
+
+### pros
+One major pro of this design is the high potential for modualrity. While the design is quite sensitive to small changes in curvature, the shallow curvature of the two sized shells means that it could hypothetically work for both. 
+The vaccines fit quite well in this design, and as a proof of concept it functioned quite well.
+
+### cons
+THis design had some major flaws. Since the dimensions were modeled against the current design which is already curved, the rubber sections overlapped, meaning that it would not be very easily manufactured. The solution we came up with would be to  have a predetermined curve baked into the design, which would both make it fit more securely, and allow it to be manufactured, however this seeemed to be too much added complexity for a solution which had no major benefit over just repurposing the current green ribs in a smaller shell.
+
+## syringe compartment
+The next part to be tested was a compartment which would be able to slot into the existing design (but could be easily repurposed for the smaller one) which would be able to carry the syringes
+<p style="clear: both;">
+<br><img align="left" src="Photos/red-top-view.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
+<p style="clear: both;">
+<br><img align="left" src="Photos/red-attachment-view.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
+
+This worked quite well, as the inside had a fair amount of room for this. As you can see in teh right image, the small gaps were designed to fit into the carousel, and potentially a lid would be placed to cap teh end, however it would be difficult to open with the current lid design on teh outer shell.
+<p style="clear: both;">
+<br><img align="left" src="Photos/foam-red-top.jpeg" alt="Annotated hexagonal face of cooler" width="400"/>
+</p>
+
+Olivia then took this design, and cut some foam to show how this capsule could then be used to carry vaccines. This was further explored in the final design we came up with, with each section being liftable, however it was not thought of at this point.
+
+### pros
+Pros of this design is that this smaller smiel can be more versatile in its use, which is needed when you would have smaller teams for these small trips, and les people can carry the extras such as the syringes and needles.
+
+### cons
+The main issues with this was that it would be too difficult to load and unload these sections, and the things placed in them would be free to move around, however this was rectified in the later revisions
+
+## foam plate with elastic straps
+
+The final quick iteration was the idea of a foam plate with elastic straps. Due to material availability, it was instead made with scraps of a tshirt, and some spare foam. 
+To do this, Olivia cut up some fabric, and attempted two thin sections, and a thicker section, and sewed it directly onto the foam. The foam fared surprisingly well and did not rip, meaning this would be feasible to produce at a reliabe scale. 
+
+### pros
+the pros are that it is cheap, modular, easy to undertand and usem, and repairable
+### cons
+cons are that the foam is porous, and it could end up beign expensive to make this at scale.
 
