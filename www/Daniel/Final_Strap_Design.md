@@ -1,4 +1,4 @@
-## Final Strap Prototype
+## Final Strap Design
 
 The suitcase-to-backpack conversion system design has been prototyped in cardboard and is shown below for the prototype Miniature Smile:
 
