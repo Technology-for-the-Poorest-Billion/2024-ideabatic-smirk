@@ -11,7 +11,7 @@ Functions the straps **must** perform:
 * Have strong attachments to Smile box
   
 Functions the straps **could** perform:
-* Provide option for shoulder carrying
+* Provide option for single-shoulder carrying
 * Provide option for backpack carrying
 * Have ability to fit larger smile by same attachments
 * Should carry the weight of the large Smile >3.5kg
@@ -37,7 +37,7 @@ Would fulfill:
 Would be challenging to fulfill:
 
 * Be padded to provide comfortable fit for health worker
-* Provide option for shoulder carrying
+* Provide option for single-shoulder carrying
 * Have ability to fit larger smile by same attachments
 * Integrate vaccine recording cards
 
