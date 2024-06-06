@@ -1,4 +1,5 @@
 # Heat transfer analysis
+By Olivia Ambler
 
 ## Objectives
 
@@ -194,7 +195,7 @@ The issue with this insulation thickness however, is its effect on the temperatu
 
 Due to the shrinkage of the bottle as it melts, there cannot always be a snug fit between the ice pack and the carousel inner chamber. This results in an air gap when the ice pack is melted, as is shown in the image below, taken of the large smile inner chamber:
 <br><img src="Photos/gap.png" alt="Gap between ice pack and carousel walls in large smile" width="300"/>
-<br>The gap surrounding a fully melted ice pack in the large smile is 5mm surrounding the bottle. A similar gap both for expansion and manufacturing tolerance will be included in the design for the minaturised smile.
+<br>The gap surrounding a fully melted ice pack in the large smile is 5mm surrounding the bottle. A similar gap both for expansion and manufacturing tolerance will be included in the design for the miniaturised smile.
 
 Considering worst case scenario for the heating of the vaccines: we assume full contraction in a radial direction and no contraction in the londitudinal direction:
 - On freezing the bottle will expand from 1 litre to 1.087 litres (approx 9% by vol) which results in a 4% radius increase. This space has been accounted for by a 5mm gap around the unexpanded bottle as it is likely the expansion will not be the same across the height of the bottle, so allows for more expansion at midsection.
