@@ -124,12 +124,12 @@ The door size could be increased as the side area of the miniature smile would b
 
 ### Alternative drawer carousel designs
 
-<img src="Photos/draw_set_1.png" alt="Fixing carousel" width="600"/>
-<img src="Photos/draw_set_2.png" alt="Fixing carousel" width="600"/>
+<br><img src="Photos/draw_set_1.png" alt="Fixing carousel" width="600"/>
+<br><img src="Photos/draw_set_2.png" alt="Fixing carousel" width="600"/>
 this design will be discussed further in the cad section as it was the design taken forward
 
-diffe
-<img src="Photos/draw_fill.png" alt="Fixing carousel" width="400"/>
+Different methods for holding the vaccines within individual drawers are considered below.
+<br><img src="Photos/draw_fill.png" alt="Fixing carousel" width="400"/>
 
 ### Alternative handle designs for draw mechanisms
 
