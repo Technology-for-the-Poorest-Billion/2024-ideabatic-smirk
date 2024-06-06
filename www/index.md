@@ -37,14 +37,18 @@ The product is innovative as it fulfills a market need with an approach to the s
 <br>
 <br><img align="right" src="landing-page/Sustainable_Development_Goal_10ReducedInequalities.svg.png" alt="SDG 10" width="200"/>
 
-
+Reducing inequalities within and amoung countries is a goal that aligns with the aims of the miniaturised smile. By enabling more efficient provision of vaccines to rural villages and areas requiring health workers to hike with their equipment, the disparity between more populated areas with access to healthcare services and those with no or very limited access is reduced. By equalising availability of such services, the workforce is given equal opportunities to maintain their health and therefore also their jobs. Sharing knowledge and solutions from high income countries also decreases the knowledge gap between countries.
 
 <p style="clear: both;">
-
+<br>
 <br><img align="right" src="landing-page/Sustainable_Development_Goal_12ResponsibleConsumption.svg.png" alt="SDG 12" width="200"/>
 
-<p style="clear: both;">
+The miniaturised smile has been designed for modularity, repair and resiliance, supporting circular economy sustainable design principles. By designing the product to be easily maintained, cleaned and repaired, modular and robust reduced waste produced and extends the product lifetime. The aim of the product is also to reduce the number of spoiled vaccines by storing them within an optimum temperature range, preserving valuable rescources.
 
+<p style="clear: both;">
+<br>
+<br>
+  
 ## Features Section
 Our final design blended the original design and parts, with innovative solution to issues which no longer existed with the new application. We aimed to keep large portions of the design similar, so as to keep the branding and thermal performance, while ensuring our solutions were feasible.
 
