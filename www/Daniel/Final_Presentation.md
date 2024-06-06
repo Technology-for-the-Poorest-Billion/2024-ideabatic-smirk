@@ -1,4 +1,10 @@
-
+Our solution has the following benefits:
+We have managed to reduce the total volume of the Smile by 53%, aiding transportation​.
+We have simplified the design by removing the side door so that it is less mechanically complex​.
+Our new strap system is lighter, less bulky and more comfortable than the backpack for the original Smile, reducing user fatigue when carried over long distances.
+The new strap system is simpler to produce so that an external contractor is no longer needed for the rucksack, reducing costs.
+​The carousel only exsposes the vaccines that are in use to the enviroment​
+We have improved the modularity of the design allowing for easier dissassembly, maintenance and cleaning.
 
 NEXT SLIDE
 
