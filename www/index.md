@@ -14,7 +14,7 @@ Every day, thousands of vaccines are destroyed and rendered useless due to heat.
 ## Sustainable development goals
 The project aim aligns with the following sustainable development goals: 
 <br>
-<br><img align="right" src="landing-page/Sustainable_Development_Goal_03GoodHealth.svg.png" alt="SDG 3" width="200"/>
+<br><img align="left" src="landing-page/Sustainable_Development_Goal_03GoodHealth.svg.png" alt="SDG 3" width="200"/>
 
 The mini smile provides most progress towards target 3.8: "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all". The development of this ergonomic and efficient vaccine carrying cool box for shorter 'last mile' journeys in low income countries such as Cameroon has close alignment to the 3rd sustainable development goal, as its overarching aim is to improve access to vaccines in places where this is currently difficult and vaccines often get spoilt on such journeys. 
 
@@ -27,7 +27,7 @@ The development of a miniaturised SMILE is helping to "promote sustained, inclus
 <p style="clear: both;">
 <br>
 <br>
-<br><img align="right" src="landing-page/Sustainable_Development_Goal_09Industry.svg.png" alt="SDG 9" width="200"/>
+<br><img align="left" src="landing-page/Sustainable_Development_Goal_09Industry.svg.png" alt="SDG 9" width="200"/>
 
 The product is innovative as it fulfills a market need with an approach to the solution that is unlike other products in the same market. It demonstrates the use of innovation and technological development being used to help low income countries,reducing knowledge inequality by sharing solutions and technologies developed in a high income country. 
 
@@ -41,7 +41,7 @@ Reducing inequalities within and amoung countries is a goal that aligns with the
 
 <p style="clear: both;">
 <br>
-<br><img align="right" src="landing-page/Sustainable_Development_Goal_12ResponsibleConsumption.svg.png" alt="SDG 12" width="200"/>
+<br><img align="left" src="landing-page/Sustainable_Development_Goal_12ResponsibleConsumption.svg.png" alt="SDG 12" width="200"/>
 
 The miniaturised smile has been designed for modularity, repair and resiliance, supporting circular economy sustainable design principles. By designing the product to be easily maintained, cleaned and repaired, modular and robust reduced waste produced and extends the product lifetime. The aim of the product is also to reduce the number of spoiled vaccines by storing them within an optimum temperature range, preserving valuable rescources.
 
