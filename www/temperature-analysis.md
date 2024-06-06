@@ -206,36 +206,72 @@ The thermal properties of the materials in this gap are found to have a large im
 The comparison for the temperature profile in a radial direction is shown for a gap filled with air (left) and a gap filled with a material with a higher thermal conductivity (i.e. silicon foam with a thermal conductivity of 0.3 W/mK):
 
 Lower bound (for 3.5cm insulation) air gap:
-<br><img src="Photos/air_gap_3.5_LB.png" alt="Effect of air gap on lower bound analysis" width="300"/>
+<br><img src="Photos/air_gap_3.5_LB.png" alt="Effect of air gap on lower bound analysis" width="500"/>
 
 Upper bound (for 3.5cm insulation) air gap:
-<br><img src="Photos/air_gap_3.5_UB.png" alt="Effect of air gap on upper bound analysis" width="300"/>
+<br><img src="Photos/air_gap_3.5_UB.png" alt="Effect of air gap on upper bound analysis" width="500"/>
 
 Lower bound (for 3.5cm insulation) foam gap:
-<br><img src="Photos/foam_gap_3.5_LB.png" alt="Effect of conductive foam gap on lower bound analysis" width="300"/>
+<br><img src="Photos/foam_gap_3.5_LB.png" alt="Effect of conductive foam gap on lower bound analysis" width="500"/>
 
 Upper bound (for 3.5cm insulation) foam gap:
-<br><img src="Photos/gap_gap_3.5_UB.png" alt="Effect of conductive foam gap on upper bound analysis" width="300"/>
+<br><img src="Photos/gap_gap_3.5_UB.png" alt="Effect of conductive foam gap on upper bound analysis" width="500"/>
 
-This investgation suggests the average chamber temperature for 3.5cm insulation, when the gap between ice pack and carousel is air filled, is **6.5 degrees C < T < 10 degrees C**. When the gap between ice pack and carousel is filled with conductive silicone foam, the average temperature of the vaccine chamber is **2 degrees C < T < 7.5 degrees C**. This shows that filling the gap with a conductive material is beneficial to making the temperature the vaccines will be stored at lie within the limits of 2 - 8 degrees C. Requirements for the material filling this gap are that it has a high thermal conductivity e.g. 0.3 W/mK, and a high compressibility to allow for bottle expansion and shrinkage. An investigation into potential materials is conducted below.
+|Gap material|Thermal conductivity (W/mK)|Analysis type|Total heat transfer rate (J/s)|Cool time (hours)|avg chamber temperature (degrees C)|
+|---|---|---|---|---|---|
+|Air|0.2474|LB|1.850|67.1|10|
+|||UB|2.730|45.5|6.5|
+|Silicone foam|0.3|LB|1.973|62.9|7.5|
+|||UB|3.154|39.4|2|
+
+This investigation suggests the average chamber temperature for 3.5cm insulation, when the gap between ice pack and carousel is air filled, is **6.5 degrees C < T < 10 degrees C**. When the gap between ice pack and carousel is filled with conductive silicone foam, the average temperature of the vaccine chamber is **2 degrees C < T < 7.5 degrees C**. This shows that filling the gap with a conductive material is beneficial to making the temperature the vaccines will be stored at lie within the limits of 2 - 8 degrees C. The disadvantage of replacing the air gap with a thermaally conductive material is the increase in heat transfer rate to the smile box, resulting in a decrease in cool life. The upper bound analysis for the silicon foam filled gap gives a minimum cool time of 39.4 hours which is still sufficient for completing 24 hour last mile journeys. This suggests the benefits to the reduction in vaccine chamber temperature outweigh the loss of cool life for the specific project brief. 
+
+Requirements for the material filling this gap are that it has a high thermal conductivity e.g. 0.3 W/mK, and a high compressibility to allow for bottle expansion and shrinkage. An investigation into potential materials is conducted below.
 
 ## Ice pack chamber gap material reseach
 
+#### Thermally conductive silicone sponge 4.8mm thick
+The full technical specification and sizing can be found at: https://therubbercompany.com/sponge-foam/silicone-sponge/thermally-conductive-silicone-sponge
 
-<br>Q_dot_r: 1.041805845369173 J/s
+<br><img src="Photos/Thermally-Conductive-Silicone-Sponge-2.jpeg" alt="Effect of air gap on upper bound analysis" width="300"/>
 
-This gives a cool life, with the vaccines below 8 degrees C, of **61.3 hours**.
+<br>Thermal properties depend on compression strain as follows:
 
+|Compression|Thermal conductivity|
+|----|----|
+|Contact compression|0.30 W/mK|
+|10% compression|0.40 W/mK|
+|25% compression|0.45 W/mK|
+|50% compression|0.65 W/mK|
 
-# Next steps
+As the radial dimension of the bottle does not increase significantly, it is expected that the thermal conductivity will increase to 0.40 W/mK at a maximum and reduce to 0.30 W/mK at a minimum, making this a well suited material to the task. THe material will be anisotropically compressed due to fitting around the cylindrical container so this should be taken into account for its effect on thermal properties. A quote would have to be obtained to find the price of this material and thus determine its viability as an option.
 
-Produce analysis with convective heat transfer in vaccine chamber to produce an upper bound for heat transfer.
+#### Highly compressible thermal gap pads 5mm thick
+The full technical specification and sizing can be found at: https://therubbercompany.com/sponge-foam/silicone-sponge/thermally-conductive-silicone-sponge
 
-Investigate materials to support bottle in cavity - high thermal conductivity but also compressibility
+<br><img src="Photos/TGP1500--Thermal-Gap-Pad-1.jpeg" alt="Effect of air gap on upper bound analysis" width="300"/>
 
-Prototype bottle support mechanism with this in mind
+<br>The thermal conductivity of the pads is 1.5 W/mK. The sheet is naturally tacky, so easy to install on inside wall of chamber but could require protective fabric layer to prevent wearing from bottle moving in and out with each refil. A quote would have to be obtained to find the price of this material and thus determine its viability as an option.
 
-Perform experiments to measure expansion of bottle when frozen, once the ordered bottle arrives.
+#### ThermaCool R10404 closed cell silicone sponge 4.8mm thick
+This is a thermally conductive closed-cell silicone sponge rubber. The product spefication can be found at: https://www.tapesolutions.saint-gobain.com/na/products/gasketing-foams/silicone/thermally-conductive-silicone/r10404
 
+<br><img src="Photos/ThermaCool.jpeg" alt="Effect of air gap on upper bound analysis" width="300"/>
+
+<br>Thermal properties depend on compression strain as follows:
+
+|Compression|Thermal conductivity|
+|----|----|
+|10% compression|0.36 W/mK|
+|30% compression|0.52 W/mK|
+|50% compression|0.86 W/mK|
+
+The closed call nature of this foam will help ptovide durability against the condensation from the ice pack. A quote would have to be obtained to find the price of this material and thus determine its viability as an option.
+
+## Summary of findings
+
+The materials considered have been considered independent of price, so to assess viability, quote would need to be obtained for all options. As well as reducing the temperature of the vaccine chamber, using a foam or sponge to fill the gap between ice pack and carousel inner wall, the potential for the bottle to move around in the chaamber is reduced as the stiffness of the foam will help to centre the bottle within the chamber. 
+
+If the price of these materials or others with the compressibility and thermal conductivity requirements is too high to consider them for use in the small smile, the outer insulation can be made thicker as this also has the effect of reducing the temperature of the vaccine chamber as discussed eaarlier. 4cm thick radial insulation was found to maintain the vaccine chamber average temperature much closer to a value within the optimum range, so this could be used as an alternative at the loss of some overall size reduction.
 
 

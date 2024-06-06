@@ -35,14 +35,7 @@ The inside of the carousel was also layered with some foam. This allows for the 
 
 ### Transportion
 <br><img align="left" src="Photos/IMG-20240605-WA0004.jpg" alt="" width="300"/>
-The backpack produced for the original Smile added some comfort while carrying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we devised a different way to carry the Miniature Smile. This idea was based on [initial strap design](Strap_Design.md) [further research and prototyping of carrying-method](Strap_Research.md)
-(waitning for wednesday to finish)
-
-
-
-### Backback design with how it will strap on and comfort etc.
-Talk about how it'll be attached, and how it will remain vaguely comfortable. [Links to prototyping and more detail about attachment mechanisms]
-
+The backpack produced for the original Smile added some comfort while carrying, and allowed for important information to be written on the top, with added capacity for a biohazard box for the needles and syringes used. It was quite expensive and bulky though, and so we devised a different way to carry the Miniature Smile. An [initial strap-system](Daniel/Initial_Strap_Prototype.md) was devised and prototyped for the Miniature Smile whereby straps which were modular, removable and interchangeable were attached to the casing of the Miniature Smile using hook-like attachment points which could be glued on. These hook-like attachment points could be glued onto both the original and the Miniature Smile and straps could be interchanged between the two, making the design modular. These modular attachment points allowed the user to pick whichever strap was most comfortable and attach this to the box. After testing of this prototype, however, it was noticed that there was insufficient support around the user's lower back, causing pain during usage. To combat this problem [alternative methods of carrying the Miniature Smile](Daniel/Further_Strap_Research.md) were explored. The [final design](Daniel/Final_Strap_Prototype.md), shown to the left, was based on suitcase-to-backpack conversion systems whereby the Miniature Smile is mounted on a backpack unit using 3 straps which wrap around each of the box's 6 side faces. This proved to be more comfortable than the inital design, and is similar to the design that last year's group settled on.
 
 
 ## Road to miniaturising
@@ -66,10 +59,7 @@ Keep it concise and engaging.
 Goals and where applicable with the UNICEF principles for Digital Development. ~500
 words, attached to the web page.
 
-• Statement about project management, explain the team work strategy. Reflect on
-what worked and what didn’t work, drawing constructive recommendations where
-possible. ~500 words, included in the webapge, git repo or github wiki:
-
+[Statement about project management](Daniel/Project_Management_Statement.md):
 We begun the project by identifying the strengths and weaknesses of the members of our group. We found that we all had similar interests in mechanical engineering and design, as well as similar skillsets, having mainly taken overlapping modules. This led us to work collaboratively at the start of the project, working as a group to identify a project proposal and work that needed to be done to reach that endpoint. On reflection, this style of working was good to have at the beginning of the project as it ensured that we were on the same page with regards to the direction we wanted the project to go in. In future, perhaps working as closely as we did was not necessary and maybe we would have been more productive if we had allocated some of this work to complete individually. Overall, however, I think that the strategy we employed worked well.
 
 As we became more deeply involved with the project the amount of work that was allocated to be completed individually increased. This was because we thought that by focussing our concentration on specific aspects of the project we would increase our productivity and make more progress on the project. At this stage the scope of the project was very well defined, having worked collaboratively for the first part of the project, and as such we were able to complete this individual work without any misunderstandings in what we were each expected to do. At this stage of the project Daniel was tasked with performing a high-level thermal analysis, a high-level mass analysis, and creating a prototype of the Miniature Smile along with a pair of prototype straps so that the Miniature Smile could be mounted on the user's back for transportation. Olivia was tasked with completing an in-depth thermal analysis of both the original Smile and the Miniature Smile using the design parameters extracted from Daniel's high-level thermal analysis. Caio completed some more market research to further pinpoint the market we were targeting, and also started worked on making a modular carousel which could be used in both the original and Miniature Smile. What went well was that we were each able to make good progress in the areas we had been assigned, however the individual nature of the work we had performed at this stage became clear at the Interim Presentation when we struggled to tie together the work we had done. Perhaps it would have been better if we'd scheduled more frequent catch-up meetings to discuss how all of our work tied together so that we had a more coherent project for the Interim Presentation.

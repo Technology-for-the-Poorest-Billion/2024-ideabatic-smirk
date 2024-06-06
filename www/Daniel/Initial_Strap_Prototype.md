@@ -1,12 +1,12 @@
-## Strap Design
+## Initial Strap Prototype
 
-I have started prototyping different modular strap designs to test for both the Smile and the Mini Smile. I started by creating a mock-up of the Mini Smile out of cardboard, shown below:
+I started prototyping different modular strap designs to test for both the Smile and the Mini Smile. I started by creating a mock-up of the Mini Smile out of cardboard, shown below:
 
 ![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/IMG_20240525_181334368.jpg)
 
 ![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/IMG_20240525_181316953.jpg)
 
-I then designed and prototyped modular attaching clips which can be glued to botht the Smile and the Mini Smile. These allow interchangeable straps to be attached to the Mini Smile/Smile, and thus allow user customisability to attach whatever strap configuration is most comfortable for them. The straps can also be removed, allowing the box to be used un-altered as before. Photographs of the attachment points are below:
+I then designed and prototyped modular attaching clips which can be glued to both the Smile and the Mini Smile. These allow interchangeable straps to be attached to the Mini Smile/Smile, and thus allow user customisability to attach whatever strap configuration is most comfortable for them. The straps can also be removed, allowing the box to be used un-altered as before. Photographs of the attachment points are below:
 
 ![](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-smirk/blob/main/www/Photos/IMG_20240525_181409278.jpg)
 
