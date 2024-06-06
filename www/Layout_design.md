@@ -122,14 +122,39 @@ Two locking mechanisms are considered for a design in which the side door is rem
 The door size could be increased as the side area of the miniature smile would be significantly reduced compared with the current smile
 <br><img src="Photos/doors.png" alt="Fixing carousel" width="500"/>
 
-### Alternative drawer carousel designs
 
+## Alternative drawer carousel designs
+
+### Rotating lid, drawer design
+The following design is one with a rotating top lid that has a hole for acessing compartments 1 by one as it is rotated.
 <br><img src="Photos/draw_set_1.png" alt="Fixing carousel" width="600"/>
-<br><img src="Photos/draw_set_2.png" alt="Fixing carousel" width="600"/>
-this design will be discussed further in the cad section as it was the design taken forward
 
+#### Pros
+* Only one set of vaccines is exposed at any one time
+* Side door is removed so radial insulation can be axisymmetric and 
+
+#### Cons
+* Each draw has to include its own section of insulation above it, this will be detrimental to the thermal insulation above the vaccine chamber as the insulation will have many gaps between drawer sections
+* more design would have to be done to determine how the ice pack could be easily removed for freezing
+
+## Removable lid, drawer design
+The following design has a removable lid, with the same dimensions of that in the larger smile, and the carousel consists of a number of drawers that can be removed individually.
+<br><img src="Photos/draw_set_2.png" alt="Fixing carousel" width="600"/>
+
+#### Pros
+* reduced number of parts in design significantly - removed door
+* beneficial simplification for miniaturisation of design
+* carousel components can be removed for easy cleaning
+* 
+
+#### Cons
+* reduced
+
+  
 Different methods for holding the vaccines within individual drawers are considered below.
 <br><img src="Photos/draw_fill.png" alt="Fixing carousel" width="400"/>
+This design will be discussed further in the cad section as it was the design taken forward for prototyping.
+
 
 ### Alternative handle designs for draw mechanisms
 
