@@ -155,7 +155,7 @@ The following design has a removable lid, with the same dimensions of that in th
   
 Different methods for holding the vaccines within individual drawers are considered below.
 <br><img src="Photos/draw_fill.png" alt="Fixing carousel" width="400"/>
-This design will be discussed further in the cad section as it was the design taken forward for prototyping.
+<br>This design will be discussed further in the cad section as it was the design taken forward for prototyping.
 
 
 ### Alternative handle designs for draw mechanisms
