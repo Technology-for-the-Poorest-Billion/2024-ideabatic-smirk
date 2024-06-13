@@ -145,10 +145,12 @@ The following design has a removable lid, with the same dimensions of that in th
 * reduced number of parts in design significantly - removed door
 * beneficial simplification for miniaturisation of design
 * carousel components can be removed for easy cleaning
-* 
+* symmetric design for easy manufacture
+* Insulation can be the same thickness the whole way around, as there is no side door, reducing size
 
 #### Cons
-* reduced
+* Insulative layer removed from ends of all chambers when one is retrieved - however the individual chambers will remain shut and reduce mixing with outer air
+
 
   
 Different methods for holding the vaccines within individual drawers are considered below.
